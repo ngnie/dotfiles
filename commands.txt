@@ -1,0 +1,20 @@
+lsblk
+lspci
+sudo fdisk -l
+sudo mount /dev/sda /mnt -o rw,umask=0
+sudo systemctl --type=service
+sudo pacman -Q
+~/ngr/bin/package-dependency.sh
+~/ngr/bin/packages-installed.sh
+~/ngr/bin/packages-not-installed.sh
+sudo pacman -Syu
+pamixer -i 10
+pamixer -d 10
+pacman -Syu
+xrandr --output DP-0 --brightness 0.9
+xrandr --output DP-0 --brightness 0.5
+xrandr --listactivemonitors
+xrandr --verbose | grep -i brightness | cut -f2 -d ' ' | head -n1
+fc-match -a
+fc-list
+sudo netstat -nlp

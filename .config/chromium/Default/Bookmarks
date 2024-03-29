@@ -1,0 +1,2757 @@
+{
+   "checksum": "d768ed678088961492666fd403bc5900",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13352726830528309",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13353067342332609",
+                        "date_last_used": "0",
+                        "guid": "167f267b-2a92-4fd5-a7d0-26a441e83b30",
+                        "id": "59",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Setting up Kafka on Docker for Local Development | HackerNoon",
+                        "type": "url",
+                        "url": "https://hackernoon.com/setting-up-kafka-on-docker-for-local-development"
+                     }, {
+                        "children": [ {
+                           "date_added": "13353067612506721",
+                           "date_last_used": "0",
+                           "guid": "d647f939-4f94-4aae-b458-e78c49b03cc2",
+                           "id": "65",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "How to mount volumes for Kafka docker images - Ops / Containers - Confluent Community",
+                           "type": "url",
+                           "url": "https://forum.confluent.io/t/how-to-mount-volumes-for-kafka-docker-images/1190/3"
+                        }, {
+                           "date_added": "13353067633495061",
+                           "date_last_used": "0",
+                           "guid": "6488255d-aa34-4239-b27e-a5fc0aedbfe4",
+                           "id": "67",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Mounting Docker External Volumes | Confluent Documentation",
+                           "type": "url",
+                           "url": "https://docs.confluent.io/platform/current/installation/docker/operations/external-volumes.html?_ga=2.202197073.172443067.1708593853-1076884327.1708593853#data-volumes-for-kafka-and-zk"
+                        }, {
+                           "date_added": "13353067637302566",
+                           "date_last_used": "0",
+                           "guid": "65704310-bfc9-4627-9edb-aa71e2f8e9d7",
+                           "id": "68",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "apache kafka - Docker compose doesn't save data in volume - Stack Overflow",
+                           "type": "url",
+                           "url": "https://stackoverflow.com/questions/61002881/docker-compose-doesnt-save-data-in-volume/61008432#61008432"
+                        } ],
+                        "date_added": "13353067623764290",
+                        "date_last_used": "0",
+                        "date_modified": "13353072881449191",
+                        "guid": "12e1284f-adc0-4830-9ce7-869e5e6446f5",
+                        "id": "66",
+                        "name": "mount",
+                        "type": "folder"
+                     } ],
+                     "date_added": "13353067361870115",
+                     "date_last_used": "0",
+                     "date_modified": "13353067367519382",
+                     "guid": "8368f91b-b7f4-480c-8cfa-c00b9fbe5ac0",
+                     "id": "61",
+                     "name": "kafka",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13353067367519382",
+                        "date_last_used": "0",
+                        "guid": "bfb47ca1-9422-411a-858e-8a3ce4aa2cbb",
+                        "id": "62",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Tools - WxWiki",
+                        "type": "url",
+                        "url": "https://wiki.wxwidgets.org/Tools"
+                     }, {
+                        "date_added": "13353067387563844",
+                        "date_last_used": "0",
+                        "guid": "64654ff9-147c-4223-b74f-e3c3504b64e8",
+                        "id": "64",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - wxFormBuilder/wxFormBuilder: A wxWidgets GUI Builder",
+                        "type": "url",
+                        "url": "https://github.com/wxFormBuilder/wxFormBuilder"
+                     } ],
+                     "date_added": "13353067382049814",
+                     "date_last_used": "0",
+                     "date_modified": "13353067612506721",
+                     "guid": "a6755793-e0c8-4548-8de8-16043571aeab",
+                     "id": "63",
+                     "name": "GUI",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "children": [ {
+                           "date_added": "13352747735435001",
+                           "date_last_used": "0",
+                           "guid": "40a8c560-dfdd-4b6f-8581-731811f0e265",
+                           "id": "5",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Test Driven Development - TDD - GoogleTest Introduction with CMake LINUX - C++ - GMOCK - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=zfgFphZ63UY"
+                        }, {
+                           "date_added": "13352747773772289",
+                           "date_last_used": "0",
+                           "guid": "d6ac6fa7-3fee-4847-9da8-df2a1de089ae",
+                           "id": "10",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "PhysicsX (physicsX) · GitHub",
+                           "type": "url",
+                           "url": "https://github.com/PhysicsX"
+                        }, {
+                           "date_added": "13352747787289925",
+                           "date_last_used": "0",
+                           "guid": "7cabd603-f5ee-4921-9324-27c364a85e49",
+                           "id": "11",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "GoogleTest User’s Guide | GoogleTest",
+                           "type": "url",
+                           "url": "https://google.github.io/googletest/"
+                        }, {
+                           "date_added": "13352748525553633",
+                           "date_last_used": "0",
+                           "guid": "c513e149-ff69-4e39-93e5-0fbdea7fa0b7",
+                           "id": "12",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Do you even test? (your code with CMake) - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=pxJoVRfpRPE"
+                        }, {
+                           "date_added": "13352748611892201",
+                           "date_last_used": "0",
+                           "guid": "c215f61d-d1ed-40b7-8d01-b475c6e21c61",
+                           "id": "13",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Basic C++ Unit Testing with GTest, CMake, and Submodules - DEV Community",
+                           "type": "url",
+                           "url": "https://dev.to/tythos/basic-c-unit-testing-with-gtest-cmake-and-submodules-4767"
+                        }, {
+                           "date_added": "13352766155282438",
+                           "date_last_used": "0",
+                           "guid": "3d8745f7-a021-48c9-927c-29f8ec9ae688",
+                           "id": "15",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "DRTV - Stream TV online her | DRTV",
+                           "type": "url",
+                           "url": "https://www.dr.dk/drtv/"
+                        } ],
+                        "date_added": "13352747771920764",
+                        "date_last_used": "0",
+                        "date_modified": "13352768028054128",
+                        "guid": "7b226146-a230-4ec4-9e4a-2f5344083741",
+                        "id": "9",
+                        "name": "unitTest",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13352768028054128",
+                           "date_last_used": "0",
+                           "guid": "377c7852-2606-4588-a6c2-3db31c69be18",
+                           "id": "16",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Linux Socket Programming In C++ LG #74",
+                           "type": "url",
+                           "url": "https://tldp.org/LDP/LG/issue74/tougher.html"
+                        } ],
+                        "date_added": "13352768040193113",
+                        "date_last_used": "0",
+                        "date_modified": "13352892587030502",
+                        "guid": "a7f4a9a6-f3b4-4a5d-9118-b92b16d5e217",
+                        "id": "17",
+                        "name": "socket",
+                        "type": "folder"
+                     } ],
+                     "date_added": "13352747771920737",
+                     "date_last_used": "0",
+                     "date_modified": "13352747771920737",
+                     "guid": "b54ec19c-833c-48a1-8709-036ca5d54516",
+                     "id": "8",
+                     "name": "cpp",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13353163718176837",
+                        "date_last_used": "0",
+                        "guid": "f71457da-b82f-4bdd-bc48-faefded541c2",
+                        "id": "92",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Using libpcap in C | DevDungeon",
+                        "type": "url",
+                        "url": "https://www.devdungeon.com/content/using-libpcap-c"
+                     }, {
+                        "date_added": "13353163746352601",
+                        "date_last_used": "0",
+                        "guid": "90519a54-cd9c-4e96-80c9-3df2561953c8",
+                        "id": "94",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Home | TCPDUMP & LIBPCAP",
+                        "type": "url",
+                        "url": "https://www.tcpdump.org/index.html"
+                     }, {
+                        "date_added": "13353238481313447",
+                        "date_last_used": "0",
+                        "guid": "2b350887-25aa-4e6a-bbf9-9fafdaf758a4",
+                        "id": "96",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Using fzf with Git - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=WFy6JXBRSJc&ab_channel=WestDRI"
+                     } ],
+                     "date_added": "13353163737834399",
+                     "date_last_used": "0",
+                     "date_modified": "13353238488033014",
+                     "guid": "c7b0494f-7feb-481a-8ae9-de5f77938e0d",
+                     "id": "93",
+                     "name": "libpcap",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13353067361869990",
+                  "date_last_used": "0",
+                  "date_modified": "13353240587820407",
+                  "guid": "ce9bf2bd-ad70-432f-9151-8f06b1138caa",
+                  "id": "60",
+                  "name": "development",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13352892587030502",
+                        "date_last_used": "0",
+                        "guid": "3a2f5684-bd2e-4b5b-9128-72d50ae3fd94",
+                        "id": "19",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Find anything you need with fzf, the Linux fuzzy finder tool | Enable Sysadmin",
+                        "type": "url",
+                        "url": "https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13353238488033014",
+                           "date_last_used": "0",
+                           "guid": "fa1054af-580f-4cae-8957-3b970fdee0fe",
+                           "id": "97",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Using fzf with Git - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=WFy6JXBRSJc&ab_channel=DistroTube"
+                        } ],
+                        "date_added": "13353238502048310",
+                        "date_last_used": "0",
+                        "date_modified": "13353238578481391",
+                        "guid": "f740b0c1-a889-4f1e-8c4b-a8d1048d26db",
+                        "id": "98",
+                        "name": "git",
+                        "type": "folder"
+                     }, {
+                        "date_added": "13353238578481391",
+                        "date_last_used": "0",
+                        "guid": "316b4536-c60f-4deb-9f88-39d5c0359950",
+                        "id": "99",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "How to install and use fzf: the command-line fuzzy finder - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=1a5NiMhqAR0&ab_channel=TheModernCoder"
+                     }, {
+                        "date_added": "13353240406988878",
+                        "date_last_used": "0",
+                        "guid": "a2467fcd-29ef-420e-8132-2c3690a5b36a",
+                        "id": "100",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Tmux has forever changed the way I write code. - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=DzNmUNvnB04&ab_channel=DreamsofCode"
+                     }, {
+                        "date_added": "13353240691967222",
+                        "date_last_used": "0",
+                        "guid": "cd8baf8c-7b67-47cb-bee3-b7f540015f41",
+                        "id": "102",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "tmux/tmux.conf at main · dreamsofcode-io/tmux · GitHub",
+                        "type": "url",
+                        "url": "https://github.com/dreamsofcode-io/tmux/blob/main/tmux.conf"
+                     } ],
+                     "date_added": "13352892605276939",
+                     "date_last_used": "0",
+                     "date_modified": "13353268528900841",
+                     "guid": "320a5c40-a894-455d-a292-a691a308075b",
+                     "id": "20",
+                     "name": "fzf",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13353240477685894",
+                  "date_last_used": "0",
+                  "date_modified": "13353240481457647",
+                  "guid": "12cc57cf-ec9b-4d26-9842-e0a25ad05a3e",
+                  "id": "101",
+                  "name": "workflow",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "children": [ {
+                           "date_added": "13353061364318771",
+                           "date_last_used": "0",
+                           "guid": "2a64b456-4249-429c-a149-96324ea16723",
+                           "id": "42",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "How To Configure Packet Filter (PF) on FreeBSD 12.1 | DigitalOcean",
+                           "type": "url",
+                           "url": "https://www.digitalocean.com/community/tutorials/how-to-configure-packet-filter-pf-on-freebsd-12-1"
+                        }, {
+                           "date_added": "13353061506398836",
+                           "date_last_used": "0",
+                           "guid": "9d473409-8f05-4213-a553-b397184e7b64",
+                           "id": "45",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "FreeBSD Firewall Configuration with PF - zenarmor.com",
+                           "type": "url",
+                           "url": "https://www.zenarmor.com/docs/network-security-tutorials/freebsd-firewall-configuration-with-pf"
+                        }, {
+                           "date_added": "13353061517589158",
+                           "date_last_used": "0",
+                           "guid": "7a1f8243-0f50-457b-8f62-59fff01cf655",
+                           "id": "46",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Chapter 33. Firewalls | FreeBSD Documentation Portal",
+                           "type": "url",
+                           "url": "https://docs.freebsd.org/en/books/handbook/firewalls/"
+                        }, {
+                           "date_added": "13353062038531415",
+                           "date_last_used": "0",
+                           "guid": "179891bc-5947-40ad-ab2a-d0186a1801c8",
+                           "id": "47",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Sample FreeBSD pf firewall configuration · GitHub",
+                           "type": "url",
+                           "url": "https://gist.github.com/fcayci/da6999528450ed30d1b2"
+                        }, {
+                           "date_added": "13353062081053337",
+                           "date_last_used": "0",
+                           "guid": "af1410ba-225f-4c34-b962-bc75d9f35cb4",
+                           "id": "48",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "An Introduction to Packet Filter (PF) | FreeBSD Foundation",
+                           "type": "url",
+                           "url": "https://freebsdfoundation.org/resource/an-introduction-to-packet-filter-pf/"
+                        }, {
+                           "date_added": "13353062102874888",
+                           "date_last_used": "0",
+                           "guid": "dad4e756-c687-43ce-806d-ac9f8093eef7",
+                           "id": "49",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "How To Set Up PF Firewall on FreeBSD to Protect a Web Server - nixCraft",
+                           "type": "url",
+                           "url": "https://www.cyberciti.biz/faq/how-to-set-up-a-firewall-with-pf-on-freebsd-to-protect-a-web-server/"
+                        }, {
+                           "date_added": "13353062160322392",
+                           "date_last_used": "0",
+                           "guid": "f4e67aec-bd83-412d-82a6-ae554166710f",
+                           "id": "50",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Pf Firewall for FreeBSD, OpenBSD @ Calomel.org",
+                           "type": "url",
+                           "url": "https://calomel.org/pf_config.html"
+                        }, {
+                           "date_added": "13353062186799476",
+                           "date_last_used": "0",
+                           "guid": "55ce7ffc-ff04-45df-b6d6-412eab15a716",
+                           "id": "51",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "How to configure the PF firewall on FreeBSD - Admin... by accident!",
+                           "type": "url",
+                           "url": "https://www.adminbyaccident.com/freebsd/how-to-freebsd/how-to-configure-the-pf-firewall-on-freebsd/"
+                        }, {
+                           "date_added": "13353062241253064",
+                           "date_last_used": "0",
+                           "guid": "07d65165-1e01-4b76-974c-ae1bbfebb2f8",
+                           "id": "52",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "PF - pf firewall basic understanding | The FreeBSD Forums",
+                           "type": "url",
+                           "url": "https://forums.freebsd.org/threads/pf-firewall-basic-understanding.83059/"
+                        }, {
+                           "date_added": "13353062294218498",
+                           "date_last_used": "0",
+                           "guid": "ba8c78db-6b2d-439d-8066-ea1c19071844",
+                           "id": "53",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "A Beginner's Guide to Firewalling with pf",
+                           "type": "url",
+                           "url": "https://srobb.net/pf.html"
+                        }, {
+                           "date_added": "13353062326112787",
+                           "date_last_used": "0",
+                           "guid": "58680930-f3a5-40ef-b5f8-535076b804cd",
+                           "id": "54",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Getting Started with the pf Firewall | Vultr Docs",
+                           "type": "url",
+                           "url": "https://docs.vultr.com/getting-started-with-the-pf-firewall"
+                        }, {
+                           "date_added": "13353062376675396",
+                           "date_last_used": "0",
+                           "guid": "5f45b632-6a49-4ca7-b3e2-31ee18f8dc71",
+                           "id": "55",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "OpenBSD PF: Getting Started",
+                           "type": "url",
+                           "url": "https://www.openbsd.org/faq/pf/config.html"
+                        }, {
+                           "date_added": "13353062417479145",
+                           "date_last_used": "0",
+                           "guid": "960e4a14-c3cc-4a07-bf29-f5f78881d86c",
+                           "id": "56",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "FreeBSD Firewall Configuration with IPF - zenarmor.com",
+                           "type": "url",
+                           "url": "https://www.zenarmor.com/docs/network-security-tutorials/freebsd-firewall-configuration-with-ipf"
+                        } ],
+                        "date_added": "13353061381476670",
+                        "date_last_used": "0",
+                        "date_modified": "13353063811431122",
+                        "guid": "81cbacbb-dbc9-40bd-b64c-adf7108b8e43",
+                        "id": "44",
+                        "name": "pf",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13353114552625161",
+                           "date_last_used": "0",
+                           "guid": "fece1ef9-1cd4-45e3-8a38-e599a11b66df",
+                           "id": "73",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Iptables Essentials: Common Firewall Rules and Commands | DigitalOcean",
+                           "type": "url",
+                           "url": "https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands"
+                        }, {
+                           "date_added": "13353114601407362",
+                           "date_last_used": "0",
+                           "guid": "eec56bec-d1b2-49b7-b37d-2eefc04b6fe6",
+                           "id": "75",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Securing your Linux desktop using iptables firewall rules - DEV Community",
+                           "type": "url",
+                           "url": "https://dev.to/dandyvica/securing-your-linux-desktop-using-iptables-firewall-rules-3p86"
+                        }, {
+                           "date_added": "13353160460817291",
+                           "date_last_used": "0",
+                           "guid": "efbad02a-e012-4c2e-8ca9-398760382b64",
+                           "id": "86",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Simple stateful firewall - ArchWiki",
+                           "type": "url",
+                           "url": "https://wiki.archlinux.org/title/simple_stateful_firewall"
+                        }, {
+                           "date_added": "13353160471594325",
+                           "date_last_used": "0",
+                           "guid": "ca897c11-6e6c-41fc-87e3-4980446843ad",
+                           "id": "87",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "iptables - ArchWiki",
+                           "type": "url",
+                           "url": "https://wiki.archlinux.org/title/iptables"
+                        }, {
+                           "date_added": "13353160474108539",
+                           "date_last_used": "0",
+                           "guid": "19bd7bfe-3fef-4799-80ed-44c77886a70f",
+                           "id": "88",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Drop versus Reject",
+                           "type": "url",
+                           "url": "https://www.chiark.greenend.org.uk/~peterb/network/drop-vs-reject"
+                        }, {
+                           "date_added": "13353160476416820",
+                           "date_last_used": "0",
+                           "guid": "648ead3a-081a-48ee-b479-94f3654f6a14",
+                           "id": "89",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "systemd-resolved - ArchWiki",
+                           "type": "url",
+                           "url": "https://wiki.archlinux.org/title/systemd-resolved"
+                        }, {
+                           "date_added": "13353160478661238",
+                           "date_last_used": "0",
+                           "guid": "9ebbdbef-3f46-4ad6-9738-5df036fbc1dd",
+                           "id": "90",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "dnscrypt-proxy - ArchWiki",
+                           "type": "url",
+                           "url": "https://wiki.archlinux.org/title/Dnscrypt-proxy#Configuration"
+                        }, {
+                           "date_added": "13353160481033850",
+                           "date_last_used": "0",
+                           "guid": "291576f1-e7db-4a9f-8d6f-a21308371109",
+                           "id": "91",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Domain name resolution - ArchWiki",
+                           "type": "url",
+                           "url": "https://wiki.archlinux.org/title/Domain_name_resolution"
+                        } ],
+                        "date_added": "13353114571109159",
+                        "date_last_used": "0",
+                        "date_modified": "13353163718176837",
+                        "guid": "ff9adab0-406d-4bac-bbe9-e899e41b2892",
+                        "id": "74",
+                        "name": "iptables",
+                        "type": "folder"
+                     } ],
+                     "date_added": "13353061381476552",
+                     "date_last_used": "0",
+                     "date_modified": "13353061381476552",
+                     "guid": "0ee1e21d-30da-4a17-8604-195408cdbd5f",
+                     "id": "43",
+                     "name": "firewall",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13352898708940638",
+                     "date_last_used": "0",
+                     "guid": "901fa1a3-04ae-4643-90c4-ee7c5643854e",
+                     "id": "21",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "5 Tools to Scan a Linux Server for Malware and Rootkits",
+                     "type": "url",
+                     "url": "https://www.tecmint.com/scan-linux-for-malware-and-rootkits/"
+                  }, {
+                     "date_added": "13352898764860021",
+                     "date_last_used": "0",
+                     "guid": "69e584d7-0f8e-4dba-9b1b-86ee17fa1d6c",
+                     "id": "23",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Linux malware detection tools - Linux Security Expert",
+                     "type": "url",
+                     "url": "https://linuxsecurity.expert/security-tools/linux-malware-detection-tools"
+                  }, {
+                     "date_added": "13352902633283420",
+                     "date_last_used": "0",
+                     "guid": "6a1355d2-49f1-4770-996d-7ab9faf1a5b6",
+                     "id": "24",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "10 Best Linux Vulnerability Scanner to Scan Linux Servers - 2023",
+                     "type": "url",
+                     "url": "https://cybersecuritynews.com/scan-linux-servers/"
+                  } ],
+                  "date_added": "13352898734776790",
+                  "date_last_used": "0",
+                  "date_modified": "13353240608470442",
+                  "guid": "0f705fd6-5cc9-467c-b8ee-bc5572106db6",
+                  "id": "22",
+                  "name": "security",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13352926520074569",
+                     "date_last_used": "0",
+                     "guid": "11a43b97-1bd9-4445-ae9f-9cab686fb011",
+                     "id": "26",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "\"realtime plotting\" - gnuplot - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=61HL2B0dX2g&ab_channel=DeeecodeTheWeb"
+                  } ],
+                  "date_added": "13352926530926379",
+                  "date_last_used": "0",
+                  "date_modified": "13352927984806667",
+                  "guid": "ba7abd64-36ac-4af1-9e16-68badd819546",
+                  "id": "27",
+                  "name": "gnuplot",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13353030481691148",
+                     "date_last_used": "0",
+                     "guid": "403ab7e5-f7ff-4f6b-9fd3-c6787cafd8fb",
+                     "id": "34",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Raspberry Pi Zero W Surveillance Camera - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=rhIzfRmKHnQ&ab_channel=ExplainingComputers"
+                  } ],
+                  "date_added": "13353030498541204",
+                  "date_last_used": "0",
+                  "date_modified": "13353030506962976",
+                  "guid": "f606343b-5084-4575-ba28-ee1ec9a246af",
+                  "id": "35",
+                  "name": "pizero",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13353268528900841",
+                        "date_last_used": "0",
+                        "guid": "22e784ff-be1d-4628-a337-3065c5a70c4d",
+                        "id": "104",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "How to Choose Axis Motors For Your DIY CNC Conversion Project - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Gq03WN99FoE&ab_channel=Franco"
+                     }, {
+                        "date_added": "13353268580600156",
+                        "date_last_used": "0",
+                        "guid": "3e490758-ab51-42be-b831-de3201d8d6d5",
+                        "id": "107",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Hailege 5pcs L298N Motor Driver Controller Board Module Stepper Motor DC Dual H-Bridge Smart Car Power UNO Mega R3 Mega : Amazon.de: Computer & Accessories",
+                        "type": "url",
+                        "url": "https://www.amazon.de/Hailege-Driver-Controller-Stepper-H-Bridge/dp/B07XJSMLGQ/ref=sr_1_1?crid=PURWWVN7LKP3&dib=eyJ2IjoiMSJ9.hRL4Y1E9BEoa5-ptkgj7WDYf8nQ2lxe3a6yqnN46zqcQfr3BVBhkDiHPpnobActhlyjV2Axc_7b7C0OW51Fcd3jzEXmB0EHb3u8fT4dL4hRH8jHiZFM5bqw74y2p8zOASj-Isb4IHW5E1vsmc3HnTjN2i7rUnSOsTNR6TnZZsfwk8p23A4zZcBmhGzMXyHtyzlNoVCOh3fxFEmd-Mz48ocrU39lcMSdKTaS4urN-9oteKBBzaYNUgwzxjcadxNbxB4a7dJNpk5swLxWTqmKPJptpXEdY5owveqQlZIaj3is.3873NoouafgaxZ100ekAIq4rVlVI8TSZNFyb038I3l4&dib_tag=se&keywords=l298n&qid=1708793490&sprefix=l298n%2Caps%2C456&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+                     }, {
+                        "date_added": "13353269533579001",
+                        "date_last_used": "0",
+                        "guid": "9464d5c4-bf86-4e43-a73a-ebe59fac8c4a",
+                        "id": "108",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Raspberry Pi Servo Motor Control - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=xHDT4CwjUQE&ab_channel=ExplainingComputers"
+                     }, {
+                        "date_added": "13353270105095431",
+                        "date_last_used": "0",
+                        "guid": "9e0a341c-2999-4745-87fe-8aa06391beb5",
+                        "id": "109",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "STEPPERONLINE 1 Axis Closed Loop Stepper Motor Kit 1.2 Nm 1000PPR Nema 23 Stepper Motor & Stepper Motor Driver CL57T-V41 0-8.0A 24-48VDC for CNC Engraving Machine : Amazon.de: Business, Industry & Science",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/STEPPERONLINE-Stepper-CL57T-V41-24-48VDC-Engraving/dp/B0C7QFWC4N/ref=sr_1_2?crid=15R60CYO4VS42&dib=eyJ2IjoiMSJ9.nNmRrht-g2aHyR-qYhlZNCkLQEHcYiHDOMQmz0mbzQHZR1m9zkzxqidq_F5jY7vuVBjEZw56nQSBcq_47JhDgEFA5bz9pttEYhgCgDnN_4gLtadSSJeshHB8m4tCNfzUGZ9hBb2B7unmh822vbft1JIeJB7JVkR6Uxy_BBt5Y2oYrEQ1s0-Mz3AkZKUjVi1ujf5CMR9ASh9LWnVNUPzclE_WFtRX6KVxL93L4Xrdjv7tR6jhzKw8VDCq1NBZd9kLbSTzZ2QKfAYr4fIjJ3VFdL4S7R5bJo2nZayIdqEawBY.IDQTTuxHs0V-JgN_3UYoRyQoZb3uv95bFC6iao6U6lo&dib_tag=se&keywords=closed+loop+stepper+motor+low+step+angle&qid=1708795845&s=industrial&sprefix=closed+loop+stepper+motor+low+step+angle%2Cindustrial%2C409&sr=1-2"
+                     }, {
+                        "date_added": "13353270121407739",
+                        "date_last_used": "0",
+                        "guid": "606d999c-1668-497d-be01-fd2e7910edf7",
+                        "id": "110",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "QWORK Set of 4 Stepper Motor Holders, Nema 17 Stepper Motor Holder with Screws : Amazon.de: Business, Industry & Science",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/QWORK-Stepper-Holders-Holder-Screws/dp/B09QLYLXFZ/ref=pd_day0fbt_d_sccl_1/262-3524903-1269643?pd_rd_w=KcojP&content-id=amzn1.sym.a448a60d-171e-41b3-a693-2dc17f9728e0&pf_rd_p=a448a60d-171e-41b3-a693-2dc17f9728e0&pf_rd_r=V47T8A7018FVZZBCS017&pd_rd_wg=0qVCc&pd_rd_r=4f26834a-0ebf-4fd9-b8f0-8cd50cf7a06b&pd_rd_i=B09QLYLXFZ&th=1"
+                     }, {
+                        "date_added": "13353270125283225",
+                        "date_last_used": "0",
+                        "guid": "c8ea22e6-66d3-4250-9eb7-aae197db4001",
+                        "id": "111",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "DC 5-30V CNC Stepper Motor Control, 1/128 Micro-Step Resolution Forward/Reverse Delay Time Angle Speed Adjustable with HD Display Suitable for Nema17/23 Motor : Amazon.de: Business, Industry & Science",
+                        "type": "url",
+                        "url": "https://www.amazon.de/dp/B0BR5RP12R/ref=sspa_dk_detail_2?psc=1&pf_rd_p=253e17e0-2d18-40b0-a06d-d45df1ec6e48&pf_rd_r=V47T8A7018FVZZBCS017&pd_rd_wg=0qVCc&pd_rd_w=AWrq9&content-id=amzn1.sym.253e17e0-2d18-40b0-a06d-d45df1ec6e48&pd_rd_r=4f26834a-0ebf-4fd9-b8f0-8cd50cf7a06b&s=industrial&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy"
+                     }, {
+                        "date_added": "13353270315231104",
+                        "date_last_used": "0",
+                        "guid": "d0a96c5f-bc5f-47f6-93e7-3bc80f935ceb",
+                        "id": "112",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Cloudray NEMA 17 Stepper Motor 0.3Nm 1.5A Closed Loop Stepper Servo Motor with Encoder for 3D Printer CNC : Amazon.de: Business, Industry & Science",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/Cloudray-Stepper-Closed-Encoder-Printer/dp/B09S5RMLY4/ref=sr_1_2?crid=13T0475AMLUIL&dib=eyJ2IjoiMSJ9.9QY1tih1lzjM9AAXdGirnfk5H75oPAn6et0AXp0SH_HYfQqc7X2O5gK3_pm1Vba2o1tGP6H-8uAdocTA-TLW0T_9hHP7tRHJzsgwI5YwU6VX3Harh9mUwBDfqauzR7ibcnIvNxSybi9b_-q5zCjGUHScrj1bPNc8BGUr9SVqEa4UlKEQK7NPFJaoYcyeI5ZV2-FzIQtrDtzEHExVqipJ-vO8yfB80mUQmmXnO9vxnQ1hRybVg3MqnKoo9XdkDXbyT3aRdOZS_ZXLrO31oKmvG1kVEB632nE-JJ0I2AHInOU.wYtilaAJd3wng0QIU0_LDUilIgPnXs-fBaiT9KUPfHQ&dib_tag=se&keywords=closed%2Bloop%2Bstepper%2Bmotor%2Blow%2Bstep%2Bangle%2Bnema%2B17&qid=1708796637&s=industrial&sprefix=closed%2Bloop%2Bstepper%2Bmotor%2Blow%2Bstep%2Bangle%2Bnema%2B17%2Cindustrial%2C533&sr=1-2&th=1"
+                     }, {
+                        "date_added": "13353357740810355",
+                        "date_last_used": "0",
+                        "guid": "43a46585-cb7e-4472-954e-e9bb6402276b",
+                        "id": "127",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Sine Lab",
+                        "type": "url",
+                        "url": "https://sinelab.net/"
+                     }, {
+                        "date_added": "13353357755138455",
+                        "date_last_used": "0",
+                        "guid": "d72c693c-b179-41f5-96c7-72f7a18d8dfe",
+                        "id": "128",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Index of /home/nikolaj/Downloads/",
+                        "type": "url",
+                        "url": "file:///home/nikolaj/Downloads/"
+                     }, {
+                        "date_added": "13353357828085552",
+                        "date_last_used": "0",
+                        "guid": "3ef1b448-62e9-421d-9085-96b58510fa45",
+                        "id": "129",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "DIY Stepper Motor Driver · Sine Lab",
+                        "type": "url",
+                        "url": "https://sinelab.net/post/stepper-motor-driver/"
+                     } ],
+                     "date_added": "13353268567875443",
+                     "date_last_used": "0",
+                     "date_modified": "13353357828085552",
+                     "guid": "b3f481e8-47e3-4ef1-8dfa-b72916f393c0",
+                     "id": "106",
+                     "name": "motor",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13353343555061150",
+                        "date_last_used": "0",
+                        "guid": "fd30e401-739f-4caf-a9f2-4d004d8b207a",
+                        "id": "114",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Tutorial: Control GPIOs in Linux with a C application - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=KUA4xeC2Rmc&ab_channel=Johannes4GNU_Linux"
+                     }, {
+                        "date_added": "13353349261045777",
+                        "date_last_used": "0",
+                        "guid": "1f0d3c28-70cb-4776-a231-1ad124690cb0",
+                        "id": "116",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Raspberry Pi Stepper Motor Tutorial - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=LUbhPKBL_IU&ab_channel=rdagger68"
+                     }, {
+                        "date_added": "13353349412804760",
+                        "date_last_used": "0",
+                        "guid": "638c292c-f8d8-4803-aef9-1abeb142440f",
+                        "id": "117",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "AZDelivery DRV8825 Step Motor Driver Module Parent : Amazon.de: Business, Industry & Science",
+                        "type": "url",
+                        "url": "https://www.amazon.de/AZDelivery-DRV8825-Driver-Module-Parent/dp/B07CNJR2Z6/ref=sr_1_1?crid=3IS5BD4DCIJQ3&dib=eyJ2IjoiMSJ9.oe7tk7btQlsBVMjBO6SX2b9eGYMhKPi64GvBvj30pFb1uTjOsbd_JLCPI2oyQMYc_ejMR9Iz7NoaGq-Lf3kcKm8WaBKQQZi27rceEDbIxMHX_YKZcbU4UOEEY65Ohgdb6lh5lfbzhpwq7rjRdXW667vSQMSnlcGsgJ9dTNFBMTLmuq_CL6s7at-cOgJUFlderAQuVr5inJG2kZY6x8Rj6EZnNmAE7vP8rnlvn-rnsYqBiuTJIKl_rXLpU6Di6TMVOb63nx0EGJsrCDcsuotsMQ3fEsD5h2_YPJo9rRD3I90.54zIX9qA_sPtSGSFxPKox7DP7rg4INLBdASQGptj0a0&dib_tag=se&keywords=drv8825&qid=1708875758&sprefix=drv%2Caps%2C362&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&smid=A1X7QLRQH87QA3&th=1"
+                     }, {
+                        "date_added": "13353354178302033",
+                        "date_last_used": "0",
+                        "guid": "1599213f-b4f8-4b5f-9611-f366c6123b19",
+                        "id": "124",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Driving DC Motors with Microcontrollers - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=ygrsIqWOh3Y&ab_channel=DroneBotWorkshop"
+                     }, {
+                        "date_added": "13353355219330615",
+                        "date_last_used": "0",
+                        "guid": "89b0c118-2481-49c8-a437-a4dd984d39ca",
+                        "id": "126",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Setting the GPIO hardware PWM Frequency on the Raspberry Pi - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Zjr69DxgeW0&ab_channel=ExplainingComputers"
+                     } ],
+                     "date_added": "13353343565242915",
+                     "date_last_used": "0",
+                     "date_modified": "13353357740810355",
+                     "guid": "140c9c9c-e7a9-4301-afa6-f9181a7dfeca",
+                     "id": "115",
+                     "name": "gpio",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13353350092708247",
+                        "date_last_used": "0",
+                        "guid": "8684ca79-539e-45ad-aacb-d802046f0911",
+                        "id": "118",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "DIY Stepper Motor Driver From Scratch - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=5b6qWVo6lcU&ab_channel=SineLab"
+                     }, {
+                        "date_added": "13355273462147434",
+                        "date_last_used": "0",
+                        "guid": "53b080fe-be59-4688-8499-0ac083b46852",
+                        "id": "244",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Electronic Basics #24: Stepper Motors and how to use them - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=bkqoKWP4Oy4&ab_channel=GreatScott%21"
+                     } ],
+                     "date_added": "13353350107205593",
+                     "date_last_used": "0",
+                     "date_modified": "13355332382682867",
+                     "guid": "40dcc7a6-ccd5-40be-ad45-db748e459904",
+                     "id": "119",
+                     "name": "800steps",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13353351893072641",
+                        "date_last_used": "0",
+                        "guid": "1f1b1d5a-b7b5-40c6-9aee-e4bad125c64c",
+                        "id": "120",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Adafruit DRV8871 DC Motor Driver Breakout Board - 3.6A Max: Amazon.de: Toys",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/Adafruit-DRV8871-Motor-Driver-Breakout/dp/B06Y4VRXN4/ref=sr_1_7?crid=2QZPAT9W59G2O&dib=eyJ2IjoiMSJ9.xM_HpnGrdIr4hgBbDd_xyvw5sbfJPXc-qGlrCLuK1PUX7eL0-0B1i0xCFKcu7jvUS4tnXaUvOiEAJhpbAdZQxADrxSp9EqlL40-ogOellIXCBOWquUOvRiE4egVwbQpdNPfzvDa0BcLBtFdjUd0s-WqD2sTK1fCtl7Ait2ad9f0EQZESCunrN7Ql5KuXeVsJohV6TaYOCJO6G-1NVbHrNq5eu-dYgnZHwNaBn5AS7_5FGiZdPR2Sf1xT_q7EmsMvSjfN1cY2uDoYHymERzbo5y5LZ3OeFdXjUgAbu3fCJqU.5979MQo359xyUlLp64B5WQOUYrwoYg6rQV1PGrVNDeI&dib_tag=se&keywords=drv8871&qid=1708878201&sprefix=drv8871%2Caps%2C450&sr=8-7"
+                     }, {
+                        "date_added": "13353352765208681",
+                        "date_last_used": "0",
+                        "guid": "02169a0f-f764-4bec-8fee-ec5d7c4ee989",
+                        "id": "122",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Arduino Dual Channel 5-12V DC Motor Controller H Bridge 0A-30A Motor Driver Module Accessory Replacement : Amazon.de: Business, Industry & Science",
+                        "type": "url",
+                        "url": "https://www.amazon.de/Arduino-Channel-Controller-Accessory-Replacement/dp/B097DQZDGS/ref=sr_1_10?crid=2E6QDJBUSVKI2&dib=eyJ2IjoiMSJ9.hRUbsqwanAvNxjCXICCkIT-pJxKg65L5QZ7PPyPd_7LGjHj071QN20LucGBJIEps.-_ALOZ0GUO5SiZZmWlEyrVLwWKU9uK90tZ2SXrin5m8&dib_tag=se&keywords=dbh-12+dual+h-bridge&qid=1708879110&sprefix=dbh-12%2Caps%2C415&sr=8-10-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1"
+                     }, {
+                        "date_added": "13353353623719775",
+                        "date_last_used": "0",
+                        "guid": "78f3dc11-86db-4904-9cbc-8303fab27624",
+                        "id": "123",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Motor Drive Module Board Module, Double BTS7960 High Current H Bridge Driver (43A) High Performance Driver for Smart Car BTS7960 43A Electrical Components : Amazon.de: Computer & Accessories",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/BTS7960-Current-Performance-Electrical-Components/dp/B08NW5JNZ3/ref=sr_1_3?crid=39SH00DVG4IA5&dib=eyJ2IjoiMSJ9.KAkKmmn069oa770-aNe3PLeeggLc5tx7E-C8EQH7D2PGjHj071QN20LucGBJIEps.OZkj_x1yeS2VdC-MxrD23_MRvffRZXxuCxj5sCt-9Y0&dib_tag=se&keywords=ibt2&qid=1708879993&sprefix=ibt2%2Caps%2C484&sr=8-3"
+                     }, {
+                        "date_added": "13353354490359040",
+                        "date_last_used": "0",
+                        "guid": "7a2911ed-862b-4b28-bbd6-5196c018200c",
+                        "id": "125",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "PN00218-CYT13 Cytron 25Amp 7V-58V High Voltage DC Motor Driver Speed Controller MD25HV - Amazon.com",
+                        "type": "url",
+                        "url": "https://www.amazon.com/PN00218-CYT13-Cytron-7V-58V-Voltage-Controller/dp/B07V8G7J3W"
+                     } ],
+                     "date_added": "13353351904992437",
+                     "date_last_used": "0",
+                     "date_modified": "13353355219330615",
+                     "guid": "b676bb47-e883-471b-84b1-4197e1b0267c",
+                     "id": "121",
+                     "name": "driver",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13355332409332198",
+                        "date_last_used": "0",
+                        "guid": "5935c761-2308-4ef7-a745-3df511909766",
+                        "id": "248",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Learn C Programming on Raspberry Pi - 05 - Blinking LED with GPIO - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=jlM9KoWyPv0&ab_channel=SpazzTech"
+                     }, {
+                        "date_added": "13355333680501261",
+                        "date_last_used": "0",
+                        "guid": "ed705b02-9f7f-47ab-be76-437e23a21456",
+                        "id": "251",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Blink LED in C/C++ on the Raspberry Pi Pico [Linux SDK Setup] - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=JhajoAyP8e4&ab_channel=LowLevelLearning"
+                     }, {
+                        "date_added": "13355334004116539",
+                        "date_last_used": "0",
+                        "guid": "f8fea718-db31-4393-9236-f3cfee5de5f9",
+                        "id": "252",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Generating PWM Signals Using the Raspberry Pi Pico | STOP BIT BANGING on the RP2040! - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Au-oc4hxj-c&ab_channel=LowLevelLearning"
+                     }, {
+                        "date_added": "13355337802884148",
+                        "date_last_used": "0",
+                        "guid": "6d3083c7-dc72-4e71-9fc8-cb97ce49471b",
+                        "id": "257",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Raspberry Pi Beginner Guide (wiringPi Tutorial for Linux BASH Shell and C, GPIO LED Blink) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=RDAOxX6vqqs&ab_channel=MHeidenreich"
+                     } ],
+                     "date_added": "13355332393907024",
+                     "date_last_used": "0",
+                     "date_modified": "13355401564596544",
+                     "guid": "7f4018a0-2e11-4f8e-af72-4ac0f47426d4",
+                     "id": "247",
+                     "name": "blink",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13355334009765580",
+                        "date_last_used": "0",
+                        "guid": "1b86ea6b-3ce4-4ce2-8aca-f82b1fdc71dc",
+                        "id": "253",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Generating PWM Signals Using the Raspberry Pi Pico | STOP BIT BANGING on the RP2040! - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Au-oc4hxj-c&ab_channel=Slador"
+                     } ],
+                     "date_added": "13355334037775295",
+                     "date_last_used": "0",
+                     "date_modified": "13355336843203209",
+                     "guid": "a392d602-10ea-4420-b7aa-c9e4cb230bfe",
+                     "id": "254",
+                     "name": "pwmPicoC",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13355336843203209",
+                        "date_last_used": "0",
+                        "guid": "70fd83aa-0634-4435-92fb-2b03c528de14",
+                        "id": "255",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Raspberry Pi Pulse Width Modulation - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=9dj2VPhrnuc&ab_channel=EETechStuff"
+                     }, {
+                        "date_added": "13356004170422144",
+                        "date_last_used": "0",
+                        "guid": "8d6ad82b-9e37-4aa3-9f81-78ef426dbea9",
+                        "id": "296",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Raspberry Pi Pico using C/C++- Tutorial #3: ADC and PWM (Analog Inputs and Outputs) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=cey790sTUkM&list=PLUwmiNOPP-7hAXx4AmiWiWTyBqumqbIKT&index=3&ab_channel=Robocraze"
+                     }, {
+                        "date_added": "13356005283875293",
+                        "date_last_used": "0",
+                        "guid": "6d2fe1e6-48fd-4827-b2ba-0bb00847ddc2",
+                        "id": "300",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Raspberry Pi software driven PWM using C++ - Raspberry Pi Forums",
+                        "type": "url",
+                        "url": "https://forums.raspberrypi.com/viewtopic.php?t=172673"
+                     } ],
+                     "date_added": "13355336868322692",
+                     "date_last_used": "0",
+                     "date_modified": "13356005289404697",
+                     "guid": "40bb6c2e-4708-4e6e-8066-c8c69421fb8d",
+                     "id": "256",
+                     "name": "pwm",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13356005239496004",
+                        "date_last_used": "0",
+                        "guid": "d005f2e6-acc5-44c9-ac9b-5c3200c00309",
+                        "id": "298",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Getting Started with C++ on Raspberry Pi (Guide & examples) – RaspberryTips",
+                        "type": "url",
+                        "url": "https://raspberrytips.com/use-c-on-raspberry-pi/"
+                     }, {
+                        "date_added": "13355332382682867",
+                        "date_last_used": "0",
+                        "guid": "43d45809-b4dc-4253-ba91-c3f56d678928",
+                        "id": "246",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Raspberry Pi C/C++ Baremetal Programming | Using C to Direct-Register Control Your Raspberry Pi - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=mshVdGlGwBs&ab_channel=LowLevelLearning"
+                     } ],
+                     "date_added": "13356005281078954",
+                     "date_last_used": "0",
+                     "date_modified": "13356010715028046",
+                     "guid": "8c0e41c0-7d13-428b-9bdf-6f480d4cce4f",
+                     "id": "299",
+                     "name": "rasberryPiC++",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13353268567875297",
+                  "date_last_used": "0",
+                  "date_modified": "13353268567875297",
+                  "guid": "e151f2b3-3b84-43f6-89a8-db18ebbc685d",
+                  "id": "105",
+                  "name": "buster",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13353583362082845",
+                        "date_last_used": "0",
+                        "guid": "99c31ca8-ca00-4c12-8eba-f54de811dfd6",
+                        "id": "143",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Practical Electronics for Inventors : Scherz, Paul, Monk, Simon: Amazon.de: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/Paul-Scherz/dp/1259587541/ref=sr_1_4?crid=3TCB3MYTD7DKV&dib=eyJ2IjoiMSJ9.7oWjn24qHyjT32dNh6NIRf4_rCtKvGHaYtFS9Oi5VFSPn37pYaErhfMXbGJqkXflOk0gA7089L7qyf5u-V4qGPO6yx4ApvBUNQq-IqbDz3wrpSET74VPuukXXl5Z7H2bb7g8mZbHZuGQjAOD2hMpHl_JS5FinX6ydXo3X8hYoZjznGUIFxS4gH9J8BuQe-q2pXiGx2koeSwXV-qrYkR1IRpUz99Slm8qL3KtnYER-x0.mA41u6UVrLLPHD-eEhjXUg7dZc90_0uR6DVmGQp6UtY&dib_tag=se&keywords=electronics&qid=1709106735&s=books&sprefix=electronics%2Cstripbooks%2C283&sr=1-4"
+                     }, {
+                        "date_added": "13353583379603807",
+                        "date_last_used": "0",
+                        "guid": "d85a3279-926d-4673-94a1-c6c604ff1654",
+                        "id": "145",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "The Art of Electronics: Nominiert: PROSE Award for Engineering and Technology 2016 : Paul Horowitz , Winfield Hill: Amazon.de: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/Winfield-Hill-Paul-Horowitz/dp/0521809266/ref=sr_1_12?crid=3TCB3MYTD7DKV&dib=eyJ2IjoiMSJ9.7oWjn24qHyjT32dNh6NIRf4_rCtKvGHaYtFS9Oi5VFSPn37pYaErhfMXbGJqkXflOk0gA7089L7qyf5u-V4qGPO6yx4ApvBUNQq-IqbDz3wrpSET74VPuukXXl5Z7H2bb7g8mZbHZuGQjAOD2hMpHl_JS5FinX6ydXo3X8hYoZjznGUIFxS4gH9J8BuQe-q2pXiGx2koeSwXV-qrYkR1IRpUz99Slm8qL3KtnYER-x0.mA41u6UVrLLPHD-eEhjXUg7dZc90_0uR6DVmGQp6UtY&dib_tag=se&keywords=electronics&qid=1709106735&s=books&sprefix=electronics%2Cstripbooks%2C283&sr=1-12"
+                     }, {
+                        "date_added": "13353583390758743",
+                        "date_last_used": "0",
+                        "guid": "90339f07-3534-4a66-8540-06c6cd09ee3e",
+                        "id": "146",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers : Bartlett, Jonathan: Amazon.de: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/Jonathan-Bartlett/dp/1484259785/ref=sr_1_14?crid=3TCB3MYTD7DKV&dib=eyJ2IjoiMSJ9.7oWjn24qHyjT32dNh6NIRf4_rCtKvGHaYtFS9Oi5VFSPn37pYaErhfMXbGJqkXflOk0gA7089L7qyf5u-V4qGPO6yx4ApvBUNQq-IqbDz3wrpSET74VPuukXXl5Z7H2bb7g8mZbHZuGQjAOD2hMpHl_JS5FinX6ydXo3X8hYoZjznGUIFxS4gH9J8BuQe-q2pXiGx2koeSwXV-qrYkR1IRpUz99Slm8qL3KtnYER-x0.mA41u6UVrLLPHD-eEhjXUg7dZc90_0uR6DVmGQp6UtY&dib_tag=se&keywords=electronics&qid=1709106735&s=books&sprefix=electronics%2Cstripbooks%2C283&sr=1-14"
+                     }, {
+                        "date_added": "13353583394656559",
+                        "date_last_used": "0",
+                        "guid": "2fce3d8f-a49e-4d2c-b48a-f3db74a06e45",
+                        "id": "147",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Make: Electronics: Learning by Discovery: A Hands-On Primer for the New Electronics Enthusiast : Platt, Charles: Amazon.de: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/Charles-Platt/dp/1680456873/ref=pd_sim_d_sccl_3_4/260-6086299-0029958?pd_rd_w=AUiNp&content-id=amzn1.sym.4c791e8a-9c9d-475f-9c03-543aa87beaf7&pf_rd_p=4c791e8a-9c9d-475f-9c03-543aa87beaf7&pf_rd_r=R31EF0F6PPB6409Z7SWK&pd_rd_wg=7X20K&pd_rd_r=0fb003b4-87bd-4ee3-af62-e08d7c9f3e82&pd_rd_i=1680456873&psc=1"
+                     }, {
+                        "date_added": "13353583398152284",
+                        "date_last_used": "0",
+                        "guid": "890ce4db-e3b7-4a16-bcdf-b72b098be696",
+                        "id": "148",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Make: More Electronics: Journey Deep Into the World of Logic Chips, Amplifiers, Sensors, and Randomicity : Platt, Charles: Amazon.de: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.de/-/en/Charles-Platt/dp/1449344046/ref=pd_sim_d_sccl_3_3/260-6086299-0029958?pd_rd_w=AUiNp&content-id=amzn1.sym.4c791e8a-9c9d-475f-9c03-543aa87beaf7&pf_rd_p=4c791e8a-9c9d-475f-9c03-543aa87beaf7&pf_rd_r=R31EF0F6PPB6409Z7SWK&pd_rd_wg=7X20K&pd_rd_r=0fb003b4-87bd-4ee3-af62-e08d7c9f3e82&pd_rd_i=1449344046&psc=1"
+                     } ],
+                     "date_added": "13353583376884061",
+                     "date_last_used": "0",
+                     "date_modified": "13353583403424138",
+                     "guid": "077792da-3908-4a2c-a0e5-3860e08958c8",
+                     "id": "144",
+                     "name": "books",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13353583258679279",
+                  "date_last_used": "0",
+                  "date_modified": "13353583258679279",
+                  "guid": "5b9a391d-f395-48ec-b936-8d42cef5e1f2",
+                  "id": "133",
+                  "name": "electronics",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13354189588346722",
+                     "date_last_used": "0",
+                     "guid": "d3c1dd59-4a17-4056-85d4-fad3ae951562",
+                     "id": "165",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "How to setup Neovim from Scratch - Complete Guide (Including TMUX, Lazy and LSP) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=ZjMzBd1Dqz8&ab_channel=TheRadLectures"
+                  }, {
+                     "children": [ {
+                        "date_added": "13354189604294545",
+                        "date_last_used": "0",
+                        "guid": "3da2d444-5343-408c-bd82-af40bd26e9e7",
+                        "id": "167",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Neovim | Updated setup of JDTLS LSP - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=P7NYyb65A4s&ab_channel=BitInByte"
+                     } ],
+                     "date_added": "13354189614299771",
+                     "date_last_used": "0",
+                     "date_modified": "13354189614299887",
+                     "guid": "cfe8a87d-3482-4a01-aa43-5433064db52b",
+                     "id": "168",
+                     "name": "java",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13354623923542654",
+                        "date_last_used": "0",
+                        "guid": "20e0358c-0b88-4349-88ec-00614bda2a6f",
+                        "id": "220",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "The perfect Neovim setup for C++ - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=lsFoZIg-oDs&ab_channel=DreamsofCode"
+                     } ],
+                     "date_added": "13354623938995089",
+                     "date_last_used": "0",
+                     "date_modified": "13354967930263203",
+                     "guid": "8ecb3059-e62c-45c3-9fd9-3ea1ad313be4",
+                     "id": "221",
+                     "name": "cpp",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13355660039782648",
+                        "date_last_used": "13355684223940513",
+                        "guid": "3415708c-a958-44bc-9e24-1395e8fbeabf",
+                        "id": "269",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "kickstart.nix/config/nvim/lua/plugins at main · dmmulroy/kickstart.nix · GitHub",
+                        "type": "url",
+                        "url": "https://github.com/dmmulroy/kickstart.nix/tree/main/config/nvim/lua/plugins"
+                     } ],
+                     "date_added": "13355660037532816",
+                     "date_last_used": "0",
+                     "date_modified": "13355688244380346",
+                     "guid": "3b936d40-3c41-4596-b8a1-c287b34f9e52",
+                     "id": "268",
+                     "name": "kickstart",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13355688244380346",
+                        "date_last_used": "0",
+                        "guid": "1c71d9b8-0c56-499e-8acd-3b1f03fdb8be",
+                        "id": "271",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Vim Tips I Wish I Knew Earlier - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=5BU2gBOe9RU&ab_channel=SebastianDaschner"
+                     } ],
+                     "date_added": "13355688255726819",
+                     "date_last_used": "0",
+                     "date_modified": "13355688463612716",
+                     "guid": "33d5755f-a5e3-499d-b47a-28a86d4df3e5",
+                     "id": "272",
+                     "name": "tips",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "children": [ {
+                           "date_added": "13355688463612716",
+                           "date_last_used": "13355688600679780",
+                           "guid": "109627e5-ff3b-4295-967b-2e19d9e94732",
+                           "id": "273",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "dev-environment-files/.config/nvim at main · josean-dev/dev-environment-files · GitHub",
+                           "type": "url",
+                           "url": "https://github.com/josean-dev/dev-environment-files/tree/main/.config/nvim"
+                        }, {
+                           "date_added": "13355688489952741",
+                           "date_last_used": "0",
+                           "guid": "5394f3c9-ac6e-4cf2-bf76-e16ede94aeb2",
+                           "id": "276",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "How To Use lazy.nvim For A Simple And Amazing Neovim Config - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=6mxWayq-s9I&ab_channel=JoseanMartinez"
+                        } ],
+                        "date_added": "13355688486759178",
+                        "date_last_used": "0",
+                        "date_modified": "13355688489952741",
+                        "guid": "2bda98c7-1d90-4ba8-b59d-5ac41bcc7a7e",
+                        "id": "275",
+                        "name": "joseanDev",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13355658863974741",
+                           "date_last_used": "13355688537537209",
+                           "guid": "d2bd6a0c-2e46-4817-a50c-80c99678135e",
+                           "id": "267",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "My Neovim Config! (as of January 2024) - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=oo_I5lAmdi0&ab_channel=DillonMulroy"
+                        }, {
+                           "date_added": "13355688571959649",
+                           "date_last_used": "0",
+                           "guid": "71ac8608-b1db-4b0b-b3d3-c072f3232dda",
+                           "id": "278",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "kickstart.nix/config/nvim at main · dmmulroy/kickstart.nix · GitHub",
+                           "type": "url",
+                           "url": "https://github.com/dmmulroy/kickstart.nix/tree/main/config/nvim"
+                        } ],
+                        "date_added": "13355688553488385",
+                        "date_last_used": "0",
+                        "date_modified": "13355922124298705",
+                        "guid": "3372a787-5854-4370-a640-2259d34e5259",
+                        "id": "277",
+                        "name": "dillonMulroy",
+                        "type": "folder"
+                     } ],
+                     "date_added": "13355688486759051",
+                     "date_last_used": "0",
+                     "date_modified": "13355688553488737",
+                     "guid": "95d3b252-5bf5-410c-b31f-7818ea4497dd",
+                     "id": "274",
+                     "name": "people",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13354189602171175",
+                  "date_last_used": "0",
+                  "date_modified": "13354189604294545",
+                  "guid": "daeeef85-cd7e-4341-a66e-3273726760b0",
+                  "id": "166",
+                  "name": "nvim",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13355156334884966",
+                     "date_last_used": "0",
+                     "guid": "786dc6fe-1752-471d-8f4e-c8f3ee788219",
+                     "id": "230",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "ranger/ranger/data/scope.sh at master · ranger/ranger · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/ranger/ranger/blob/master/ranger/data/scope.sh"
+                  }, {
+                     "date_added": "13355156362080664",
+                     "date_last_used": "0",
+                     "guid": "0969946d-6dda-46af-9571-a3fbfdb4456d",
+                     "id": "232",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "lf - ArchWiki",
+                     "type": "url",
+                     "url": "https://wiki.archlinux.org/title/Lf"
+                  }, {
+                     "date_added": "13355156365082642",
+                     "date_last_used": "0",
+                     "guid": "5056c8f6-f32a-47f9-ab59-54506f38fc5f",
+                     "id": "233",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "PDF, PS and DjVu - ArchWiki",
+                     "type": "url",
+                     "url": "https://wiki.archlinux.org/title/PDF,_PS_and_DjVu"
+                  }, {
+                     "date_added": "13355156367390582",
+                     "date_last_used": "0",
+                     "guid": "b05abe30-5a7c-4ead-8494-4d0ef7af0557",
+                     "id": "234",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "question about opening files with lf file manager / Applications & Desktop Environments / Arch Linux Forums",
+                     "type": "url",
+                     "url": "https://bbs.archlinux.org/viewtopic.php?id=279671"
+                  } ],
+                  "date_added": "13355156360055830",
+                  "date_last_used": "0",
+                  "date_modified": "13355236745191487",
+                  "guid": "73cfa9b4-8ba9-422e-a517-020275cb4fea",
+                  "id": "231",
+                  "name": "lf",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13355246108629943",
+                        "date_last_used": "0",
+                        "guid": "cb9caa5f-870c-4d40-9f33-9f7d6411162a",
+                        "id": "239",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Pasting from clipboard to vi-enabled zsh or bash shell - Unix & Linux Stack Exchange",
+                        "type": "url",
+                        "url": "https://unix.stackexchange.com/questions/25765/pasting-from-clipboard-to-vi-enabled-zsh-or-bash-shell"
+                     }, {
+                        "date_added": "13355247727567792",
+                        "date_last_used": "0",
+                        "guid": "252aebbd-da55-4e83-840e-1c144227cad8",
+                        "id": "242",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "How to Copy/Paste with the Terminal (Linux Tutorial) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=0l6ZbHD0mVk&ab_channel=CyberForge"
+                     }, {
+                        "date_added": "13355247771808868",
+                        "date_last_used": "0",
+                        "guid": "4e1f8968-7085-4de1-865f-a35984b38250",
+                        "id": "243",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "command line - Selecting text in the terminal without using the mouse - Ask Ubuntu",
+                        "type": "url",
+                        "url": "https://askubuntu.com/questions/302263/selecting-text-in-the-terminal-without-using-the-mouse"
+                     } ],
+                     "date_added": "13355246130219548",
+                     "date_last_used": "0",
+                     "date_modified": "13355273462147434",
+                     "guid": "77d6ba00-c6c3-4956-b632-f9b7e505c491",
+                     "id": "241",
+                     "name": "shell",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13355246130219401",
+                  "date_last_used": "0",
+                  "date_modified": "13355246130219401",
+                  "guid": "5f3db2a4-0c43-49d9-8c69-a521ede6da2d",
+                  "id": "240",
+                  "name": "copyPaste",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "children": [ {
+                           "children": [ {
+                              "date_added": "13353583403424138",
+                              "date_last_used": "0",
+                              "guid": "7da06446-106a-4702-98c9-71c8fe54c42b",
+                              "id": "149",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Raspberry Pi Zero W (Wireless) • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/en/product/raspberry-pi-zero-w/"
+                           } ],
+                           "date_added": "13353583439986435",
+                           "date_last_used": "0",
+                           "date_modified": "13353960377495422",
+                           "guid": "d47412da-ed5d-4880-b833-ff508ce9251b",
+                           "id": "152",
+                           "name": "zeroWithWifi",
+                           "type": "folder"
+                        }, {
+                           "children": [ {
+                              "date_added": "13356010715028046",
+                              "date_last_used": "0",
+                              "guid": "f203d5cc-ebfc-4dcb-bfb7-c5c470e9d685",
+                              "id": "302",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Edatec Heatsink Case for Pi 5 • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/en/product/pi-5-passive-cooling-aluminum-cnc-box/"
+                           }, {
+                              "date_added": "13356010756684521",
+                              "date_last_used": "0",
+                              "guid": "d558dad1-eece-45d7-baa9-90e01d0da633",
+                              "id": "304",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Edatec Open Heatsink Case for Pi 5 • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/en/product/edatec-open-heatsink-case-for-pi-5-black/"
+                           }, {
+                              "date_added": "13356010760672068",
+                              "date_last_used": "0",
+                              "guid": "ac84d0d7-6b58-47b2-833d-7e5f57011703",
+                              "id": "305",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Flirc Raspberry Pi 5 Heatsink Case • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/en/product/flirc-raspberry-pi-5-heatsink-case/"
+                           }, {
+                              "date_added": "13356010763974784",
+                              "date_last_used": "0",
+                              "guid": "e65fef5a-a010-4bf2-8711-c5a9bd6d6cac",
+                              "id": "306",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Pibow Coupe 5 - Case for Raspberry Pi 5 • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/en/product/pibow-coupe-5-case-for-raspberry-pi-5/"
+                           }, {
+                              "date_added": "13356010767005563",
+                              "date_last_used": "0",
+                              "guid": "e8336d90-6ebb-4236-b7c1-7fca9a074b6f",
+                              "id": "307",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Cluster Case for Raspberry Pi - With Fans • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/en/product/cluster-case-raspberry-pi/"
+                           }, {
+                              "date_added": "13356010770877346",
+                              "date_last_used": "0",
+                              "guid": "fe1493a0-ea42-492d-8fcb-bb487b036a97",
+                              "id": "308",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Flirc Raspberry Pi Zero Heatsink Case • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/en/product/flirc-raspberry-pi-zero-heatsink-case/"
+                           } ],
+                           "date_added": "13356010750938546",
+                           "date_last_used": "0",
+                           "date_modified": "13356010774124699",
+                           "guid": "db5ae97e-2f05-478b-a6ed-daa8f56b5d3b",
+                           "id": "303",
+                           "name": "case",
+                           "type": "folder"
+                        }, {
+                           "children": [ {
+                              "date_added": "13356010774124699",
+                              "date_last_used": "0",
+                              "guid": "1a8be2b5-3e7e-43ce-b09d-e472a35507f6",
+                              "id": "309",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Small Heatsink for Raspberry Pi • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/en/product/heatsink-for-raspberry-pi/"
+                           }, {
+                              "date_added": "13356011419283622",
+                              "date_last_used": "0",
+                              "guid": "d196c09e-1dcf-4a89-8ecf-13aba3c7be14",
+                              "id": "313",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Heating and cooling Raspberry Pi 5 - Raspberry Pi",
+                              "type": "url",
+                              "url": "https://www.raspberrypi.com/news/heating-and-cooling-raspberry-pi-5/"
+                           } ],
+                           "date_added": "13356010787656593",
+                           "date_last_used": "0",
+                           "date_modified": "13356011427442769",
+                           "guid": "1d84bf70-2ed5-492b-b2f6-511e18ca25ef",
+                           "id": "310",
+                           "name": "cooler",
+                           "type": "folder"
+                        }, {
+                           "children": [ {
+                              "date_added": "13356010809403827",
+                              "date_last_used": "0",
+                              "guid": "8c4bfd32-62dd-4e48-b5cf-8c15522fb521",
+                              "id": "311",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "FINALLY! NVMe SSDs on the Raspberry Pi - YouTube",
+                              "type": "url",
+                              "url": "https://www.youtube.com/watch?v=EXWu4SUsaY8&ab_channel=JeffGeerling"
+                           }, {
+                              "date_added": "13356011957103266",
+                              "date_last_used": "0",
+                              "guid": "1451fcf0-130d-42d0-a356-d15ff8b5a0f1",
+                              "id": "315",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Pimoroni NVMe Base til Raspberry Pi 5 • RaspberryPi.dk",
+                              "type": "url",
+                              "url": "https://raspberrypi.dk/produkt/pimoroni-nvme-base-til-raspberry-pi-5/?gad_source=1&gclid=EAIaIQobChMI0sq3oaiUhQMVc1eRBR2G-Q6vEAQYASABEgLJKvD_BwE"
+                           } ],
+                           "date_added": "13356011455101434",
+                           "date_last_used": "0",
+                           "date_modified": "13356011957103266",
+                           "guid": "2e1c67fe-58e0-48ae-a999-9b5ff144292e",
+                           "id": "314",
+                           "name": "nvme",
+                           "type": "folder"
+                        } ],
+                        "date_added": "13353583439986350",
+                        "date_last_used": "0",
+                        "date_modified": "13356011455101668",
+                        "guid": "325fb64f-3e68-4f95-b309-5e0d2a58fac0",
+                        "id": "151",
+                        "name": "rasberryPi",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13354973786130353",
+                           "date_last_used": "0",
+                           "guid": "c4107697-c41f-4e05-9334-2190f65c92d6",
+                           "id": "227",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Rock3/3a - Radxa Wiki",
+                           "type": "url",
+                           "url": "https://wiki.radxa.com/Rock3/3a"
+                        } ],
+                        "date_added": "13354973808336679",
+                        "date_last_used": "0",
+                        "date_modified": "13355156334884966",
+                        "guid": "98680ee8-2a98-4816-a34d-a6e535d904c8",
+                        "id": "228",
+                        "name": "rock3modela",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13355401564596544",
+                           "date_last_used": "0",
+                           "guid": "a8cfa590-871f-4d50-b0a7-ab193b0e6670",
+                           "id": "259",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Banana Pi BPI-R2 Pro Router board with Rockchip chip design-Banana Pi open source hardware community,Single board computer, Router,IoT,STEM education",
+                           "type": "url",
+                           "url": "https://www.banana-pi.org/en/bananapi-router/57.html"
+                        } ],
+                        "date_added": "13355401580927778",
+                        "date_last_used": "0",
+                        "date_modified": "13355403539944984",
+                        "guid": "58b74541-a895-41f4-a296-cd45d2397315",
+                        "id": "260",
+                        "name": "bananaPi",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13355403539944984",
+                           "date_last_used": "0",
+                           "guid": "d82bc272-6edc-4380-8368-37ce3ea9e15f",
+                           "id": "261",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "NanoPi Fire3",
+                           "type": "url",
+                           "url": "https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=206"
+                        }, {
+                           "date_added": "13355404142416706",
+                           "date_last_used": "0",
+                           "guid": "745434a1-68f0-487e-8130-4407d57f1d7d",
+                           "id": "263",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Banana Pi BPI-R2 Pro - Banana Pi Wiki",
+                           "type": "url",
+                           "url": "https://wiki.banana-pi.org/Banana_Pi_BPI-R2_Pro"
+                        } ],
+                        "date_added": "13355403549963241",
+                        "date_last_used": "0",
+                        "date_modified": "13355404142416706",
+                        "guid": "73187742-345f-4d0a-828a-8ec16727e7d4",
+                        "id": "262",
+                        "name": "nanoPi",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13355922124298705",
+                           "date_last_used": "0",
+                           "guid": "beb86914-9dc5-47f3-ab1c-6d99e85a6aeb",
+                           "id": "280",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "The Rock 5 B is not a Raspberry Pi killer—yet | Jeff Geerling",
+                           "type": "url",
+                           "url": "https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet"
+                        } ],
+                        "date_added": "13355922142960864",
+                        "date_last_used": "0",
+                        "date_modified": "13355924672517453",
+                        "guid": "0c87a4b0-3646-4647-9aa2-357d63d1750d",
+                        "id": "281",
+                        "name": "rock5B",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13355924672517453",
+                           "date_last_used": "0",
+                           "guid": "fac0001c-186b-430d-bbab-8c32eee5a79f",
+                           "id": "282",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "All-flash NAS fight: DIY or Buy – Round III! - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=5QH8Dj6g_Nk&ab_channel=JeffGeerling"
+                        }, {
+                           "date_added": "13355925452368893",
+                           "date_last_used": "0",
+                           "guid": "95cdf53c-d7b5-43bb-86ea-1c8df26d1682",
+                           "id": "287",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "ROCK5 Model B — ameriDroid",
+                           "type": "url",
+                           "url": "https://ameridroid.com/products/rock5-model-b"
+                        }, {
+                           "date_added": "13355925468796346",
+                           "date_last_used": "0",
+                           "guid": "bf112580-0255-4f83-843d-4e182cf0cd76",
+                           "id": "288",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Building a tiny 6-drive M.2 NAS with the Rock 5 model B | Jeff Geerling",
+                           "type": "url",
+                           "url": "https://www.jeffgeerling.com/blog/2023/building-tiny-6-drive-m2-nas-rock-5-model-b"
+                        } ],
+                        "date_added": "13355924690010361",
+                        "date_last_used": "0",
+                        "date_modified": "13355927413468055",
+                        "guid": "b014cac3-f2be-4b78-899d-9f1ada843110",
+                        "id": "283",
+                        "name": "nas",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13352927984806667",
+                           "date_last_used": "0",
+                           "guid": "b46269cb-dc46-4e53-b1c8-5f27a85c9bba",
+                           "id": "28",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Amazon.com: WM8960 Audio HAT Module for Raspberry Pi 4B/3B+/3B/2B/B+/A+/Zero/Zero W/Pi Zero WH,WM8960 Hi-Fi Sound Card HAT Stereo CODEC, Play/Record : Electronics",
+                           "type": "url",
+                           "url": "https://www.amazon.com/WM8960-Module-Raspberry-Stereo-Record/dp/B098R7TTM4/ref=sr_1_21?dib=eyJ2IjoiMSJ9.r83My3OTOt2C8UyGuN1JG6eYGefdzGWm3HPXX9bxHmuodKqEyMHABxu9jau8CFegdaBweTdSGFoxEbTu9hywj34_kJ38aQvcj5wqpLI_ShTouFC-eUQcYx-7LMVReb6pG_4C9qeXq_AW8pkXTkCijN8cDLTOWpXtP7L9yhtTjvb5FtE27VghGMvnjv26BaKbGGERg5f4gyfgJuB5GbzZ1qlCMmPiStssXAeFR2Ku6uM.D-eFV5J29iv5kkXf6Uo3eAo7fY7-0NQeo90KCl68Omo&dib_tag=se&keywords=raspberry+pi+microphone&qid=1708454101&sr=8-21"
+                        }, {
+                           "date_added": "13352984422199266",
+                           "date_last_used": "0",
+                           "guid": "6542057c-1fe8-41bf-a9e2-730f4b567573",
+                           "id": "31",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Jabra Speak2 40",
+                           "type": "url",
+                           "url": "https://www.jabra.dk/business/speakerphones/jabra-speak-series/jabra-speak2-40"
+                        }, {
+                           "date_added": "13352984426146407",
+                           "date_last_used": "0",
+                           "guid": "22e41e0a-1380-435d-b018-c23814a46434",
+                           "id": "32",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Jabra PanaCast 20 | Your next webcam is not a webcam",
+                           "type": "url",
+                           "url": "https://www.jabra.dk/business/video-conferencing/jabra-panacast-20"
+                        }, {
+                           "date_added": "13353030506962976",
+                           "date_last_used": "0",
+                           "guid": "605ba3f6-f69f-4cf9-ab1c-109cf2c60abe",
+                           "id": "36",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Razer Kiyo Streaming Webcam: Full HD 1080p 30 FPS / 720p 60 FPS - Ring Light w/Adjustable Brightness - Built-in Microphone - Autofocus - Works with Zoom/Teams/Skype for Conferencing and Video Calling : Amazon.co.uk: Computers & Accessories",
+                           "type": "url",
+                           "url": "https://www.amazon.co.uk/dp/B075N1BYWB?tag=thevideone0ef-21&geniuslink=true&th=1"
+                        }, {
+                           "date_added": "13353030514853927",
+                           "date_last_used": "0",
+                           "guid": "4d088f73-610f-48f8-baac-040d13bccdbb",
+                           "id": "37",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Razer Kiyo Pro Streaming Webcam: Full HD 1080p 60FPS - Adaptive Light Sensor - HDR-Enabled - Wide-Angle Lens with Adjustable FOV - Works with Zoom/Teams/Skype for Conferencing and Video Calling: Amazon.co.uk: Computers & Accessories",
+                           "type": "url",
+                           "url": "https://www.amazon.co.uk/dp/B08T1MWX6J?tag=thevideone0ef-21&keywords=razer%2Bkiyo%2Bpro&geniuslink=true&th=1"
+                        }, {
+                           "date_added": "13353030518163628",
+                           "date_last_used": "0",
+                           "guid": "d50e63ed-f2d7-44df-a04f-4da2a175f68c",
+                           "id": "38",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "OBSBOT MEET AI-Powered 4K Webcam, Video Conference Camera With AI Auto Framing, 4K Ultra HD Video Calling and Streaming, Web Camera with Microphone, Webcam for PC/Mac/Laptop/Macbook- Black: Amazon.co.uk: Computers & Accessories",
+                           "type": "url",
+                           "url": "https://www.amazon.co.uk/dp/B0B14K3FV8?tag=thevideone0ef-21&geniuslink=true"
+                        }, {
+                           "date_added": "13353030527494481",
+                           "date_last_used": "0",
+                           "guid": "37b837d3-6181-45bf-888c-7e16c67e57a6",
+                           "id": "39",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Jabra SPEAK 510 MS | På lager | Billig",
+                           "type": "url",
+                           "url": "https://www.proshop.dk/Mikrofon/Jabra-SPEAK-510-MS/2389857?utm_source=google&utm_medium=cpc&utm_campaign=searchengine&gad_source=1&gclid=EAIaIQobChMI28LAlIm9hAMVNkGRBR3XiwqpEAQYFyABEgI6r_D_BwE"
+                        }, {
+                           "date_added": "13353030535761511",
+                           "date_last_used": "0",
+                           "guid": "76a0a0a9-a162-4df6-b225-33efeb3fb003",
+                           "id": "40",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Which Webcam Should You Buy For Streaming?? | Best Webcam 2024 - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=vcLVel99JGk&ab_channel=LevelUpwithMikeNewman"
+                        }, {
+                           "children": [ {
+                              "date_added": "13353116426230684",
+                              "date_last_used": "0",
+                              "guid": "5473cc2b-692c-4561-b278-6bf606b96419",
+                              "id": "76",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Genelec 8010 AP – Thomann Danmark",
+                              "type": "url",
+                              "url": "https://www.thomann.de/dk/genelec_8010_ap.htm"
+                           }, {
+                              "date_added": "13353116446108245",
+                              "date_last_used": "0",
+                              "guid": "6127fa55-4350-471f-b28f-b636b98d6ae4",
+                              "id": "78",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Argon Audio FORUS 4 – prisvenlig hi-fi kompakthøjtaler",
+                              "type": "url",
+                              "url": "https://www.hifiklubben.dk/argon-audio-forus-4-kompakt-hoejtaler/argforus4wa/?gad_source=1&gclid=EAIaIQobChMI3ar17oHAhAMVFwWiAx1pjw6hEAQYBCABEgK8C_D_BwE"
+                           }, {
+                              "date_added": "13353116452959950",
+                              "date_last_used": "0",
+                              "guid": "1748abce-03ea-4d4a-8cf6-450be25298d6",
+                              "id": "79",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Beosound A1 – kraftfuld transportabel højttaler til enhver lejlighed",
+                              "type": "url",
+                              "url": "https://www.bang-olufsen.com/da/dk/hoejttalere/beosound-a1?variant=beosound-a1-2nd-blackanthracite&gad_source=1&gclid=EAIaIQobChMI3ar17oHAhAMVFwWiAx1pjw6hEAQYEiABEgLy1fD_BwE"
+                           }, {
+                              "date_added": "13353116535658163",
+                              "date_last_used": "0",
+                              "guid": "3589f2f2-12d6-46e5-8c3d-896196129dd0",
+                              "id": "80",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Bose Companion® 2 Series III multimediehøjttalersystem",
+                              "type": "url",
+                              "url": "https://www.bose.dk/da_dk/products/speakers/computer_speakers/companion-2-series-iii-multimedia-speaker-system.html#v=companion2_black_eu_gb_ie"
+                           }, {
+                              "date_added": "13353116689798200",
+                              "date_last_used": "0",
+                              "guid": "d84598d0-b43e-428f-a903-38a2b1413350",
+                              "id": "81",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "CREATIVE Pebble V3 Minimalistic 2.0 USB-C Desktop Speakers with USB Audio, Clear Dialog Enhancement, Bluetooth 5.0, 8W RMS with 16W Peak Power, USB-A Converter Included (Black) : Amazon.co.uk: Computers & Accessories",
+                              "type": "url",
+                              "url": "https://www.amazon.co.uk/dp/B08F5BQZL8?ascsubtag=08cc68bb7aad49b0b7e2a5d313080f0f|8e466d87-4a1c-4944-b5a1-03b3ab7db68f|dtp|cn&linkCode=gg4&tag=cnet-buy-button-20"
+                           }, {
+                              "date_added": "13353117076167899",
+                              "date_last_used": "0",
+                              "guid": "00cbd5d3-3f25-4597-b263-01785b24b6c0",
+                              "id": "82",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Audioengine A2+ Wireless Bluetooth Computer Speakers - 60W Bluetooth Speaker System for Home, Studio, Gaming with aptX | Wireless and Streaming Audio System (Black, Pair) : Amazon.co.uk: Electronics & Photo",
+                              "type": "url",
+                              "url": "https://www.amazon.co.uk/dp/B07MYV2527?psc=1&th=1&ascsubtag=08cc68bb7aad49b0b7e2a5d313080f0f%7C8e466d87-4a1c-4944-b5a1-03b3ab7db68f%7Cdtp%7Ccn&linkCode=gg4&tag=cnet-buy-button-20"
+                           }, {
+                              "date_added": "13353117350437544",
+                              "date_last_used": "0",
+                              "guid": "00ec5e85-a45a-4469-8055-3d425de8c037",
+                              "id": "83",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "LiNKFOR 3.5mm Stereo Audio Switcher Support 1 In 2 Out or 2 In 1 Out with One-click Mute Volume Control 2 Ports 3.5mm Audio Selector for PC Phone Laptop Speaker Headphone: Amazon.co.uk: Electronics & Photo",
+                              "type": "url",
+                              "url": "https://www.amazon.co.uk/dp/B08L3BQCF7/ref=sspa_dk_detail_6?psc=1&pf_rd_p=84ea1bf1-65a8-4363-b8f5-f0df58cbb686&pf_rd_r=ZN3G67Z4CCNTCP3344W4&pd_rd_wg=zcEdX&pd_rd_w=1M0vf&content-id=amzn1.sym.84ea1bf1-65a8-4363-b8f5-f0df58cbb686&pd_rd_r=9e5d4d3d-2d9a-4438-8dc9-00f61ea54a1e&s=receiver-speakers&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw"
+                           }, {
+                              "date_added": "13353117510191565",
+                              "date_last_used": "0",
+                              "guid": "163e81f2-8656-40c5-ac9a-14733a7c255b",
+                              "id": "84",
+                              "meta_info": {
+                                 "power_bookmark_meta": ""
+                              },
+                              "name": "Genelec 8020 DPM – Thomann Danmark",
+                              "type": "url",
+                              "url": "https://www.thomann.de/dk/genelec_8020_dpm.htm"
+                           } ],
+                           "date_added": "13353116442351767",
+                           "date_last_used": "0",
+                           "date_modified": "13353160460817291",
+                           "guid": "83117982-805a-4009-846a-74c55692f9e2",
+                           "id": "77",
+                           "name": "speaker",
+                           "type": "folder"
+                        } ],
+                        "date_added": "13352927996113673",
+                        "date_last_used": "0",
+                        "date_modified": "13353061364318771",
+                        "guid": "11801c1f-99d7-4c96-8506-c0bd0afaffd4",
+                        "id": "29",
+                        "name": "webcamMicAudio",
+                        "type": "folder"
+                     } ],
+                     "date_added": "13353583439986120",
+                     "date_last_used": "0",
+                     "date_modified": "13355925409726418",
+                     "guid": "ef304c8f-784a-4f8f-baf1-a858d2720f45",
+                     "id": "150",
+                     "name": "sbc",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13353063811431122",
+                        "date_last_used": "0",
+                        "guid": "7d893a13-c2e5-4819-a0cd-91346a3bb061",
+                        "id": "57",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Why Spend lots of $$$ on a NAS? Use FreeBSD and an old PC! - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=sM-9Qm5vGTs&ab_channel=GaryHTech"
+                     } ],
+                     "date_added": "13353063823543688",
+                     "date_last_used": "0",
+                     "date_modified": "13353067342332609",
+                     "guid": "c65715e4-edb7-49b5-96d0-200660de207b",
+                     "id": "58",
+                     "name": "nas",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "children": [ {
+                           "date_added": "13353583327244179",
+                           "date_last_used": "0",
+                           "guid": "19172992-f057-4077-9393-2e6719a8e6e8",
+                           "id": "138",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Programming With STM32: Getting Started With the Nucleo Board and C/C++ : Norris, Donald: Amazon.de: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.de/-/en/Donald-Norris/dp/1260031314/ref=pd_sbs_d_sccl_2_1/260-6086299-0029958?pd_rd_w=bOWC8&content-id=amzn1.sym.6ebe1bf9-1e45-40dc-b013-9e8c7ce1588f&pf_rd_p=6ebe1bf9-1e45-40dc-b013-9e8c7ce1588f&pf_rd_r=8Z0ZQG6TJ3967CK0THM9&pd_rd_wg=mhzuZ&pd_rd_r=0c1f9343-79b2-45c3-8fa7-9cecaaa48431&pd_rd_i=1260031314&psc=1"
+                        }, {
+                           "date_added": "13353583336015653",
+                           "date_last_used": "0",
+                           "guid": "9b2ce365-eabc-4554-baa0-d3b53052ee72",
+                           "id": "139",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Beginning STM32: Developing with FreeRTOS, libopencm3 and GCC : Gay, Warren: Amazon.de: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.de/-/en/Warren-Gay/dp/1484236238/ref=pd_sbs_d_sccl_3_5/260-6086299-0029958?pd_rd_w=8szjC&content-id=amzn1.sym.6ebe1bf9-1e45-40dc-b013-9e8c7ce1588f&pf_rd_p=6ebe1bf9-1e45-40dc-b013-9e8c7ce1588f&pf_rd_r=FQ6KGVD8BFNXQQ5MB0Q0&pd_rd_wg=sIq7g&pd_rd_r=6298212f-9ab2-4123-95ee-1cdd50842003&pd_rd_i=1484236238&psc=1"
+                        }, {
+                           "date_added": "13353583342690227",
+                           "date_last_used": "0",
+                           "guid": "73d16ddb-8d04-4b40-bdae-c01082ba4e5a",
+                           "id": "140",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "The STM32F103 Arm Microcontroller and Embedded Systems: Using Assembly and C : Naimi, Sepehr, Naimi, Sarmad, Mazidi, Muhammad Ali: Amazon.de: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.de/-/en/Sepehr-Naimi/dp/1970054018/ref=sr_1_4?crid=5ME09KL5QUH2&dib=eyJ2IjoiMSJ9.kABYcyJyBMtPu8Kc1SCRKbT0iQtaNA71xV70ezMLPkQE5UuE6IqKPnlukKvLT4-1jfQP9oetThZdQiBWtFjL2naGEY3xk44FoxnutBf8hSijpxWtURiN20aCCG6tX462_6ifrm5IwUdlvAb6NQCKXizKU-AimXRex920aHq5DmacjeWgjiJx4ElAK7NuKdKFiw6M3HUSV2j9yROsnjFa5D5htg3QeMl2zj-p_gjNU4c.J0S6F6BegdwUtSo2tFaMhAUALX15iQ-iD5BVTPstzHk&dib_tag=se&keywords=micro+controller+programming+assembler+and+c&qid=1709107676&s=books&sprefix=micro+controller+programming+assembler+and+%2Cstripbooks%2C221&sr=1-4"
+                        } ],
+                        "date_added": "13353583241875232",
+                        "date_last_used": "0",
+                        "date_modified": "13353583348266134",
+                        "guid": "0c0be0e1-5038-45b6-88d1-e3eb41313107",
+                        "id": "132",
+                        "name": "stm32",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13353583283479539",
+                           "date_last_used": "0",
+                           "guid": "2a56d7c7-ffdc-4a58-9fac-3e799b16aa64",
+                           "id": "134",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Programming Fpgas: Getting Started with Verilog : Monk, Simon: Amazon.de: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.de/-/en/Simon-Monk/dp/125964376X/ref=zg-te-pba_d_sccl_2_6/260-6086299-0029958?pd_rd_w=ZfCEF&content-id=amzn1.sym.2773ee31-e1d7-4b66-89a3-82d27d16ebdc&pf_rd_p=2773ee31-e1d7-4b66-89a3-82d27d16ebdc&pf_rd_r=N8GZE0MTE2VWVJ8NHJ9Q&pd_rd_wg=SNlUu&pd_rd_r=42686fbc-0866-48f5-93c0-a52e726be1ff&pd_rd_i=125964376X&psc=1"
+                        } ],
+                        "date_added": "13353583308560051",
+                        "date_last_used": "0",
+                        "date_modified": "13353583312451564",
+                        "guid": "4be0f5f2-a52b-443a-a758-b2ac55571108",
+                        "id": "135",
+                        "name": "fpga",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13353583312451564",
+                           "date_last_used": "0",
+                           "guid": "9d2cada5-748c-469d-b98f-04a444904db3",
+                           "id": "136",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "C Programming for the PIC Microcontroller: Demystify Coding with Embedded Programming (English Edition) eBook : Ward, Hubert Henry: Amazon.de: Kindle Store",
+                           "type": "url",
+                           "url": "https://www.amazon.de/-/en/Hubert-Henry-Ward-ebook/dp/B082MBXJLX/ref=sr_1_6?crid=5ME09KL5QUH2&dib=eyJ2IjoiMSJ9.kABYcyJyBMtPu8Kc1SCRKbT0iQtaNA71xV70ezMLPkQE5UuE6IqKPnlukKvLT4-1jfQP9oetThZdQiBWtFjL2naGEY3xk44FoxnutBf8hSijpxWtURiN20aCCG6tX462_6ifrm5IwUdlvAb6NQCKXizKU-AimXRex920aHq5DmacjeWgjiJx4ElAK7NuKdKFiw6M3HUSV2j9yROsnjFa5D5htg3QeMl2zj-p_gjNU4c.J0S6F6BegdwUtSo2tFaMhAUALX15iQ-iD5BVTPstzHk&dib_tag=se&keywords=micro+controller+programming+assembler+and+c&qid=1709107676&s=books&sprefix=micro+controller+programming+assembler+and+%2Cstripbooks%2C221&sr=1-6"
+                        } ],
+                        "date_added": "13353583323737124",
+                        "date_last_used": "0",
+                        "date_modified": "13353583327244179",
+                        "guid": "ed90f9f2-42c1-4ab3-8b21-9247e66c042a",
+                        "id": "137",
+                        "name": "pic",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13353583348266134",
+                           "date_last_used": "0",
+                           "guid": "50332199-a40d-4e78-a27c-52105086d37f",
+                           "id": "141",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "The AVR Microcontroller and Embedded Systems Using Assembly and C: Using Arduino Uno and Atmel Studio : Naimi, Sepehr, Naimi, Sarmad, Mazidi, Muhammad Ali: Amazon.de: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.de/-/en/Sepehr-Naimi/dp/0997925965/ref=sr_1_1?crid=3EIBDKV8M8D2Y&dib=eyJ2IjoiMSJ9.KhV87eT50F2wEkZaFk6S44yYtqfh5NynJu4AL1mNY26Z-vupJ6RSM6Bid3dgWTx0cx9_OhjvgtNA_2e_vRJJOBF9hOBFPV9Jw7pl4oEvaeHyspgc2S2i-BbfNA6XvwiAZ07NjnpWSol-4TjBW4OGN25J4r7KU_f44X3lEdVzHr3sZOymHBBJ56FJBgQUdBKuknznodaBdtFwmuMR6ibCd6VTOJAT9QQkFC4IynSXU7s.Dmzk3WUgIAqbmJX2iz-i8wZNrS81CLGGKjH-DPrDVqs&dib_tag=se&keywords=The+Avr+Microcontroller+and+Embedded+Systems+Using+Assembly+and+C&qid=1709108314&s=books&sprefix=the+avr+microcontroller+and+embedded+systems+using+assembly+and+c%2Cstripbooks%2C233&sr=1-1"
+                        } ],
+                        "date_added": "13353583358698502",
+                        "date_last_used": "0",
+                        "date_modified": "13353583362082845",
+                        "guid": "7cbfd407-b327-459f-9f75-9e5ae77b2ca4",
+                        "id": "142",
+                        "name": "avr",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13355333062255758",
+                           "date_last_used": "0",
+                           "guid": "11651117-2946-4975-8134-870ba4c27dc2",
+                           "id": "249",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Low Level Learning - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/@LowLevelLearning/videos"
+                        } ],
+                        "date_added": "13355333080948865",
+                        "date_last_used": "0",
+                        "date_modified": "13355333680501261",
+                        "guid": "438b4c28-8499-4c0f-a8e3-e94758de07f1",
+                        "id": "250",
+                        "name": "site",
+                        "type": "folder"
+                     } ],
+                     "date_added": "13353583234123994",
+                     "date_last_used": "0",
+                     "date_modified": "13353583241875538",
+                     "guid": "3c64bda8-0f8a-4864-a234-9530c4f0383c",
+                     "id": "131",
+                     "name": "embedded",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13355925259740766",
+                        "date_last_used": "0",
+                        "guid": "dc0894fb-5760-4c3f-83cc-a5f1e95b7a52",
+                        "id": "284",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "128-core MONSTER Arm PC: faster than a Mac Pro! - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=argfZlPZKdY&ab_channel=JeffGeerling"
+                     }, {
+                        "date_added": "13355927413468055",
+                        "date_last_used": "0",
+                        "guid": "79af0d86-c243-44c9-96fd-046218e351b1",
+                        "id": "289",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Testing a 96-core Ampere Altra Developer Platform | Jeff Geerling",
+                        "type": "url",
+                        "url": "https://www.jeffgeerling.com/blog/2023/testing-96-core-ampere-altra-developer-platform"
+                     }, {
+                        "date_added": "13355927419504832",
+                        "date_last_used": "0",
+                        "guid": "c26bd403-650f-4c3e-b893-639a9d9bab9f",
+                        "id": "290",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Ampere Altra Developer Platform – I-Pi SMARC",
+                        "type": "url",
+                        "url": "https://www.ipi.wiki/products/ampere-altra-developer-platform?variant=43350239510690"
+                     }, {
+                        "date_added": "13355927429902618",
+                        "date_last_used": "0",
+                        "guid": "6854d3cd-a8bb-4ca2-9648-d88a7268374a",
+                        "id": "291",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Gigabyte G492-PD0 is the Ampere Altra Max Arm NVIDIA A100 Server",
+                        "type": "url",
+                        "url": "https://www.servethehome.com/gigabyte-g492-pd0-is-the-ampere-altra-max-arm-nvidia-a100-server/"
+                     }, {
+                        "date_added": "13355928970348673",
+                        "date_last_used": "0",
+                        "guid": "6113b2f3-9068-4760-bf42-a61e169992fe",
+                        "id": "292",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Ampere Altra Max - Windows, GPUs, and Gaming | Jeff Geerling",
+                        "type": "url",
+                        "url": "https://www.jeffgeerling.com/blog/2023/ampere-altra-max-windows-gpus-and-gaming"
+                     }, {
+                        "date_added": "13355928994615652",
+                        "date_last_used": "0",
+                        "guid": "f0ae5bf7-aaa1-422f-9157-73c61c95d821",
+                        "id": "293",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Ampere Altra Developer Platform – I-Pi SMARC",
+                        "type": "url",
+                        "url": "https://www.ipi.wiki/pages/ampere-altra-developer-platform"
+                     }, {
+                        "date_added": "13355929116450828",
+                        "date_last_used": "0",
+                        "guid": "797c6fb8-0748-4a53-ab5f-f0d41e2e9885",
+                        "id": "294",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "96 ARM cores—it's massive! (Gaming + Windows on Arm!) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=ydGdHjIncbk&ab_channel=JeffGeerling"
+                     } ],
+                     "date_added": "13355925432823921",
+                     "date_last_used": "0",
+                     "date_modified": "13356004170422144",
+                     "guid": "fd32453b-5e3e-4cc4-a063-658c0dcce96a",
+                     "id": "286",
+                     "name": "ampere",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13355925359258526",
+                  "date_last_used": "0",
+                  "date_modified": "13355925432824197",
+                  "guid": "edf3ce6f-e15d-4820-a9fc-3743362e5f08",
+                  "id": "285",
+                  "name": "machine",
+                  "type": "folder"
+               } ],
+               "date_added": "13352747771920548",
+               "date_last_used": "0",
+               "date_modified": "13355925359258734",
+               "guid": "fae47861-7896-48ef-b72f-9c382b7f7e02",
+               "id": "6",
+               "name": "engineer",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13353960377495422",
+                     "date_last_used": "0",
+                     "guid": "329654ef-8958-4e74-9830-28d14426d25c",
+                     "id": "154",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Hvad er P/E-værdi? Her er en intro for begyndere | Nordea",
+                     "type": "url",
+                     "url": "https://www.nordea.dk/privat/dit-liv/investering/investeringsguide/hvad-er-pe.html"
+                  }, {
+                     "date_added": "13353960415668800",
+                     "date_last_used": "0",
+                     "guid": "5493ccba-7fc2-4f96-a03b-12b647764048",
+                     "id": "157",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Hvad er P/E? | Nordnet",
+                     "type": "url",
+                     "url": "https://www.nordnet.dk/dk/kundskab/academy/aktier/aktieanalyse/hvad-er-p-e"
+                  } ],
+                  "date_added": "13353960396459083",
+                  "date_last_used": "0",
+                  "date_modified": "13353961076186136",
+                  "guid": "e2b0077d-1f36-401c-b4ff-0aaab2b2664e",
+                  "id": "156",
+                  "name": "pe",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13353961076186136",
+                     "date_last_used": "0",
+                     "guid": "8f3763e0-614d-4eb3-b615-a2e9a2631f7d",
+                     "id": "158",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Nordnet",
+                     "type": "url",
+                     "url": "https://www.nordnet.dk/externalapi/docs/api"
+                  } ],
+                  "date_added": "13353961093450930",
+                  "date_last_used": "0",
+                  "date_modified": "13353961406581557",
+                  "guid": "81c2e21c-8ca9-40a8-bbec-69449aed51d4",
+                  "id": "159",
+                  "name": "eps",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13353961406581557",
+                     "date_last_used": "0",
+                     "guid": "bafcaa25-9d6d-4b6b-bbeb-073ba614b5bf",
+                     "id": "160",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Aktieanalyse: Fundamental og teknisk analyse. | Nordnet",
+                     "type": "url",
+                     "url": "https://www.nordnet.dk/dk/kundskab/academy/aktier/aktieanalyse/aktieanalyse-fundamental-og-teknisk-analyse"
+                  } ],
+                  "date_added": "13353961418916992",
+                  "date_last_used": "0",
+                  "date_modified": "13353961487634526",
+                  "guid": "6caa6435-05a2-40c3-8c76-c63a40f0d090",
+                  "id": "161",
+                  "name": "fundamental",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13353961487634526",
+                     "date_last_used": "0",
+                     "guid": "65ab0ece-7f8c-4a34-83fe-4ad3fb33739f",
+                     "id": "162",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Aktierådet - aktieanalyser, markedsudvikling og værdipapirer",
+                     "type": "url",
+                     "url": "https://aktieraadet.dk/"
+                  } ],
+                  "date_added": "13353961499888812",
+                  "date_last_used": "0",
+                  "date_modified": "13354189588346722",
+                  "guid": "1ef7eb1d-7fad-455c-a105-293c1cd7c04e",
+                  "id": "163",
+                  "name": "generelt",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13354285119178798",
+                        "date_last_used": "0",
+                        "guid": "d8e2fbda-a91f-4e90-bcf9-f6352f4c6128",
+                        "id": "204",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "How to Day Trade: The Plain Truth: Cameron, Ross: 9798218216979: Amazon.com: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/dp/B0CM825Z81/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B0CM825Z81&pd_rd_w=R5Hpq&content-id=amzn1.sym.eb7c1ac5-7c51-4df5-ba34-ca810f1f119a&pf_rd_p=eb7c1ac5-7c51-4df5-ba34-ca810f1f119a&pf_rd_r=F7P6GH8HNEB7AKZMBCQT&pd_rd_wg=u4ZxD&pd_rd_r=69f83ffc-d2d1-41d5-94e9-375bad9d0e25&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw"
+                     }, {
+                        "date_added": "13354285145415774",
+                        "date_last_used": "0",
+                        "guid": "88377817-df8f-4ebc-882e-9afad5e4e38b",
+                        "id": "207",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Day Trading Chart Patterns : Price Action Patterns + Candlestick Patterns: Mote, Deepak Subhash: 9798388463685: Amazon.com: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Day-Trading-Chart-Patterns-Candlestick/dp/B0BZBR77VC/ref=pd_bxgy_img_d_sccl_2/142-0882512-9079767?pd_rd_w=VUpSI&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=HDH149NW6XV40CQW7VSA&pd_rd_wg=og2is&pd_rd_r=c675df04-1331-4f58-8fdb-adefc6e87e52&pd_rd_i=B0BZBR77VC&psc=1"
+                     } ],
+                     "date_added": "13354285141220385",
+                     "date_last_used": "0",
+                     "date_modified": "13354285246605011",
+                     "guid": "0506cb15-cfd1-43a5-b7df-6fd39757b6b2",
+                     "id": "206",
+                     "name": "dayTrading",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "children": [ {
+                           "children": [ {
+                              "date_added": "13354283304601506",
+                              "date_last_used": "0",
+                              "guid": "1006e79b-7e54-4fd0-b522-6fd4b9049b29",
+                              "id": "192",
+                              "name": "Amazon.com: Technical Analysis Using Multiple Timeframes: 9781598795806: Shannon, Brian: Books",
+                              "type": "url",
+                              "url": "https://www.amazon.com/Technical-Analysis-Using-Multiple-Timeframes/dp/B007NXQHWW/ref=pd_bxgy_img_d_sccl_2/142-0882512-9079767?pd_rd_w=gfVb5&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=SVNZN8537H8VC6EG4SJ2&pd_rd_wg=D7WGY&pd_rd_r=bb018aba-facb-4150-8dc9-818ec2cdd827&pd_rd_i=B007NXQHWW&psc=1"
+                           }, {
+                              "date_added": "13354283304601881",
+                              "date_last_used": "0",
+                              "guid": "c12e38bc-33c6-4163-8cfe-32626db31d10",
+                              "id": "193",
+                              "name": "Amazon.com: Maximum Trading Gains With Anchored VWAP - The Perfect Combination of Price, Time & Volume: 9798986868004: Brian Shannon: Books",
+                              "type": "url",
+                              "url": "https://www.amazon.com/Maximum-Trading-Gains-Anchored-VWAP/dp/B0BLZMMLLJ/ref=pd_bxgy_img_d_sccl_1/142-0882512-9079767?pd_rd_w=gfVb5&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=SVNZN8537H8VC6EG4SJ2&pd_rd_wg=D7WGY&pd_rd_r=bb018aba-facb-4150-8dc9-818ec2cdd827&pd_rd_i=B0BLZMMLLJ&psc=1"
+                           } ],
+                           "date_added": "13354286137243938",
+                           "date_last_used": "0",
+                           "date_modified": "13354286330342832",
+                           "guid": "23d96f2c-402c-4e4e-8f3c-43373348ed09",
+                           "id": "215",
+                           "name": "BrianShannon",
+                           "type": "folder"
+                        }, {
+                           "date_added": "13354283304597126",
+                           "date_last_used": "0",
+                           "guid": "0c14b2e3-d1b7-411e-8bd0-ce8d636e3ec6",
+                           "id": "176",
+                           "name": "How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition: O'Neil, William: 8601400044971: Amazon.com: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133/ref=sr_1_4?crid=H0JZLZFL6G7R&dib=eyJ2IjoiMSJ9.Ndz_1Wgza1Rx6oj5O7QJzIO7DXRbo2rhnyrFZ9H_Vk-7F7pvSZA5KbAEIJDIJOtf3hv1j4lmrK52N0Ch9g_D_J9hCuGQu-Ytsz5Fm02UbLpzT_5SSvcyfQ2vmUAlXgOvNrTiHM-HErilmEvsxlDf3UnbRXoxSr-BsDtDDFIPOSQ3W-nZgBTWIVz1XZh-3T_jJdog1zylxn5Pt2gCnUylqFQWZGwVS8DC36rj-b6BuHA.sEa2iTksX-J2lyPDwuh1PZTjW_DYo-6a5edpf7yu2TM&dib_tag=se&keywords=stock+invest&qid=1709808490&s=books&sprefix=stock+invest%2Cstripbooks-intl-ship%2C270&sr=1-4"
+                        }, {
+                           "date_added": "13354283304597473",
+                           "date_last_used": "0",
+                           "guid": "8221fa5e-b06d-4946-b9da-eec5a1bd6a40",
+                           "id": "177",
+                           "name": "Trade Like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market: Minervini, Mark: 8601404844553: Amazon.com: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/Trade-Like-Stock-Market-Wizard/dp/0071807225/ref=pd_bxgy_img_d_sccl_1/142-0882512-9079767?pd_rd_w=YnVtT&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=KXEKXTC018D1YVHHG9PN&pd_rd_wg=UQZKb&pd_rd_r=28771363-2fa7-48eb-85fc-52bb55a52daa&pd_rd_i=0071807225&psc=1"
+                        }, {
+                           "date_added": "13354283304597712",
+                           "date_last_used": "0",
+                           "guid": "79e33b15-70af-414e-9023-8543358ea102",
+                           "id": "178",
+                           "name": "Think & Trade Like a Champion: The Secrets, Rules & Blunt Truths of a Stock Market Wizard: Mark Minervini: 9780996307932: Amazon.com: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/Think-Trade-Like-Champion-Secrets/dp/0996307931/ref=pd_bxgy_img_d_sccl_2/142-0882512-9079767?pd_rd_w=YnVtT&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=KXEKXTC018D1YVHHG9PN&pd_rd_wg=UQZKb&pd_rd_r=28771363-2fa7-48eb-85fc-52bb55a52daa&pd_rd_i=0996307931&psc=1"
+                        }, {
+                           "date_added": "13354283304597928",
+                           "date_last_used": "0",
+                           "guid": "26d343f6-3807-47be-a3e7-b2613e6e7915",
+                           "id": "179",
+                           "name": "Amazon.com: Investing QuickStart Guide: The Simplified Beginner's Guide to Successfully Navigating the Stock Market, Growing Your Wealth & Creating a Secure Financial Future (QuickStart Guides™ - Finance): 9781636100289: Snow CFP MBA, Ted D.: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/Investing-QuickStart-Guide-Simplified-Successfully/dp/1636100287/ref=sr_1_11?crid=H0JZLZFL6G7R&dib=eyJ2IjoiMSJ9.Ndz_1Wgza1Rx6oj5O7QJzIO7DXRbo2rhnyrFZ9H_Vk-7F7pvSZA5KbAEIJDIJOtf3hv1j4lmrK52N0Ch9g_D_J9hCuGQu-Ytsz5Fm02UbLpzT_5SSvcyfQ2vmUAlXgOvNrTiHM-HErilmEvsxlDf3UnbRXoxSr-BsDtDDFIPOSQ3W-nZgBTWIVz1XZh-3T_jJdog1zylxn5Pt2gCnUylqFQWZGwVS8DC36rj-b6BuHA.sEa2iTksX-J2lyPDwuh1PZTjW_DYo-6a5edpf7yu2TM&dib_tag=se&keywords=stock+invest&qid=1709808490&s=books&sprefix=stock+invest%2Cstripbooks-intl-ship%2C270&sr=1-11"
+                        }, {
+                           "date_added": "13354283304598206",
+                           "date_last_used": "0",
+                           "guid": "b6ab5b8b-9a0b-4a81-97f1-9aabbca5a51b",
+                           "id": "180",
+                           "name": "A Beginner's Guide to the Stock Market: Everything You Need to Start Making Money Today: Kratter, Matthew R.: 9781099617201: Amazon.com: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/Beginners-Guide-Stock-Market-Everything/dp/1099617200/ref=pd_bxgy_img_d_sccl_1/142-0882512-9079767?pd_rd_w=opkXL&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=G819MWFP3EJX1KCXK28F&pd_rd_wg=Ad9hy&pd_rd_r=42476464-6a41-4bcd-946c-2deeeafa79ba&pd_rd_i=1099617200&psc=1"
+                        }, {
+                           "date_added": "13354285246605011",
+                           "date_last_used": "0",
+                           "guid": "3ed24faf-363b-4c04-9658-de333126218c",
+                           "id": "208",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Amazon.com: The Big Book of Stock Trading Strategies: 9781549811142: Kratter, Matthew R.: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/Big-Book-Stock-Trading-Strategies/dp/1549811142/ref=sims_dp_d_dex_ai_speed_loc_mtl_v4_d_sccl_2_5/142-0882512-9079767?pd_rd_w=kbsSN&content-id=amzn1.sym.f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_p=f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_r=7NNB18HF31BSXSWXPKS3&pd_rd_wg=1yXoJ&pd_rd_r=07440190-a528-4d8d-9572-bb9fd2e9f9e1&pd_rd_i=1549811142&psc=1"
+                        }, {
+                           "date_added": "13354283304599142",
+                           "date_last_used": "0",
+                           "guid": "f80bae0c-4a5e-4e30-970f-7533092fd254",
+                           "id": "185",
+                           "name": "Amazon.com: A Beginner's Guide to the Stock Market: Everything You Need to Start Making Money Today (Audible Audio Edition): Matthew R. Kratter, Mike Norgaard, Little Cash Machines LLC: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/dp/B07V25GQPC?plink=5ltADXw7rxcy1UU6&pf_rd_r=9QC2JAQBBTN2W6FSBSTJ&pf_rd_p=fe481a04-2a3d-4d8f-9976-3312f3fd8e70&ref_=adblp13nvvxx_0_3_im"
+                        }, {
+                           "date_added": "13354286330342832",
+                           "date_last_used": "0",
+                           "guid": "b0502d4f-eb63-4b8e-bd47-67188b6891bf",
+                           "id": "216",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Amazon.com: A Complete Guide To Volume Price Analysis: 8601405923653: Coulling, Anna: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/Complete-Guide-Price-Analysis/dp/1491249390/ref=pd_bxgy_img_d_sccl_2/142-0882512-9079767?pd_rd_w=BwH3q&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=SSQTP6B12NXR3PRNNVM2&pd_rd_wg=quVoA&pd_rd_r=8d0f85b3-fe3f-491a-8c05-bab6cc2a7e90&pd_rd_i=1491249390&psc=1"
+                        }, {
+                           "date_added": "13354375412899033",
+                           "date_last_used": "0",
+                           "guid": "1b976dc4-c72b-4e7b-9af6-b14096ac29a4",
+                           "id": "218",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "report",
+                           "type": "url",
+                           "url": "https://app.danlon.dk/report?data=BogforingDataProvider&definition=BogforingsListe&pphc=4a67347f7ec3432b47e3b9005383e9f12b4ecb65&type=1&u=1709863737494"
+                        } ],
+                        "date_added": "13354283407910000",
+                        "date_last_used": "0",
+                        "date_modified": "13354623923542654",
+                        "guid": "a3b83094-5c6f-4328-8e76-709624fbd127",
+                        "id": "200",
+                        "name": "must",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13354283304598419",
+                           "date_last_used": "0",
+                           "guid": "988beada-ce3e-4a72-876f-253032dd1564",
+                           "id": "181",
+                           "name": "Amazon.com: Invest Like Warren Buffett: Powerful Strategies for Building Wealth (Audible Audio Edition): Matthew R. Kratter, Mike Norgaard, Little Cash Machines LLC: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/Invest-Like-Warren-Buffett-audiobook/dp/B01N23GKPV/ref=sr_1_18?crid=H0JZLZFL6G7R&dib=eyJ2IjoiMSJ9.nxzjwVIGh6VXyE5Dq_DsG0Ursqo88NlC5J3cXnnmDntT5pN1m7tQTC8RSZAeT-kPlKvs0apNDfSAXF-uNrQ8OichIXR5JjdIdzccPAjFrBrJ1JCxNXQNVzvax32uwywpg0LP9joJMsRfOlhsNy36yHAMW0TqoLtTKyny0DjV9Vo.NjDODm3gqse-i0m9VyA2gJGSiyuzEA0_s6smhsxqRCY&dib_tag=se&keywords=stock+invest&qid=1709808604&s=books&sprefix=stock+invest%2Cstripbooks-intl-ship%2C270&sr=1-18"
+                        }, {
+                           "date_added": "13354283304603868",
+                           "date_last_used": "0",
+                           "guid": "8301a7ea-4f60-4668-80b8-9b2afa95b536",
+                           "id": "198",
+                           "name": "The Little Book That Still Beats the Market: Greenblatt, Joel, Tobias, Andrew: 8601300286433: Amazon.com: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159/ref=bmx_dp_6lg4m6no_d_sccl_2_4/142-0882512-9079767?pd_rd_w=jeWHu&content-id=amzn1.sym.2d3e76dc-c4bd-4e07-8ec4-d52b40e7fd91&pf_rd_p=2d3e76dc-c4bd-4e07-8ec4-d52b40e7fd91&pf_rd_r=GR6SMDKT7BHM8B4TQ0PT&pd_rd_wg=fHRun&pd_rd_r=c5cee098-4732-4236-bb51-2940340f4318&pd_rd_i=0470624159&psc=1"
+                        }, {
+                           "date_added": "13354283304599615",
+                           "date_last_used": "0",
+                           "guid": "bad769dd-3fb4-4a78-a333-a5f4e215cf3b",
+                           "id": "187",
+                           "name": "Amazon.com: The Little Black Book of Stock Market Secrets (Audible Audio Edition): Matthew R. Kratter, Mike Norgaard, Little Cash Machines LLC: Books",
+                           "type": "url",
+                           "url": "https://www.amazon.com/dp/B06XK9Z571?plink=ppIjqPaNcg2KtxLG&pf_rd_r=0XKB6A3NRMXV1GW73YJG&pf_rd_p=fe481a04-2a3d-4d8f-9976-3312f3fd8e70&ref_=adblp13nvvxx_0_1_im"
+                        } ],
+                        "date_added": "13354285056086674",
+                        "date_last_used": "0",
+                        "date_modified": "13354286518588213",
+                        "guid": "358e14bf-4fd9-4dc5-af0e-40016ecbc411",
+                        "id": "203",
+                        "name": "park",
+                        "type": "folder"
+                     }, {
+                        "date_added": "13354283304599316",
+                        "date_last_used": "0",
+                        "guid": "30884f5f-e442-467a-acae-835bbb38ebdf",
+                        "id": "186",
+                        "name": "Amazon.com: Learn to Trade Momentum Stocks (Audible Audio Edition): Matthew R. Kratter, Mike Norgaard, Little Cash Machines LLC: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/dp/B079Y515VF?plink=KGCQgFhr8xTx3CBZ&pf_rd_r=9QC2JAQBBTN2W6FSBSTJ&pf_rd_p=fe481a04-2a3d-4d8f-9976-3312f3fd8e70&ref_=adblp13npsbx_1_2_im"
+                     }, {
+                        "date_added": "13354283304599923",
+                        "date_last_used": "0",
+                        "guid": "fdfc168d-dce2-42f9-b6c7-1216b95b9594",
+                        "id": "188",
+                        "name": "Amazon.com: Buffett’s 2-Step Stock Market Strategy: Know When to Buy A Stock, Become a Millionaire, Get The Highest Returns: 9798677554032: Jiwani, Danial: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Buffetts-2-Step-Stock-Market-Strategy/dp/B08GFSZHHV/ref=sr_1_21?crid=H0JZLZFL6G7R&dib=eyJ2IjoiMSJ9.nxzjwVIGh6VXyE5Dq_DsG0Ursqo88NlC5J3cXnnmDntT5pN1m7tQTC8RSZAeT-kPlKvs0apNDfSAXF-uNrQ8OichIXR5JjdIdzccPAjFrBrJ1JCxNXQNVzvax32uwywpg0LP9joJMsRfOlhsNy36yHAMW0TqoLtTKyny0DjV9Vo.NjDODm3gqse-i0m9VyA2gJGSiyuzEA0_s6smhsxqRCY&dib_tag=se&keywords=stock+invest&qid=1709808604&s=books&sprefix=stock+invest%2Cstripbooks-intl-ship%2C270&sr=1-21"
+                     }, {
+                        "date_added": "13354283304598808",
+                        "date_last_used": "0",
+                        "guid": "c39be9cd-7705-4ceb-8758-2056a4c5ea01",
+                        "id": "183",
+                        "name": "Amazon.com: Dividend Investing Made Easy (Audible Audio Edition): Mike Norgaard, Matthew R. Kratter, Little Cash Machines LLC: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/dp/B07F91X77J?plink=cw4m8C5AOVUOErge&pf_rd_r=3VE4N81JCFJMCVYQFMP2&pf_rd_p=fe481a04-2a3d-4d8f-9976-3312f3fd8e70&ref_=adblp13nvvxx_0_2_im"
+                     }, {
+                        "date_added": "13354283304598966",
+                        "date_last_used": "0",
+                        "guid": "f6c1f5e2-095b-4f13-9a05-ddc2ec323a32",
+                        "id": "184",
+                        "name": "Amazon.com: Dividend Growth Machine: How to Supercharge Your Investment Returns with Dividend Stocks (Audible Audio Edition): Nathan Winklepleck, Nathan Winklepleck, Perennial Press: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/dp/B07YNZZZTN?plink=5ltADXw7rxcy1UU6&pf_rd_r=9QC2JAQBBTN2W6FSBSTJ&pf_rd_p=fe481a04-2a3d-4d8f-9976-3312f3fd8e70&ref_=adblp13nvvxx_0_1_im"
+                     }, {
+                        "date_added": "13354283304600337",
+                        "date_last_used": "0",
+                        "guid": "ad6c978f-86f2-44e2-9a39-96a95c3a6167",
+                        "id": "189",
+                        "name": "The Intelligent Investor Rev Ed.: The Definitive Book on Value Investing: Benjamin Graham, Jason Zweig, Warren E. Buffett: Amazon.com: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=pd_bxgy_img_d_sccl_2/142-0882512-9079767?pd_rd_w=C54cO&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=R3NDB1NBAYVTTDH89FGR&pd_rd_wg=1DovO&pd_rd_r=5dcfa51f-dd69-403c-8324-3bbd042a45b2&pd_rd_i=0060555661&psc=1"
+                     }, {
+                        "date_added": "13354283304600729",
+                        "date_last_used": "0",
+                        "guid": "17cdde6e-3e02-446d-aa3d-5821b0a0a891",
+                        "id": "190",
+                        "name": "Amazon.com: How to Invest: Masters on the Craft: 9781982190309: Rubenstein, David M.: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/How-Invest-David-M-Rubenstein/dp/1982190302/ref=sr_1_26?crid=H0JZLZFL6G7R&dib=eyJ2IjoiMSJ9.nxzjwVIGh6VXyE5Dq_DsG0Ursqo88NlC5J3cXnnmDntT5pN1m7tQTC8RSZAeT-kPlKvs0apNDfSAXF-uNrQ8OichIXR5JjdIdzccPAjFrBrJ1JCxNXQNVzvax32uwywpg0LP9joJMsRfOlhsNy36yHAMW0TqoLtTKyny0DjV9Vo.NjDODm3gqse-i0m9VyA2gJGSiyuzEA0_s6smhsxqRCY&dib_tag=se&keywords=stock+invest&qid=1709808604&s=books&sprefix=stock+invest%2Cstripbooks-intl-ship%2C270&sr=1-26"
+                     }, {
+                        "date_added": "13354283304601098",
+                        "date_last_used": "0",
+                        "guid": "96423c27-cb45-4ba3-996d-446cf27a4b4a",
+                        "id": "191",
+                        "name": "Amazon.com: Invest Like a Pro: Using Technical Analysis in Multiple Time Frames and Trend Analysis to Improve Timing in Stock Investing: 9798619337686: Rabil, Joe: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Invest-Like-Pro-Technical-Investing/dp/B085KFTVKZ/ref=sr_1_40?crid=H0JZLZFL6G7R&dib=eyJ2IjoiMSJ9.cVNZk9aVDk3xj2U4HoLD3ZN7qqGtMxmck1kMPHAxpkwErUDvQrzvkN49ahAbVsO1brooyftZwt5mPK4AgdV2GwxH-A67P2J-Zwn15QF-HHIhpWPRKGlut36YOCoke5gDeo1RXQI08WioYq74e4X4nejM31OkIfyWB1HS59Y5fgU.MsW5tHcDqIo0dYzlKpVMQmEKRKlQ9hbykpzK-tmvZ6E&dib_tag=se&keywords=stock+invest&qid=1709808697&s=books&sprefix=stock+invest%2Cstripbooks-intl-ship%2C270&sr=1-40"
+                     }, {
+                        "date_added": "13354283304602267",
+                        "date_last_used": "0",
+                        "guid": "b9810b86-c557-4916-8451-9357900d2064",
+                        "id": "194",
+                        "name": "Trading: Technical Analysis Masterclass: Master the financial markets: Schlotmann, Rolf, Czubatinski, Moritz: 9781795471855: Amazon.com: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Trading-Technical-Analysis-Masterclass-financial/dp/1795471859/ref=sims_dp_d_dex_ai_speed_loc_mtl_v4_d_sccl_2_4/142-0882512-9079767?pd_rd_w=rH2yp&content-id=amzn1.sym.f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_p=f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_r=P63ZH251MCNZPG4P82AM&pd_rd_wg=DzA2t&pd_rd_r=a88b476d-015e-4eaa-9e04-ea8224b002ca&pd_rd_i=1795471859&psc=1"
+                     }, {
+                        "date_added": "13354283304602655",
+                        "date_last_used": "0",
+                        "guid": "7ea9126b-27b6-4e96-b95f-81dee224cf63",
+                        "id": "195",
+                        "name": "Amazon.com: Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications: 8580001070285: John J. Murphy: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661/ref=sims_dp_d_dex_ai_speed_loc_mtl_v4_d_sccl_2_5/142-0882512-9079767?pd_rd_w=rH2yp&content-id=amzn1.sym.f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_p=f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_r=P63ZH251MCNZPG4P82AM&pd_rd_wg=DzA2t&pd_rd_r=a88b476d-015e-4eaa-9e04-ea8224b002ca&pd_rd_i=0735200661&psc=1"
+                     }, {
+                        "date_added": "13354283304603089",
+                        "date_last_used": "0",
+                        "guid": "1a8cefbd-d6a2-46bf-ad83-1eb69c2f9e7d",
+                        "id": "196",
+                        "name": "VOLUME PROFILE: The insider's guide to trading: Dale, Trader: 9781718067578: Amazon.com: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/PROFILE-insiders-guide-trading/dp/1718067577/ref=sims_dp_d_dex_ai_speed_loc_mtl_v4_d_sccl_2_3/142-0882512-9079767?pd_rd_w=rH2yp&content-id=amzn1.sym.f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_p=f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_r=P63ZH251MCNZPG4P82AM&pd_rd_wg=DzA2t&pd_rd_r=a88b476d-015e-4eaa-9e04-ea8224b002ca&pd_rd_i=1718067577&psc=1"
+                     }, {
+                        "date_added": "13354283304603455",
+                        "date_last_used": "0",
+                        "guid": "a1555119-033e-4ea5-8839-e4d526d3c880",
+                        "id": "197",
+                        "name": "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns (Little Books, Big Profits): Bogle, John C.: 9781119404507: Amazon.com: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509/ref=sr_1_52?crid=H0JZLZFL6G7R&dib=eyJ2IjoiMSJ9.saCGzNF8nBRC8EEuS0bn1G3Am0q7o8wZdt5G3wB35Kxe6W1jS_CPuQdtl8JPHPB2NXn0rd1l4rdoKVgWsLw7Kg.Mjy5dlg0RurAcXIq-wAU-6BnuKWf1BIzOlyHVeiirAs&dib_tag=se&keywords=stock+invest&qid=1709808780&s=books&sprefix=stock+invest%2Cstripbooks-intl-ship%2C270&sr=1-52"
+                     }, {
+                        "date_added": "13354283304604241",
+                        "date_last_used": "0",
+                        "guid": "0f4ddd43-a242-4cbc-9105-037bbb93ecdc",
+                        "id": "199",
+                        "name": "One Up On Wall Street: How To Use What You Already Know To Make Money In The Market: Lynch, Peter, Rothchild, John: 8601404230394: Amazon.com: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/ref=bmx_dp_6lg4m6no_d_sccl_2_3/142-0882512-9079767?pd_rd_w=jeWHu&content-id=amzn1.sym.2d3e76dc-c4bd-4e07-8ec4-d52b40e7fd91&pf_rd_p=2d3e76dc-c4bd-4e07-8ec4-d52b40e7fd91&pf_rd_r=GR6SMDKT7BHM8B4TQ0PT&pd_rd_wg=fHRun&pd_rd_r=c5cee098-4732-4236-bb51-2940340f4318&pd_rd_i=0743200403&psc=1"
+                     }, {
+                        "date_added": "13354284801609974",
+                        "date_last_used": "0",
+                        "guid": "08bd4290-7495-4573-8c0a-9cc3f78dbc55",
+                        "id": "201",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Amazon.com: Stock Market 101: From Bull and Bear Markets to Dividends, Shares, and Margins―Your Essential Guide to the Stock Market (Adams 101 Series): 9781440599194: Cagan CPA, Michele: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/dp/144059919X/ref=sspa_dk_detail_1?psc=1&pd_rd_i=144059919X&pd_rd_w=zJVeV&content-id=amzn1.sym.eb7c1ac5-7c51-4df5-ba34-ca810f1f119a&pf_rd_p=eb7c1ac5-7c51-4df5-ba34-ca810f1f119a&pf_rd_r=86NTMY7MZVKBXRRK65TB&pd_rd_wg=5ijYe&pd_rd_r=eb9d33e8-120c-4074-8be4-e372ae11c912&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw"
+                     }, {
+                        "date_added": "13354284812305566",
+                        "date_last_used": "0",
+                        "guid": "96c11bf0-96c1-41e6-87fb-caabcdaf9854",
+                        "id": "202",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Amazon.com: Investing 101: From Stocks and Bonds to ETFs and IPOs, an Essential Primer on Building a Profitable Portfolio (Adams 101 Series): 9781440595134: Cagan CPA, Michele: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Investing-101-Essential-Profitable-Portfolio/dp/1440595135/ref=pd_bxgy_img_d_sccl_1/142-0882512-9079767?pd_rd_w=Sj2lR&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=FC809D232YCXHVY49B9E&pd_rd_wg=1Wm2n&pd_rd_r=88832d73-55f2-439b-99ea-58b11adf7066&pd_rd_i=1440595135&psc=1"
+                     } ],
+                     "date_added": "13354285268711895",
+                     "date_last_used": "0",
+                     "date_modified": "13354286360712630",
+                     "guid": "23048573-8a11-4c8c-9d73-93041b6198c5",
+                     "id": "209",
+                     "name": "longTerm",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13354285912134739",
+                        "date_last_used": "0",
+                        "guid": "dba37d8d-3b5b-4734-a099-1a6c089551fc",
+                        "id": "213",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Amazon.com: Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications: 8580001070285: John J. Murphy: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661/ref=sims_dp_d_dex_ai_speed_loc_mtl_v4_d_sccl_2_3/142-0882512-9079767?pd_rd_w=f8vua&content-id=amzn1.sym.f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_p=f8b81522-706a-46d3-a585-5fc6e1682ebe&pf_rd_r=SSQTP6B12NXR3PRNNVM2&pd_rd_wg=quVoA&pd_rd_r=8d0f85b3-fe3f-491a-8c05-bab6cc2a7e90&pd_rd_i=0735200661&psc=1"
+                     }, {
+                        "date_added": "13354285919240073",
+                        "date_last_used": "0",
+                        "guid": "6ac1d59d-301c-41be-a857-e5aac7d637d6",
+                        "id": "214",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Amazon.com: Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications (New York Institute of Finance S): 9780735200654: John J. Murphy: Books",
+                        "type": "url",
+                        "url": "https://www.amazon.com/Study-Technical-Analysis-Financial-Markets/dp/0735200653/ref=pd_bxgy_img_d_sccl_1/142-0882512-9079767?pd_rd_w=1jJNy&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=FJZZQ3XNQSCRF97WM50G&pd_rd_wg=b3wqW&pd_rd_r=8ed7744c-29b6-4ebf-bed5-2bc3c4d31719&pd_rd_i=0735200653&psc=1"
+                     } ],
+                     "date_added": "13354285860378414",
+                     "date_last_used": "0",
+                     "date_modified": "13354285919240073",
+                     "guid": "7301ec42-bc0b-4086-92b9-274a7c31e5ac",
+                     "id": "212",
+                     "name": "haveItMaybe",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13354285141220144",
+                  "date_last_used": "0",
+                  "date_modified": "13354285912134739",
+                  "guid": "4b337692-8562-4cdf-8d00-7ea90035f585",
+                  "id": "205",
+                  "name": "books",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13354969727033885",
+                     "date_last_used": "0",
+                     "guid": "4872e452-ce85-4127-88ff-3d0efcef938a",
+                     "id": "225",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "What are small, mid & large-cap stocks? | Saxo Group",
+                     "type": "url",
+                     "url": "https://www.home.saxo/learn/guides/equities/what-are-small-mid-and-large-cap-stocks"
+                  } ],
+                  "date_added": "13354969745973221",
+                  "date_last_used": "0",
+                  "date_modified": "13354973786130353",
+                  "guid": "7ceb1077-2831-4f4d-9996-5805f74661d9",
+                  "id": "226",
+                  "name": "cap",
+                  "type": "folder"
+               } ],
+               "date_added": "13353960396458965",
+               "date_last_used": "0",
+               "date_modified": "13354285306640254",
+               "guid": "a59978e3-45b2-4b02-b212-2a2781270e92",
+               "id": "155",
+               "name": "invest",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354967930263203",
+                  "date_last_used": "0",
+                  "guid": "523b8806-331c-4cb2-bc13-3f16b1faeec6",
+                  "id": "223",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Online kurser | Mit Røde Kors",
+                  "type": "url",
+                  "url": "https://mitrodekors.dk/onlinekurser"
+               } ],
+               "date_added": "13354967940742533",
+               "date_last_used": "0",
+               "date_modified": "13354969727033885",
+               "guid": "9e006813-811e-4389-bc42-9aa2c1f3f574",
+               "id": "224",
+               "name": "roedekors",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13355236745191487",
+                     "date_last_used": "0",
+                     "guid": "82c60a86-7ec0-4afb-856e-51c36f435ec0",
+                     "id": "236",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Teknik- og Miljøforvaltningens Kundecenter | Københavns Kommunes hjemmeside",
+                     "type": "url",
+                     "url": "https://www.kk.dk/borger/bolig-og-byggeri/byggetilladelse/hjaelp-til-din-byggeansoegning/kundecenter"
+                  } ],
+                  "date_added": "13355236766384730",
+                  "date_last_used": "0",
+                  "date_modified": "13355246108629943",
+                  "guid": "87d713fe-62ef-4dae-bbd8-2dd7fe5acdea",
+                  "id": "238",
+                  "name": "teknikOgMiljo",
+                  "type": "folder"
+               } ],
+               "date_added": "13355236766384590",
+               "date_last_used": "0",
+               "date_modified": "13355236766384590",
+               "guid": "4c0adcb8-b90d-43a7-81fd-4cf7f6caf77a",
+               "id": "237",
+               "name": "lejlighed",
+               "type": "folder"
+            } ],
+            "date_added": "13355490474024228",
+            "date_last_used": "0",
+            "date_modified": "13355658863974741",
+            "guid": "28f27dc8-4f74-4b80-b739-72849bc2e401",
+            "id": "265",
+            "name": "bookmark-after-malicious-site-from-freebsd-forum",
+            "type": "folder"
+         } ],
+         "date_added": "13352726830528311",
+         "date_last_used": "0",
+         "date_modified": "13355490474024544",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13352726830528312",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
