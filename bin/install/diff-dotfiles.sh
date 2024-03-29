@@ -28,5 +28,5 @@ diff_dotfile() {
 diff_dotfile ~/.zshrc $DOTFILES_HOME/.zshrc
 diff_dotfile ~/.xinitrc $DOTFILES_HOME/.xinitrc
 diff_dotfile ~/.Xdefaults $DOTFILES_HOME/.Xdefaults
-diff_dotfile ~/.xbindkeysr $DOTFILES_HOME/.xbindkeysrc
+diff_dotfile ~/.xbindkeysrc $DOTFILES_HOME/.xbindkeysrc
 diff_dotfile $BOOKMARKS_HOME/Bookmarks $DOTFILES_BOOKMARKS_HOME/Bookmarks
