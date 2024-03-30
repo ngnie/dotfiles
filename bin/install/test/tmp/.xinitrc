@@ -1,0 +1,1 @@
+/home/nikolaj/ngr/engineer/repos/dotfiles/.xinitrc

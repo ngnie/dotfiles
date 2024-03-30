@@ -10,6 +10,6 @@ SLSTATUS_HOME=/usr/local/src/slstatus
 
 source ./utils.sh
 
-diff_dotfile $X11_HOME/xorg.conf $DOTFILES_X11_HOME/xorg.conf
-diff_dotfile $DWM_HOME/config.h $DOTFILES_DWM_HOME/config.h
-diff_dotfile $SLSTATUS_HOME/config.h $DOTFILES_SLSTATUS_HOME/config.h
+diff_dotfile $DOTFILES_X11_HOME/xorg.conf $X11_HOME/xorg.conf
+diff_dotfile $DOTFILES_DWM_HOME/config.h $DWM_HOME/config.h
+diff_dotfile $DOTFILES_SLSTATUS_HOME/config.h $SLSTATUS_HOME/config.h

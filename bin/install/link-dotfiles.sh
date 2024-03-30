@@ -2,7 +2,9 @@
 
 DOTFILES_HOME=/home/nikolaj/ngr/engineer/repos/dotfiles
 DOTFILES_BOOKMARKS_HOME=$DOTFILES_HOME/.config/chromium/Default
-BOOKMARKS_HOME=/home/nikolaj/.config/chromium/Default
+DOTFILES_LF_HOME=$DOTFILES_HOME/.config/lf
+BOOKMARKS_HOME=~/.config/chromium/Default
+LF_HOME=~/.config/lf
 
 source ./utils.sh
 
@@ -19,8 +21,9 @@ create_bookmark_folder() {
 
 create_bookmark_folder
 
-create_link ~/.zshrc $DOTFILES_HOME/.zshrc
-create_link ~/.xinitrc $DOTFILES_HOME/.xinitrc
-create_link ~/.Xdefaults $DOTFILES_HOME/.Xdefaults
-create_link ~/.xbindkeysrc $DOTFILES_HOME/.xbindkeysrc
-create_link $BOOKMARKS_HOME/Bookmarks $DOTFILES_BOOKMARKS_HOME/Bookmarks
+create_file_link $DOTFILES_HOME/.zshrc ~/.zshrc
+create_file_link $DOTFILES_HOME/.xinitrc ~/.xinitrc
+create_file_link $DOTFILES_HOME/.Xdefaults ~/.Xdefaults
+create_file_link $DOTFILES_HOME/.xbindkeysrc ~/.xbindkeysrc
+create_file_link $DOTFILES_BOOKMARKS_HOME/Bookmarks $BOOKMARKS_HOME/Bookmarks
+create_folder_link $DOTFILES_LF_HOME $LF_HOME

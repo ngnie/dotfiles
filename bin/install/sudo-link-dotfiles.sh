@@ -10,6 +10,6 @@ SLSTATUS_HOME=/usr/local/src/slstatus
 
 source ./utils.sh
 
-create_link $X11_HOME/xorg.conf $DOTFILES_X11_HOME/xorg.conf
-create_link $DWM_HOME/config.h $DOTFILES_DWM_HOME/config.h
-create_link $SLSTATUS_HOME/config.h $DOTFILES_SLSTATUS_HOME/config.h
+create_file_link $DOTFILES_X11_HOME/xorg.conf $X11_HOME/xorg.conf
+create_file_link $DOTFILES_DWM_HOME/config.h $DWM_HOME/config.h
+create_file_link $DOTFILES_SLSTATUS_HOME/config.h $SLSTATUS_HOME/config.h

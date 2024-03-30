@@ -6,8 +6,8 @@ BOOKMARKS_HOME=/home/nikolaj/.config/chromium/Default
 
 source ./utils.sh
 
-diff_dotfile ~/.zshrc $DOTFILES_HOME/.zshrc
-diff_dotfile ~/.xinitrc $DOTFILES_HOME/.xinitrc
-diff_dotfile ~/.Xdefaults $DOTFILES_HOME/.Xdefaults
-diff_dotfile ~/.xbindkeysrc $DOTFILES_HOME/.xbindkeysrc
-diff_dotfile $BOOKMARKS_HOME/Bookmarks $DOTFILES_BOOKMARKS_HOME/Bookmarks
+diff_dotfile $DOTFILES_HOME/.zshrc ~/.zshrc
+diff_dotfile $DOTFILES_HOME/.xinitrc ~/.xinitrc
+diff_dotfile $DOTFILES_HOME/.Xdefaults ~/.Xdefaults
+diff_dotfile $DOTFILES_HOME/.xbindkeysrc ~/.xbindkeysrc
+diff_dotfile $DOTFILES_BOOKMARKS_HOME/Bookmarks $BOOKMARKS_HOME/Bookmarks
