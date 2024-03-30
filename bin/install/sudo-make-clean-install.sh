@@ -24,4 +24,3 @@ else
   cd $DMENU_HOME
   make clean install
 fi
-

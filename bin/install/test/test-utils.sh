@@ -7,6 +7,7 @@ DOTFILES_CONFIG_HOME=$DOTFILES_HOME/.config
 TEST_HOME=$DOTFILES_HOME/bin/install/test
 TEST_TMP_HOME=$TEST_HOME/tmp
 TEST_CONFIG_HOME=$TEST_TMP_HOME/.config
+TEST_CONFIG_LF_HOME=$TEST_TMP_HOME/.config/lf
 
 if [ ! $UTILS_FILE ]; then
   echo "$UTILS_FILE file not found"
@@ -123,3 +124,41 @@ if [ ! -L $TEST_CONFIG_HOME/lf ]; then
 fi
 rm $TEST_CONFIG_HOME/lf
 
+# folder is equal
+mkdir $TEST_CONFIG_HOME/lf
+cp $DOTFILES_CONFIG_HOME/lf/* $TEST_CONFIG_HOME/lf
+diff_folder $DOTFILES_CONFIG_HOME/lf $TEST_CONFIG_HOME/lf
+if [ ! -d $TEST_CONFIG_HOME/lf ]; then
+  echo "Assert: folder should exist"
+fi
+rm $TEST_CONFIG_LF_HOME/lfrc
+rm $TEST_CONFIG_LF_HOME/preview.sh
+rmdir $TEST_CONFIG_HOME/lf
+
+# folder has difference
+mkdir $TEST_CONFIG_HOME/lf
+cp $DOTFILES_CONFIG_HOME/lf/* $TEST_CONFIG_HOME/lf
+echo "a difference" >> $TEST_CONFIG_LF_HOME/lfrc
+echo "a new file" > $TEST_CONFIG_LF_HOME/aNewFile.txt
+echo "a new hidden file" > $TEST_CONFIG_LF_HOME/.aNewFile.txt
+diff_folder $DOTFILES_CONFIG_HOME/lf $TEST_CONFIG_HOME/lf
+if [ ! -d $TEST_CONFIG_HOME/lf ]; then
+  echo "Assert: folder should exist"
+fi
+if [ ! -f $TEST_CONFIG_LF_HOME/aNewFile.txt ]; then
+  echo "Assert: aNewFile.txt should exist"
+fi
+if [ ! -f $TEST_CONFIG_LF_HOME/.aNewFile.txt ]; then
+  echo "Assert: .aNewFile.txt should exist"
+fi
+rm $TEST_CONFIG_LF_HOME/lfrc
+rm $TEST_CONFIG_LF_HOME/preview.sh
+rm $TEST_CONFIG_LF_HOME/aNewFile.txt
+rm $TEST_CONFIG_LF_HOME/.aNewFile.txt
+rmdir $TEST_CONFIG_HOME/lf
+
+# folder does not exist
+diff_folder $DOTFILES_CONFIG_HOME/lf $TEST_CONFIG_HOME/lf
+if [ -d $TEST_CONFIG_HOME/lf ]; then
+  echo "Assert: folder should not exist"
+fi
