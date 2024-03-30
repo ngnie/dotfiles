@@ -52,3 +52,25 @@ diff_dotfile() {
     fi
   fi
 }
+
+diff_folder() {
+  if [ -L $2 ]; then
+    echo "Folder link already exist: $2"
+  else
+    if [ -d $2 ]; then
+      diff -r $1 $2 > /dev/null 2>&1
+      error=$?
+      if [ $error -eq 0 ]; then
+        echo "Folder is equal: $2"
+      elif [ $error -eq 1 ]; then
+        echo "Folder has difference: $2"
+        diff -r $1 $2
+      else
+        echo "Diff call failed: $2"
+      fi
+    else
+      echo "Folder does not exist: $2"
+    fi
+  fi
+}
+
