@@ -1,3 +1,0 @@
-sudo iptables -nvL
-sudo systemctl --type=service
-sudo systemctl status iptables
