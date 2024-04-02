@@ -132,6 +132,7 @@ source $DOTFILES_HOME/bin/lfcd.sh
 
 alias cmd='print -z $(cat $DOTFILES_HOME/commands.txt | fzf)'
 alias lf='lfcd'
+alias pdf='zathura'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
