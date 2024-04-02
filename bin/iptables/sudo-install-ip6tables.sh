@@ -22,14 +22,3 @@ systemctl enable ip6tables
 
 echo "Going to Start ip6tables [press Enter to continue]..." && read answer
 systemctl start ip6tables
-
-echo "Going to verify [press Enter to continue]..." && read answer
-echo "--------------------------------------------"
-echo "ip6tables rules: "
-ip6tables -nvL
-echo "--------------------------------------------"
-echo "Service verification: "
-systemctl --type=service | grep ip6tables
-echo "--------------------------------------------"
-echo "Service status: "
-systemctl status ip6tables

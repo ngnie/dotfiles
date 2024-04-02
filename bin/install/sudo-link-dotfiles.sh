@@ -1,8 +1,8 @@
 #!/bin/sh
 
 DOTFILES_HOME=/home/nikolaj/ngr/engineer/repos/dotfiles
-DOTFILES_DWM_HOME=$DOTFILES/usr/local/src/dwm
-DOTFILES_SLSTATUS_HOME=$DOTFILES/usr/local/src/slstatus
+DOTFILES_DWM_HOME=$DOTFILES_HOME/usr/local/src/dwm
+DOTFILES_SLSTATUS_HOME=$DOTFILES_HOME/usr/local/src/slstatus
 DOTFILES_X11_HOME=$DOTFILES_HOME/etc/X11
 X11_HOME=/etc/X11
 DWM_HOME=/usr/local/src/dwm

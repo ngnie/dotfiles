@@ -10,10 +10,12 @@ source ./utils.sh
 
 create_bookmark_folder() {
   if [ ! -d $BOOKMARKS_HOME ]; then
-    mkdir $BOOKMARKS_HOME
-    if [ -d $BOOKMARKS_HOME ]; then
+    mkdir -p $BOOKMARKS_HOME
+    if [ ! -d $BOOKMARKS_HOME ]; then
       echo "Bookmark folder was not created: $BOOKMARKS_HOME"
       exit -1
+    else
+      echo "Bookmarks folder created. folder = $BOOKMARKS_HOME"
     fi
   fi
 }

@@ -10,7 +10,7 @@ fi
 
 iptables-save > iptables.rules
 mv iptables.rules $IPTABLES_HOME
-if [ -f $RULES_FILE ]; then
+if [ ! -f $RULES_FILE ]; then
   echo "ERROR: rules file not found. file = $RULES_FILE"
   exit -1
 else
