@@ -162,3 +162,10 @@ diff_folder $DOTFILES_CONFIG_HOME/lf $TEST_CONFIG_HOME/lf
 if [ -d $TEST_CONFIG_HOME/lf ]; then
   echo "Assert: folder should not exist"
 fi
+
+
+################################
+# restore_dotfile
+#
+# folder link already exist
+

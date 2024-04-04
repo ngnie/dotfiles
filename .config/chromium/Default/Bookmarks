@@ -1,100 +1,11 @@
 {
-   "checksum": "e79b519bb8f0560de565c6b057c037ee",
+   "checksum": "c3335e8c0738f8bbb289c014e9a716e2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
                "children": [ {
                   "children": [ {
-                     "children": [ {
-                        "date_added": "13346687446000000",
-                        "date_last_used": "0",
-                        "guid": "685645e3-821d-4154-bfb5-660fcbddcc3c",
-                        "id": "321",
-                        "name": "Neovim, SDL, & C++: Your Complete Guide - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=s2doMS59tVc&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346687453000000",
-                        "date_last_used": "0",
-                        "guid": "5276eb65-a4be-4a5e-b09c-7971cb307946",
-                        "id": "322",
-                        "name": "Neovim - Test, Neotest - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=O6jJacmBCwY&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346687460000000",
-                        "date_last_used": "0",
-                        "guid": "a31c878d-2045-49cf-b73a-115909e6aebb",
-                        "id": "323",
-                        "name": "Neovim - Configure Less, Code More - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=YmxfwhLTdZw&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346685705000000",
-                        "date_last_used": "0",
-                        "guid": "412c22c2-8104-48b3-95c5-f70a4fe9be56",
-                        "id": "324",
-                        "name": "Neovim: How to Use Java Debugging - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=kbRIosrvof0&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346687262000000",
-                        "date_last_used": "0",
-                        "guid": "86068755-0823-4248-becd-fa70ad1009ba",
-                        "id": "325",
-                        "name": "LSP Features You Must Use - Neovim - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=XtA0CHkQIw8&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346685879000000",
-                        "date_last_used": "0",
-                        "guid": "13a86b01-decd-46fd-999b-f04157cbefeb",
-                        "id": "326",
-                        "name": "Neovim Tutorial - Java + Lombok - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=WelEHE3RwtY&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346687483000000",
-                        "date_last_used": "0",
-                        "guid": "ae19e833-3099-458e-a8c8-7ba9b1d4f0b4",
-                        "id": "327",
-                        "name": "Neovim Tutorial - CMP aka Completion - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=jjtxxWkL4po&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346687488000000",
-                        "date_last_used": "0",
-                        "guid": "36594b65-8507-473f-93e6-51fd5207d92f",
-                        "id": "328",
-                        "name": "Neovim Tutorial - LSP Setup - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=IPWaqO09-ms&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346687494000000",
-                        "date_last_used": "0",
-                        "guid": "0c7dc009-0b2c-45b7-bc22-2121343f100d",
-                        "id": "329",
-                        "name": "Well Explained - Vim + Windows - Plugins - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=t1PRv9T2cqo&ab_channel=IvanBytesoft"
-                     }, {
-                        "date_added": "13346687499000000",
-                        "date_last_used": "0",
-                        "guid": "44030355-dbe8-4c3c-90fa-e7415a329a1c",
-                        "id": "330",
-                        "name": "Well Explained - Vim + Windows - Basic Setup - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=jGAAnrOF2mQ&ab_channel=IvanBytesoft"
-                     } ],
-                     "date_added": "13356353949402340",
-                     "date_last_used": "0",
-                     "date_modified": "0",
-                     "guid": "09fd037e-b957-40d5-bbf5-c2f6de728acb",
-                     "id": "320",
-                     "name": "ivanByteSoft",
-                     "type": "folder"
-                  }, {
                      "children": [ {
                         "date_added": "13346684527000000",
                         "date_last_used": "0",
@@ -231,6 +142,354 @@
                      "type": "folder"
                   }, {
                      "children": [ {
+                        "date_added": "13346687446000000",
+                        "date_last_used": "0",
+                        "guid": "685645e3-821d-4154-bfb5-660fcbddcc3c",
+                        "id": "321",
+                        "name": "Neovim, SDL, & C++: Your Complete Guide - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=s2doMS59tVc&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346687453000000",
+                        "date_last_used": "0",
+                        "guid": "5276eb65-a4be-4a5e-b09c-7971cb307946",
+                        "id": "322",
+                        "name": "Neovim - Test, Neotest - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=O6jJacmBCwY&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346687460000000",
+                        "date_last_used": "0",
+                        "guid": "a31c878d-2045-49cf-b73a-115909e6aebb",
+                        "id": "323",
+                        "name": "Neovim - Configure Less, Code More - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=YmxfwhLTdZw&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346685705000000",
+                        "date_last_used": "0",
+                        "guid": "412c22c2-8104-48b3-95c5-f70a4fe9be56",
+                        "id": "324",
+                        "name": "Neovim: How to Use Java Debugging - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=kbRIosrvof0&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346687262000000",
+                        "date_last_used": "0",
+                        "guid": "86068755-0823-4248-becd-fa70ad1009ba",
+                        "id": "325",
+                        "name": "LSP Features You Must Use - Neovim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=XtA0CHkQIw8&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346685879000000",
+                        "date_last_used": "0",
+                        "guid": "13a86b01-decd-46fd-999b-f04157cbefeb",
+                        "id": "326",
+                        "name": "Neovim Tutorial - Java + Lombok - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=WelEHE3RwtY&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346687483000000",
+                        "date_last_used": "0",
+                        "guid": "ae19e833-3099-458e-a8c8-7ba9b1d4f0b4",
+                        "id": "327",
+                        "name": "Neovim Tutorial - CMP aka Completion - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=jjtxxWkL4po&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346687488000000",
+                        "date_last_used": "13356687819032345",
+                        "guid": "36594b65-8507-473f-93e6-51fd5207d92f",
+                        "id": "328",
+                        "name": "Neovim Tutorial - LSP Setup - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=IPWaqO09-ms&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346687494000000",
+                        "date_last_used": "0",
+                        "guid": "0c7dc009-0b2c-45b7-bc22-2121343f100d",
+                        "id": "329",
+                        "name": "Well Explained - Vim + Windows - Plugins - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=t1PRv9T2cqo&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13346687499000000",
+                        "date_last_used": "0",
+                        "guid": "44030355-dbe8-4c3c-90fa-e7415a329a1c",
+                        "id": "330",
+                        "name": "Well Explained - Vim + Windows - Basic Setup - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=jGAAnrOF2mQ&ab_channel=IvanBytesoft"
+                     }, {
+                        "date_added": "13356688500481682",
+                        "date_last_used": "13356690544328254",
+                        "guid": "f9677deb-4be6-4be9-ab13-3129d43db49d",
+                        "id": "2197",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - Nawy/nvim-ivan-config: Neovim configuration in lua",
+                        "type": "url",
+                        "url": "https://github.com/Nawy/nvim-ivan-config/tree/main"
+                     } ],
+                     "date_added": "13356353949402340",
+                     "date_last_used": "0",
+                     "date_modified": "13356688511629547",
+                     "guid": "09fd037e-b957-40d5-bbf5-c2f6de728acb",
+                     "id": "320",
+                     "name": "ivanByteSoft",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13348375822000000",
+                        "date_last_used": "0",
+                        "guid": "8f456fef-fc36-47e3-ae48-0ff10604923c",
+                        "id": "360",
+                        "name": "Andrew Courter - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/@ascourter/videos"
+                     }, {
+                        "date_added": "13348375817000000",
+                        "date_last_used": "0",
+                        "guid": "7f465b7b-1aae-42a2-b593-0e2242cc4439",
+                        "id": "361",
+                        "name": "Configure Linting, Formatting, and Autocompletion in Neovim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=y1WWOaLCNyI&ab_channel=AndrewCourter"
+                     }, {
+                        "date_added": "13348375825000000",
+                        "date_last_used": "0",
+                        "guid": "fbf05ddf-a9ba-4d70-b4dc-37328ef120f0",
+                        "id": "362",
+                        "name": "LSP Basics in Neovim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=3a1PCir_aHs&ab_channel=AndrewCourter"
+                     }, {
+                        "date_added": "13348407537000000",
+                        "date_last_used": "0",
+                        "guid": "f5cd82e2-83ac-4198-88b3-a848b378df0a",
+                        "id": "363",
+                        "name": "Sed - Replace text using your CLI - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=ZLzVG98i-64&ab_channel=AndrewCourter"
+                     }, {
+                        "date_added": "13348376602000000",
+                        "date_last_used": "0",
+                        "guid": "7b6e2064-1fd6-47f6-b959-43ee3826b80d",
+                        "id": "364",
+                        "name": "Autocommands in Neovim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=qN6BuJpsFbQ&ab_channel=AndrewCourter"
+                     }, {
+                        "date_added": "13348407549000000",
+                        "date_last_used": "0",
+                        "guid": "560835d7-b0ae-40c3-8bb7-7232d938c657",
+                        "id": "365",
+                        "name": "Intro to Customizing LazyVim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=jBzmpArdjlE&ab_channel=AndrewCourter"
+                     }, {
+                        "date_added": "13348407554000000",
+                        "date_last_used": "0",
+                        "guid": "050f3209-0053-438a-8e1a-73eb1e214b36",
+                        "id": "366",
+                        "name": "Code Folding in Neovim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=f_f08KnAJOQ&ab_channel=AndrewCourter"
+                     }, {
+                        "date_added": "13348407559000000",
+                        "date_last_used": "0",
+                        "guid": "11ae2e0d-c737-47ab-a8e4-218739dec1e6",
+                        "id": "367",
+                        "name": "Jump around buffers in Neovim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=GJno0l_nAyg&ab_channel=AndrewCourter"
+                     }, {
+                        "date_added": "13348407564000000",
+                        "date_last_used": "0",
+                        "guid": "56d0148d-0307-4aac-a280-f52409ecdc1e",
+                        "id": "368",
+                        "name": "Intro to fzf - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=F8dgIPYjvH8&ab_channel=AndrewCourter"
+                     }, {
+                        "date_added": "13356687368485557",
+                        "date_last_used": "13356690569947975",
+                        "guid": "01dabcd3-645c-4a85-903f-c3c7135dc1f9",
+                        "id": "2192",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - exosyphon/nvim at 9c129935566c861a5ed1478e6b0185939187c708",
+                        "type": "url",
+                        "url": "https://github.com/exosyphon/nvim/tree/9c129935566c861a5ed1478e6b0185939187c708"
+                     } ],
+                     "date_added": "13356353949404324",
+                     "date_last_used": "0",
+                     "date_modified": "13356687444631273",
+                     "guid": "5c022a35-8e21-4bb4-ab3b-b1104ce84a2f",
+                     "id": "359",
+                     "name": "andrewCourter",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13348407747000000",
+                        "date_last_used": "13356565445432196",
+                        "guid": "989416f6-4ddb-4955-9055-5a70d9139a21",
+                        "id": "392",
+                        "name": "BitInByte - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/@bitinbyte810/videos"
+                     }, {
+                        "date_added": "13348407747000000",
+                        "date_last_used": "0",
+                        "guid": "c44af016-c883-42f4-90ed-49358609c2a9",
+                        "id": "393",
+                        "name": "Vim | Registers - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=6XFxKcw128U&ab_channel=BitInByte"
+                     }, {
+                        "date_added": "13348407747000000",
+                        "date_last_used": "0",
+                        "guid": "38e892a2-51d3-4d03-bd55-cf46807ff043",
+                        "id": "394",
+                        "name": "Neovim | It's a lua? It's a line? It's a lualine - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=z8-pctD-scc&ab_channel=BitInByte"
+                     }, {
+                        "date_added": "13348407747000000",
+                        "date_last_used": "0",
+                        "guid": "0230597f-dd96-44ce-b034-cb1589713641",
+                        "id": "395",
+                        "name": "Neovim | Lets Be Explorer - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=MhClxlxBwZE&ab_channel=BitInByte"
+                     }, {
+                        "date_added": "13348407747000000",
+                        "date_last_used": "0",
+                        "guid": "f1d4b907-b68c-455f-ba7e-940866e3cb0f",
+                        "id": "396",
+                        "name": "Neovim | Let's get lazy - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=vqvdTSITduE&ab_channel=BitInByte"
+                     }, {
+                        "date_added": "13348407747000000",
+                        "date_last_used": "0",
+                        "guid": "a17d3321-14fc-477e-9a6b-254857aa0d9d",
+                        "id": "397",
+                        "name": "Neovim | Updated setup of JDTLS LSP - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=P7NYyb65A4s&ab_channel=BitInByte"
+                     }, {
+                        "date_added": "13356687444631273",
+                        "date_last_used": "13356690574532012",
+                        "guid": "3a3aad06-4057-4654-8092-121f6410869e",
+                        "id": "2193",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - BitInByte/.dotfiles: Just All of my dot files...",
+                        "type": "url",
+                        "url": "https://github.com/BitInByte/.dotfiles/tree/main"
+                     } ],
+                     "date_added": "13356353949405893",
+                     "date_last_used": "0",
+                     "date_modified": "13356687497118684",
+                     "guid": "c628f8e8-82d7-4dc0-8152-ad450a4ae069",
+                     "id": "391",
+                     "name": "bitInByte",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13348407282000000",
+                        "date_last_used": "0",
+                        "guid": "09891e09-032e-4fce-8827-4b915e765dcd",
+                        "id": "385",
+                        "name": "Josean Martinez - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/@joseanmartinez/videos"
+                     }, {
+                        "date_added": "13348376043000000",
+                        "date_last_used": "0",
+                        "guid": "54f2dbc0-cca3-413c-b389-53073c741ff5",
+                        "id": "386",
+                        "name": "A Powerful Way To Make Editing Code In Neovim Even Better - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=CEMPq_r8UYQ&ab_channel=JoseanMartinez"
+                     }, {
+                        "date_added": "13348376048000000",
+                        "date_last_used": "0",
+                        "guid": "4bcc498d-8756-40be-9b99-7607ae735631",
+                        "id": "387",
+                        "name": "How To Setup Linting And Formatting In Neovim To Replace null-ls - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=ybUE4D80XSk&ab_channel=JoseanMartinez"
+                     }, {
+                        "date_added": "13348376051000000",
+                        "date_last_used": "0",
+                        "guid": "f3817615-4fc2-447d-bd2e-fb40c1f4b500",
+                        "id": "388",
+                        "name": "How I Setup LSP In Neovim For An Amazing Dev Experience - Full Guide - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=NL8D8EkphUw&ab_channel=JoseanMartinez"
+                     }, {
+                        "date_added": "13348376054000000",
+                        "date_last_used": "0",
+                        "guid": "f3809002-c51f-4113-9b0e-af8103b6baf7",
+                        "id": "389",
+                        "name": "How To Use lazy.nvim For A Simple And Amazing Neovim Config - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=6mxWayq-s9I&ab_channel=JoseanMartinez"
+                     }, {
+                        "date_added": "13348376060000000",
+                        "date_last_used": "0",
+                        "guid": "36d8cc12-da31-43f4-bfaf-e89fc31bf84c",
+                        "id": "390",
+                        "name": "The Ultimate Beginner’s Guide To Learn And Master Vim - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=80mWp6H4zEw&ab_channel=JoseanMartinez"
+                     }, {
+                        "date_added": "13356687497118684",
+                        "date_last_used": "13356690577774206",
+                        "guid": "ccb337a2-ee7b-41df-9c0b-04fa23debb21",
+                        "id": "2194",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - josean-dev/dev-environment-files",
+                        "type": "url",
+                        "url": "https://github.com/josean-dev/dev-environment-files"
+                     } ],
+                     "date_added": "13356353949405515",
+                     "date_last_used": "0",
+                     "date_modified": "13356687522276728",
+                     "guid": "19ff3847-f751-4381-a192-87b6d6cde049",
+                     "id": "384",
+                     "name": "joseanMartinez",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13356687522276728",
+                        "date_last_used": "13356690581402303",
+                        "guid": "17732c5e-1341-482e-aaf3-76c2978a744e",
+                        "id": "2195",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "kickstart.nix/config at main · dmmulroy/kickstart.nix · GitHub",
+                        "type": "url",
+                        "url": "https://github.com/dmmulroy/kickstart.nix/tree/main/config"
+                     } ],
+                     "date_added": "13356687562376604",
+                     "date_last_used": "0",
+                     "date_modified": "13356688500481682",
+                     "guid": "17eb92e7-eb06-45e0-b5e1-bc7e2fa17ac4",
+                     "id": "2196",
+                     "name": "dmmulroy",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
                         "date_added": "13346698253000000",
                         "date_last_used": "0",
                         "guid": "71cf21bc-86ac-46a3-8186-d2fc46b1f50f",
@@ -326,87 +585,6 @@
                      "guid": "19b90423-dc8d-447e-a54b-28eb3e0b6d9f",
                      "id": "357",
                      "name": "theRadLectures",
-                     "type": "folder"
-                  }, {
-                     "children": [ {
-                        "date_added": "13348375822000000",
-                        "date_last_used": "0",
-                        "guid": "8f456fef-fc36-47e3-ae48-0ff10604923c",
-                        "id": "360",
-                        "name": "Andrew Courter - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/@ascourter/videos"
-                     }, {
-                        "date_added": "13348375817000000",
-                        "date_last_used": "0",
-                        "guid": "7f465b7b-1aae-42a2-b593-0e2242cc4439",
-                        "id": "361",
-                        "name": "Configure Linting, Formatting, and Autocompletion in Neovim - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=y1WWOaLCNyI&ab_channel=AndrewCourter"
-                     }, {
-                        "date_added": "13348375825000000",
-                        "date_last_used": "0",
-                        "guid": "fbf05ddf-a9ba-4d70-b4dc-37328ef120f0",
-                        "id": "362",
-                        "name": "LSP Basics in Neovim - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=3a1PCir_aHs&ab_channel=AndrewCourter"
-                     }, {
-                        "date_added": "13348407537000000",
-                        "date_last_used": "0",
-                        "guid": "f5cd82e2-83ac-4198-88b3-a848b378df0a",
-                        "id": "363",
-                        "name": "Sed - Replace text using your CLI - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=ZLzVG98i-64&ab_channel=AndrewCourter"
-                     }, {
-                        "date_added": "13348376602000000",
-                        "date_last_used": "0",
-                        "guid": "7b6e2064-1fd6-47f6-b959-43ee3826b80d",
-                        "id": "364",
-                        "name": "Autocommands in Neovim - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=qN6BuJpsFbQ&ab_channel=AndrewCourter"
-                     }, {
-                        "date_added": "13348407549000000",
-                        "date_last_used": "0",
-                        "guid": "560835d7-b0ae-40c3-8bb7-7232d938c657",
-                        "id": "365",
-                        "name": "Intro to Customizing LazyVim - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=jBzmpArdjlE&ab_channel=AndrewCourter"
-                     }, {
-                        "date_added": "13348407554000000",
-                        "date_last_used": "0",
-                        "guid": "050f3209-0053-438a-8e1a-73eb1e214b36",
-                        "id": "366",
-                        "name": "Code Folding in Neovim - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=f_f08KnAJOQ&ab_channel=AndrewCourter"
-                     }, {
-                        "date_added": "13348407559000000",
-                        "date_last_used": "0",
-                        "guid": "11ae2e0d-c737-47ab-a8e4-218739dec1e6",
-                        "id": "367",
-                        "name": "Jump around buffers in Neovim - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=GJno0l_nAyg&ab_channel=AndrewCourter"
-                     }, {
-                        "date_added": "13348407564000000",
-                        "date_last_used": "0",
-                        "guid": "56d0148d-0307-4aac-a280-f52409ecdc1e",
-                        "id": "368",
-                        "name": "Intro to fzf - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=F8dgIPYjvH8&ab_channel=AndrewCourter"
-                     } ],
-                     "date_added": "13356353949404324",
-                     "date_last_used": "0",
-                     "date_modified": "0",
-                     "guid": "5c022a35-8e21-4bb4-ab3b-b1104ce84a2f",
-                     "id": "359",
-                     "name": "andrewCourter",
                      "type": "folder"
                   }, {
                      "children": [ {
@@ -532,120 +710,6 @@
                      "type": "folder"
                   }, {
                      "children": [ {
-                        "date_added": "13348407282000000",
-                        "date_last_used": "0",
-                        "guid": "09891e09-032e-4fce-8827-4b915e765dcd",
-                        "id": "385",
-                        "name": "Josean Martinez - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/@joseanmartinez/videos"
-                     }, {
-                        "date_added": "13348376043000000",
-                        "date_last_used": "0",
-                        "guid": "54f2dbc0-cca3-413c-b389-53073c741ff5",
-                        "id": "386",
-                        "name": "A Powerful Way To Make Editing Code In Neovim Even Better - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=CEMPq_r8UYQ&ab_channel=JoseanMartinez"
-                     }, {
-                        "date_added": "13348376048000000",
-                        "date_last_used": "0",
-                        "guid": "4bcc498d-8756-40be-9b99-7607ae735631",
-                        "id": "387",
-                        "name": "How To Setup Linting And Formatting In Neovim To Replace null-ls - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=ybUE4D80XSk&ab_channel=JoseanMartinez"
-                     }, {
-                        "date_added": "13348376051000000",
-                        "date_last_used": "0",
-                        "guid": "f3817615-4fc2-447d-bd2e-fb40c1f4b500",
-                        "id": "388",
-                        "name": "How I Setup LSP In Neovim For An Amazing Dev Experience - Full Guide - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=NL8D8EkphUw&ab_channel=JoseanMartinez"
-                     }, {
-                        "date_added": "13348376054000000",
-                        "date_last_used": "0",
-                        "guid": "f3809002-c51f-4113-9b0e-af8103b6baf7",
-                        "id": "389",
-                        "name": "How To Use lazy.nvim For A Simple And Amazing Neovim Config - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=6mxWayq-s9I&ab_channel=JoseanMartinez"
-                     }, {
-                        "date_added": "13348376060000000",
-                        "date_last_used": "0",
-                        "guid": "36d8cc12-da31-43f4-bfaf-e89fc31bf84c",
-                        "id": "390",
-                        "name": "The Ultimate Beginner’s Guide To Learn And Master Vim - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=80mWp6H4zEw&ab_channel=JoseanMartinez"
-                     } ],
-                     "date_added": "13356353949405515",
-                     "date_last_used": "0",
-                     "date_modified": "0",
-                     "guid": "19ff3847-f751-4381-a192-87b6d6cde049",
-                     "id": "384",
-                     "name": "joseanMartinez",
-                     "type": "folder"
-                  }, {
-                     "children": [ {
-                        "date_added": "13348407747000000",
-                        "date_last_used": "0",
-                        "guid": "989416f6-4ddb-4955-9055-5a70d9139a21",
-                        "id": "392",
-                        "name": "BitInByte - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/@bitinbyte810/videos"
-                     }, {
-                        "date_added": "13348407747000000",
-                        "date_last_used": "0",
-                        "guid": "c44af016-c883-42f4-90ed-49358609c2a9",
-                        "id": "393",
-                        "name": "Vim | Registers - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=6XFxKcw128U&ab_channel=BitInByte"
-                     }, {
-                        "date_added": "13348407747000000",
-                        "date_last_used": "0",
-                        "guid": "38e892a2-51d3-4d03-bd55-cf46807ff043",
-                        "id": "394",
-                        "name": "Neovim | It's a lua? It's a line? It's a lualine - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=z8-pctD-scc&ab_channel=BitInByte"
-                     }, {
-                        "date_added": "13348407747000000",
-                        "date_last_used": "0",
-                        "guid": "0230597f-dd96-44ce-b034-cb1589713641",
-                        "id": "395",
-                        "name": "Neovim | Lets Be Explorer - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=MhClxlxBwZE&ab_channel=BitInByte"
-                     }, {
-                        "date_added": "13348407747000000",
-                        "date_last_used": "0",
-                        "guid": "f1d4b907-b68c-455f-ba7e-940866e3cb0f",
-                        "id": "396",
-                        "name": "Neovim | Let's get lazy - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=vqvdTSITduE&ab_channel=BitInByte"
-                     }, {
-                        "date_added": "13348407747000000",
-                        "date_last_used": "0",
-                        "guid": "a17d3321-14fc-477e-9a6b-254857aa0d9d",
-                        "id": "397",
-                        "name": "Neovim | Updated setup of JDTLS LSP - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=P7NYyb65A4s&ab_channel=BitInByte"
-                     } ],
-                     "date_added": "13356353949405893",
-                     "date_last_used": "0",
-                     "date_modified": "0",
-                     "guid": "c628f8e8-82d7-4dc0-8152-ad450a4ae069",
-                     "id": "391",
-                     "name": "bitInByte",
-                     "type": "folder"
-                  }, {
-                     "children": [ {
                         "date_added": "13350261176000000",
                         "date_last_used": "0",
                         "guid": "99c1f39e-303a-4b33-85ec-fe8c082ca9fe",
@@ -653,21 +717,83 @@
                         "name": "Neovim for Beginners — Java. Use Neovim for Java application… | by alpha2phi | Medium",
                         "type": "url",
                         "url": "https://alpha2phi.medium.com/neovim-for-beginners-java-6a86cf1a91a5"
+                     }, {
+                        "date_added": "13356700239276270",
+                        "date_last_used": "0",
+                        "guid": "b3293915-b298-4eea-9c7c-1dfddbcf4e88",
+                        "id": "2208",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Learn Neovim The Practical Way. All articles on how to configure and… | by alpha2phi | Medium",
+                        "type": "url",
+                        "url": "https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f#8c31"
                      } ],
                      "date_added": "13356353949406223",
                      "date_last_used": "0",
-                     "date_modified": "0",
+                     "date_modified": "13356700245579704",
                      "guid": "5b1b7421-d164-410e-a631-4b40b59d69a6",
                      "id": "398",
                      "name": "medium",
                      "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13356700053218389",
+                        "date_last_used": "0",
+                        "guid": "d9b2fb36-0a55-431f-a521-5325303df76c",
+                        "id": "2206",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "My lazy neovim config - DEV Community",
+                        "type": "url",
+                        "url": "https://dev.to/voyeg3r/my-lazy-neovim-config-3h6o"
+                     } ],
+                     "date_added": "13356700105084158",
+                     "date_last_used": "0",
+                     "date_modified": "13356700239276270",
+                     "guid": "37db3b17-856f-4c9b-a9ef-636217c6e7e1",
+                     "id": "2207",
+                     "name": "SegioAraujo",
+                     "type": "folder"
                   } ],
                   "date_added": "13356353949402308",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13356695751369556",
                   "guid": "f6e08d2f-d7a7-499f-93a2-9334e6d71b85",
                   "id": "319",
                   "name": "todo",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356695751369556",
+                     "date_last_used": "13356699595460267",
+                     "guid": "e56baec5-baaa-4a5c-80bc-6fbad8729fca",
+                     "id": "2199",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Neovim for Beginners —Lua Autocmd and Keymap Functions | by alpha2phi | Medium",
+                     "type": "url",
+                     "url": "https://alpha2phi.medium.com/neovim-for-beginners-lua-autocmd-and-keymap-functions-3bdfe0bebe42"
+                  }, {
+                     "date_added": "13356695785062764",
+                     "date_last_used": "0",
+                     "guid": "a79f7826-e287-462d-b066-42b13cb4199f",
+                     "id": "2201",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Learn Neovim The Practical Way. All articles on how to configure and… | by alpha2phi | Medium",
+                     "type": "url",
+                     "url": "https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f#545a"
+                  } ],
+                  "date_added": "13356695782735684",
+                  "date_last_used": "0",
+                  "date_modified": "13356695785062764",
+                  "guid": "33bf308e-d63b-4b25-8d9f-c93bb7600b05",
+                  "id": "2200",
+                  "name": "medium",
                   "type": "folder"
                }, {
                   "children": [ {
@@ -688,7 +814,7 @@
                      "url": "https://github.com/David-Kunz/vim/blob/master/init.lua"
                   }, {
                      "date_added": "13348494439000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13356655568550749",
                      "guid": "fd726137-8078-4acd-a31f-0c7f8fe44608",
                      "id": "403",
                      "name": "nvim-jdtls settings · GitHub",
@@ -783,14 +909,6 @@
                      "name": "Help - Neovim docs",
                      "type": "url",
                      "url": "https://neovim.io/doc/user/"
-                  }, {
-                     "date_added": "13348074585000000",
-                     "date_last_used": "0",
-                     "guid": "ad104262-2308-4fa7-8838-ee9f073b476e",
-                     "id": "415",
-                     "name": "Lua-guide - Neovim docs",
-                     "type": "url",
-                     "url": "https://neovim.io/doc/user/lua-guide.html"
                   }, {
                      "date_added": "13348074585000000",
                      "date_last_used": "0",
@@ -3072,10 +3190,27 @@
                   "id": "684",
                   "name": "devOpsToolbox",
                   "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13348074585000000",
+                     "date_last_used": "0",
+                     "guid": "ad104262-2308-4fa7-8838-ee9f073b476e",
+                     "id": "415",
+                     "name": "Lua-guide - Neovim docs",
+                     "type": "url",
+                     "url": "https://neovim.io/doc/user/lua-guide.html"
+                  } ],
+                  "date_added": "13356713609792337",
+                  "date_last_used": "0",
+                  "date_modified": "13356713609792712",
+                  "guid": "b41e9545-09a8-44c7-ba33-07bf3db70ade",
+                  "id": "2210",
+                  "name": "lua",
+                  "type": "folder"
                } ],
                "date_added": "13356353949402259",
                "date_last_used": "0",
-               "date_modified": "0",
+               "date_modified": "13356697494436513",
                "guid": "17b676f7-1a8e-4da8-8425-4847e955e466",
                "id": "318",
                "name": "neovim",
@@ -3251,6 +3386,46 @@
                   "guid": "41847d66-214b-44ab-af7a-e1fe223d49d1",
                   "id": "715",
                   "name": "dwm",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356697494436513",
+                     "date_last_used": "0",
+                     "guid": "adfae7e0-770a-426c-91aa-db5874522aac",
+                     "id": "2202",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "alacritty/docs/features.md at master · alacritty/alacritty · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/alacritty/alacritty/blob/master/docs/features.md"
+                  } ],
+                  "date_added": "13356697531498743",
+                  "date_last_used": "0",
+                  "date_modified": "13356698402171659",
+                  "guid": "c9b94906-d8e4-40c4-bad4-1d55e216b80d",
+                  "id": "2203",
+                  "name": "alacritty",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356698402171659",
+                     "date_last_used": "0",
+                     "guid": "51da3e82-3160-4339-a0a9-724351e1d16e",
+                     "id": "2204",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Shift+Insert not working when copying from neovim · Issue #3619 · alacritty/alacritty · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/alacritty/alacritty/issues/3619"
+                  } ],
+                  "date_added": "13356698421155958",
+                  "date_last_used": "0",
+                  "date_modified": "13356700053218389",
+                  "guid": "8eb42e7c-f2b8-4d60-893d-5ff84d92faa9",
+                  "id": "2205",
+                  "name": "copyPaste",
                   "type": "folder"
                } ],
                "date_added": "13356353949419808",
@@ -16588,7 +16763,7 @@
                   }, {
                      "children": [ {
                         "date_added": "13354189604294545",
-                        "date_last_used": "0",
+                        "date_last_used": "13356655581661899",
                         "guid": "3da2d444-5343-408c-bd82-af40bd26e9e7",
                         "id": "167",
                         "meta_info": {
@@ -16669,7 +16844,7 @@
                      "children": [ {
                         "children": [ {
                            "date_added": "13355688463612716",
-                           "date_last_used": "13355688600679780",
+                           "date_last_used": "13356685943787978",
                            "guid": "109627e5-ff3b-4295-967b-2e19d9e94732",
                            "id": "273",
                            "meta_info": {
@@ -16700,7 +16875,7 @@
                      }, {
                         "children": [ {
                            "date_added": "13355658863974741",
-                           "date_last_used": "13355688537537209",
+                           "date_last_used": "13356687124040443",
                            "guid": "d2bd6a0c-2e46-4817-a50c-80c99678135e",
                            "id": "267",
                            "meta_info": {
@@ -16711,7 +16886,7 @@
                            "url": "https://www.youtube.com/watch?v=oo_I5lAmdi0&ab_channel=DillonMulroy"
                         }, {
                            "date_added": "13355688571959649",
-                           "date_last_used": "0",
+                           "date_last_used": "13356687146737287",
                            "guid": "71ac8608-b1db-4b0b-b3d3-c072f3232dda",
                            "id": "278",
                            "meta_info": {
@@ -18130,7 +18305,7 @@
          } ],
          "date_added": "13352726830528311",
          "date_last_used": "0",
-         "date_modified": "13355490474024544",
+         "date_modified": "13356687368485557",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

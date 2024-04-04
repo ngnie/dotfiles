@@ -38,10 +38,10 @@ diff_dotfile() {
   else
     if [ -f $2 ]; then
       diff $1 $2 > /dev/null 2>&1
-      error=$?
-      if [ $error -eq 0 ]; then
+      result=$?
+      if [ $result -eq 0 ]; then
         echo "File is equal: $2"
-      elif [ $error -eq 1 ]; then
+      elif [ $result -eq 1 ]; then
         echo "File has difference: $2"
         diff $1 $2
       else
@@ -59,10 +59,10 @@ diff_folder() {
   else
     if [ -d $2 ]; then
       diff -r $1 $2 > /dev/null 2>&1
-      error=$?
-      if [ $error -eq 0 ]; then
+      result=$?
+      if [ $result -eq 0 ]; then
         echo "Folder is equal: $2"
-      elif [ $error -eq 1 ]; then
+      elif [ $result -eq 1 ]; then
         echo "Folder has difference: $2"
         diff -r $1 $2
       else
@@ -74,3 +74,42 @@ diff_folder() {
   fi
 }
 
+restore_dotfile() {
+  if [ -f $2 ]; then
+    echo "File already exist. filename = $2"
+  else
+    cp $1 $2
+    if [ ! -f $2 ]; then
+      echo "File not restored. filename = $2"
+    else
+      diff $1 $2 > /dev/null 2>&1
+      result=$?
+      if [ $result -eq 1 ]; then
+        echo "File has difference (after restore). filename = $2"
+      elif [ $result -eq 0 ]; then
+        echo "File is restored. filename = $2"
+      fi
+    fi
+  fi
+}
+
+backup_dotfile() {
+  if [ ! -f $2 ]; then
+    echo "File does not exist. filename = $2"
+  else
+    diff $1 $2 > /dev/null 2>&1
+    result=$?
+    if [ $result -eq 0 ]; then
+      echo "File is equal (no backup). filename = $2"
+    elif [ $result -eq 1 ]; then
+      cp $1 $2
+    fi
+    diff $1 $2 > /dev/null 2>&1
+    result=$?
+    if [ $result -eq 1 ]; then
+      echo "File has difference (after backup). filename = $2"
+    elif [ $result -eq 0 ]; then
+      echo "File is backed up. filename = $2"
+    fi
+  fi
+}

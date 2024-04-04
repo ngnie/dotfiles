@@ -22,10 +22,4 @@ create_bookmark_folder() {
 
 create_bookmark_folder
 
-create_file_link $DOTFILES_HOME/.zshrc ~/.zshrc
-create_file_link $DOTFILES_HOME/.xinitrc ~/.xinitrc
-create_file_link $DOTFILES_HOME/.Xdefaults ~/.Xdefaults
-create_file_link $DOTFILES_HOME/.xbindkeysrc ~/.xbindkeysrc
-create_file_link $DOTFILES_BOOKMARKS_HOME/Bookmarks $BOOKMARKS_HOME/Bookmarks
-create_folder_link $DOTFILES_CONFIG_HOME/lf $CONFIG_HOME/lf
-create_folder_link $DOTFILES_CONFIG_HOME/nvim $CONFIG_HOME/nvim
+restore_dotfile $DOTFILES_BOOKMARKS_HOME/Bookmarks $BOOKMARKS_HOME/Bookmarks

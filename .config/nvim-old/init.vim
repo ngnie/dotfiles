@@ -4,6 +4,7 @@ if has("syntax")
   syntax on
 endif
 
+" TRANSFERED
 imap ii <Esc>
 
 set tabstop=2 shiftwidth=2 softtabstop=2 expandtab autoindent smartindent
@@ -17,15 +18,20 @@ augroup END
 
 nmap <S-Enter> O<Esc>j
 nmap <CR> o<Esc>k
+" TRANSFERED END
 
 call plug#begin('~/.vim/plugged')
+  " TRANSFERED
   Plug 'mhinz/vim-startify'
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
   Plug 'junegunn/fzf.vim'
+  " TRANSFERED END
   Plug 'airblade/vim-rooter'
   Plug 'tpope/vim-classpath'
+  " TRANSFERED
   Plug 'tpope/vim-surround'
   Plug 'morhetz/gruvbox'
+  " TRANSFERED END
   Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
   Plug 'jiangmiao/auto-pairs'
   Plug 'rstacruz/sparkup'
@@ -42,8 +48,6 @@ call plug#begin('~/.vim/plugged')
   Plug 'tpope/vim-fugitive'
   Plug 'christoomey/vim-conflicted'
   Plug 'leafgarland/typescript-vim'  
-  Plug 'justinmk/vim-dirvish'
-  Plug 'TaDaa/vimade'
   Plug 'easymotion/vim-easymotion'
   Plug 'tpope/vim-repeat'
   Plug 'KKPMW/vim-sendtowindow'
@@ -77,7 +81,7 @@ call plug#begin('~/.vim/plugged')
   "Plug 'yuttie/comfortable-motion.vim'
 call plug#end()
 
-
+" TRANSFERED
 set cursorline
 
 " ThePrimeagen - block move
@@ -93,6 +97,7 @@ set hlsearch
 " gruvbox
 colorscheme gruvbox
 set background=dark
+" TRANSFERED END
 
 " vim-one
 "colorscheme one
@@ -154,6 +159,8 @@ nnoremap <silent> <leader>lg :LazyGit<CR>
 set splitright
 set splitbelow
 set clipboard=unnamedplus
+
+
 
 " Use tab and shift tab to scroll autocomplete
 "inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
