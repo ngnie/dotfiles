@@ -74,6 +74,20 @@ diff_folder() {
   fi
 }
 
+create_folder() {
+  if [ -d $1 ]; then
+    echo "Folder already exist. foldername = $1"
+  else
+    mkdir -p $1
+    if [ ! -d $1 ]; then
+      echo "Folder was not created: $1"
+      exit -1
+    else
+      echo "Folder created. folder = $1"
+    fi
+  fi
+}
+
 restore_dotfile() {
   if [ -f $2 ]; then
     echo "File already exist. filename = $2"
@@ -110,18 +124,6 @@ backup_dotfile() {
       echo "File has difference (after backup). filename = $2"
     elif [ $result -eq 0 ]; then
       echo "File is backed up. filename = $2"
-    fi
-  fi
-}
-
-create_folder() {
-  if [ ! -d $1]; then
-    mkdir -p $1
-    if [ ! -d $1 ]; then
-      echo "Folder was not created: $1"
-      exit -1
-    else
-      echo "Folder created. folder = $1"
     fi
   fi
 }

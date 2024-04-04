@@ -167,7 +167,38 @@ fi
 
 
 ################################
+# create_folder
+#
+# folder already exist
+if [ ! -d $TEST_CONFIG_BOOKMARKS_HOME ]; then
+  mkdir $TEST_CONFIG_BOOKMARKS_HOME
+fi
+create_folder $TEST_CONFIG_BOOKMARKS_HOME
+if [ ! -d $TEST_CONFIG_BOOKMARKS_HOME ]; then
+  echo "Assert: folder should exist. foldername = "
+fi
+
+# folder created
+if [ -d $TEST_CONFIG_BOOKMARKS_HOME ]; then
+  rmdir $TEST_CONFIG_BOOKMARKS_HOME
+fi
+create_folder $TEST_CONFIG_BOOKMARKS_HOME
+if [ ! -d $TEST_CONFIG_BOOKMARKS_HOME ]; then
+  echo "Assert: folder should exist. foldername = "
+fi
+
+
+################################
 # restore_dotfile
 #
 # file already exist
-
+if [ ! -d $TEST_CONFIG_BOOKMARKS_HOME ]; then
+  mkdir $TEST_CONFIG_BOOKMARKS_HOME
+  touch $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
+fi
+restore_dotfile $DOTFILES_BOOKMARKS_HOME/Bookmarks $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
+if [ ! -f $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks ]; then
+  echo "Assert: file should exist. filename = $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks"
+fi
+#rm $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
+#rmdir $TEST_CONFIG_BOOKMARKS_HOME 
