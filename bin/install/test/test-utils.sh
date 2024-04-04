@@ -192,13 +192,21 @@ fi
 # restore_dotfile
 #
 # file already exist
-if [ ! -d $TEST_CONFIG_BOOKMARKS_HOME ]; then
-  mkdir $TEST_CONFIG_BOOKMARKS_HOME
-  touch $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
-fi
+create_folder $TEST_CONFIG_BOOKMARKS_HOME
+touch $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
 restore_dotfile $DOTFILES_BOOKMARKS_HOME/Bookmarks $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
 if [ ! -f $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks ]; then
   echo "Assert: file should exist. filename = $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks"
 fi
-#rm $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
-#rmdir $TEST_CONFIG_BOOKMARKS_HOME 
+rm $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
+rmdir $TEST_CONFIG_BOOKMARKS_HOME 
+
+
+# file restored
+create_folder $TEST_CONFIG_BOOKMARKS_HOME
+restore_dotfile $DOTFILES_BOOKMARKS_HOME/Bookmarks $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
+if [ ! -f $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks ]; then
+  echo "Assert: file should exist. filename = $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks"
+fi
+rm $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
+rmdir $TEST_CONFIG_BOOKMARKS_HOME 

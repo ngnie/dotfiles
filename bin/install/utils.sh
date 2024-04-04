@@ -101,7 +101,7 @@ restore_dotfile() {
       if [ $result -eq 1 ]; then
         echo "File has difference (after restore). filename = $2"
       elif [ $result -eq 0 ]; then
-        echo "File is restored. filename = $2"
+        echo "File restored. filename = $2"
       fi
     fi
   fi
