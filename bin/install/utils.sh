@@ -113,3 +113,15 @@ backup_dotfile() {
     fi
   fi
 }
+
+create_folder() {
+  if [ ! -d $1]; then
+    mkdir -p $1
+    if [ ! -d $1 ]; then
+      echo "Folder was not created: $1"
+      exit -1
+    else
+      echo "Folder created. folder = $1"
+    fi
+  fi
+}

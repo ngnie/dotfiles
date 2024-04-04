@@ -3,11 +3,13 @@
 UTILS_FILE=../utils.sh
 DOTFILES_HOME=~/ngr/engineer/repos/dotfiles
 DOTFILES_CONFIG_HOME=$DOTFILES_HOME/.config
+DOTFILES_BOOKMARKS_HOME=$DOTFILES_CONFIG_HOME/chromium/Default
 
 TEST_HOME=$DOTFILES_HOME/bin/install/test
 TEST_TMP_HOME=$TEST_HOME/tmp
 TEST_CONFIG_HOME=$TEST_TMP_HOME/.config
 TEST_CONFIG_LF_HOME=$TEST_TMP_HOME/.config/lf
+TEST_CONFIG_BOOKMARKS_HOME=$TEST_TMP_HOME/.config/chromium/Default
 
 if [ ! $UTILS_FILE ]; then
   echo "$UTILS_FILE file not found"
@@ -167,5 +169,5 @@ fi
 ################################
 # restore_dotfile
 #
-# folder link already exist
+# file already exist
 
