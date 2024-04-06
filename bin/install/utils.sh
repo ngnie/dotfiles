@@ -90,7 +90,7 @@ create_folder() {
 
 restore_dotfile() {
   if [ -f $2 ]; then
-    echo "File already exist. filename = $2"
+    echo "File already exist (no restore). filename = $2"
   else
     cp $1 $2
     if [ ! -f $2 ]; then
