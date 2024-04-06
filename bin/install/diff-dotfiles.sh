@@ -15,3 +15,4 @@ diff_dotfile $DOTFILES_HOME/.xbindkeysrc ~/.xbindkeysrc
 diff_dotfile $DOTFILES_BOOKMARKS_HOME/Bookmarks $CONFIG_BOOKMARKS_HOME/Bookmarks
 diff_folder $DOTFILES_CONFIG_HOME/lf $CONFIG_HOME/lf
 diff_folder $DOTFILES_CONFIG_HOME/nvim $CONFIG_HOME/nvim
+diff_dotfile $DOTFILES_HOME/.tmux.conf ~/.tmux.conf

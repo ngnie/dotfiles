@@ -48,7 +48,9 @@ call plug#begin('~/.vim/plugged')
   Plug 'tpope/vim-fugitive'
   Plug 'christoomey/vim-conflicted'
   Plug 'leafgarland/typescript-vim'  
+  " TRANSFERED
   Plug 'easymotion/vim-easymotion'
+  " TRANSFERED END
   Plug 'tpope/vim-repeat'
   Plug 'KKPMW/vim-sendtowindow'
   Plug 'rakr/vim-one' 
@@ -127,10 +129,12 @@ set scrolloff=999
 "set signcolumn=yes
 set signcolumn=number
 
+" TRANSFERED
 let mapleader = " "
 
 nnoremap <A-b> <C-w>
 nnoremap <A-b>h <C-w>s
+" TRANSFERED END
 
 nnoremap <silent> <A-h> :exe "vertical resize -5"<CR>
 nnoremap <silent> <A-j> :exe "resize +5"<CR>
@@ -164,9 +168,10 @@ set clipboard=unnamedplus
 " Maximizer
 nmap <silent> <leader>m :MaximizerToggle<CR>
 
-
+" TRANSFERED
 " See buffers
 nmap <silent> <leader>bu :Buffers!<CR>
+" TRANSFERED END
 
 
 " For Fuzzy finder
@@ -179,10 +184,11 @@ nmap <silent> <leader>ag :Ag!<CR>
 nmap <silent> <space>ff :Files!<cr>
 nmap <silent> <space>FF :Files! ~<cr>
 nmap <silent> <space>cc :Commands!<cr>
-" TRANSFERED END
 
 " Git
 nmap <silent> <space>gf :GFiles<CR>
+
+" TRANSFERED END
 
 
 " Set "<leader>s" to substitute the word under the cursor. Works great with
@@ -227,14 +233,19 @@ nmap <silent> <leader>P "0P
 
 let g:sendtowindow_use_defaults=0
 
+
+" TRANSFERED
+"
 " Move to word
-map  <Leader><Leader>w <Plug>(easymotion-bd-w)
+map <Leader><Leader>w <Plug>(easymotion-bd-w)
 nmap <Leader><Leader>W <Plug>(easymotion-overwin-w)
 nmap <Leader><Leader>f <Plug>(easymotion-overwin-f2)
+" TRANSFERED END
 
 " Open and source init.vim
 nnoremap <Leader>os :e $MYVIMRC<CR>
 nnoremap <Leader>so :source $MYVIMRC<CR>
+
 
 
 " ------------------------------------------------------

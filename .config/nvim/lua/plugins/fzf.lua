@@ -2,6 +2,7 @@ return {
   -- inspired by https://github.com/ibhagwan/fzf-lua
   "junegunn/fzf", 
   build = "./install --bin",
+  lazy = false,
   dependencies = {
     -- this will make :Files etc. work
     "junegunn/fzf.vim",

@@ -13,3 +13,4 @@ create_file_link $DOTFILES_HOME/.Xdefaults ~/.Xdefaults
 create_file_link $DOTFILES_HOME/.xbindkeysrc ~/.xbindkeysrc
 create_folder_link $DOTFILES_CONFIG_HOME/lf $CONFIG_HOME/lf
 create_folder_link $DOTFILES_CONFIG_HOME/nvim $CONFIG_HOME/nvim
+create_file_link $DOTFILES_HOME/.tmux.conf ~/.tmux.conf

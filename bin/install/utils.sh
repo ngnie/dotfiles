@@ -48,7 +48,7 @@ diff_dotfile() {
         echo "Diff call failed: $2"
       fi
     else
-      echo "File does not exist: $2"
+      echo "File nor link exist: $2"
     fi
   fi
 }
