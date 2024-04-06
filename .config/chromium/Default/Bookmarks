@@ -1,5 +1,5 @@
 {
-   "checksum": "c3335e8c0738f8bbb289c014e9a716e2",
+   "checksum": "94193bb22d038297c9bd18785c50e259",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3202,7 +3202,7 @@
                   } ],
                   "date_added": "13356713609792337",
                   "date_last_used": "0",
-                  "date_modified": "13356713609792712",
+                  "date_modified": "13356736733831158",
                   "guid": "b41e9545-09a8-44c7-ba33-07bf3db70ade",
                   "id": "2210",
                   "name": "lua",
@@ -8896,7 +8896,7 @@
                      "url": "https://decofarver.dk/shop/spekter-pro-vinkelpensel-3923p.html"
                   }, {
                      "date_added": "13345940118000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13356809440404760",
                      "guid": "bf962762-2d3d-425b-8c83-70affa320fd4",
                      "id": "1378",
                      "name": "Lua-guide - Neovim docs",
@@ -15571,10 +15571,83 @@
             "id": "2177",
             "name": "New folder",
             "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13356800403370385",
+                  "date_last_used": "0",
+                  "guid": "188e1e12-6a10-42a3-9c89-f780a0a9d01c",
+                  "id": "2212",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Barbour Royston Casual in Navy | Barbour",
+                  "type": "url",
+                  "url": "https://www.barbour.com/barbour-royston-harrington-jacket-mca0412ny71"
+               }, {
+                  "date_added": "13356800423169512",
+                  "date_last_used": "0",
+                  "guid": "55354442-3812-4aa0-a4c2-f9b395f4d8ff",
+                  "id": "2215",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Barbour Lightweight Royston Waxed Cotton Jacket in Navy | Barbour",
+                  "type": "url",
+                  "url": "https://www.barbour.com/barbour-lightweight-royston-waxed-cotton-jacket-mwx1350ny51"
+               }, {
+                  "date_added": "13356800425850615",
+                  "date_last_used": "0",
+                  "guid": "e585d8eb-caec-4d15-9a6d-fe21d075b44b",
+                  "id": "2216",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Bedale Wax Jacket in Black | Barbour",
+                  "type": "url",
+                  "url": "https://www.barbour.com/barbour-bedale-wax-jacket-black"
+               }, {
+                  "date_added": "13356800428490989",
+                  "date_last_used": "0",
+                  "guid": "d53d1831-3b75-4585-83f4-6d8b0c25214b",
+                  "id": "2217",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Barbour Ashby Wax Jacket in Navy | Barbour",
+                  "type": "url",
+                  "url": "https://www.barbour.com/barbour-ashby-wax-jacket-navy"
+               }, {
+                  "date_added": "13356800431234278",
+                  "date_last_used": "0",
+                  "guid": "1a851bcc-3d50-469c-b63e-381832f1b7a6",
+                  "id": "2218",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Shop the Barbour Crosby Waxed Jacket in Navy today. | Barbour",
+                  "type": "url",
+                  "url": "https://www.barbour.com/catalog/product/view/id/143437/s/barbour-crosby-waxed-jacket/category/242/"
+               } ],
+               "date_added": "13356800421190810",
+               "date_last_used": "0",
+               "date_modified": "13356800431234278",
+               "guid": "7338ce86-e35d-48d8-a605-6c4c611efd0f",
+               "id": "2214",
+               "name": "barbour",
+               "type": "folder"
+            } ],
+            "date_added": "13356800421189804",
+            "date_last_used": "0",
+            "date_modified": "13356800421189804",
+            "guid": "d6e55206-a07d-446c-88db-8c86eff3190c",
+            "id": "2213",
+            "name": "toj",
+            "type": "folder"
          } ],
          "date_added": "13352726830528309",
          "date_last_used": "0",
-         "date_modified": "0",
+         "date_modified": "13356800403370385",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",

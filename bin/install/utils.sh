@@ -116,14 +116,14 @@ backup_dotfile() {
     if [ $result -eq 0 ]; then
       echo "File is equal (no backup). filename = $2"
     elif [ $result -eq 1 ]; then
-      cp $1 $2
-    fi
-    diff $1 $2 > /dev/null 2>&1
-    result=$?
-    if [ $result -eq 1 ]; then
-      echo "File has difference (after backup). filename = $2"
-    elif [ $result -eq 0 ]; then
-      echo "File is backed up. filename = $2"
+      cp $2 $1
+      diff $1 $2 > /dev/null 2>&1
+      result=$?
+      if [ $result -eq 1 ]; then
+        echo "File has difference (after backup). filename = $2"
+      elif [ $result -eq 0 ]; then
+        echo "File is backed up. filename = $2"
+      fi
     fi
   fi
 }
