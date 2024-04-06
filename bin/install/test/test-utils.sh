@@ -210,3 +210,10 @@ if [ ! -f $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks ]; then
 fi
 rm $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks
 rmdir $TEST_CONFIG_BOOKMARKS_HOME 
+
+
+################################
+# backup_dotfile
+#
+# file does not exist
+backup_dotfile $DOTFILES_BOOKMARKS_HOME/Bookmarks $TEST_CONFIG_BOOKMARKS_HOME/Bookmarks

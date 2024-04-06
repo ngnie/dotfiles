@@ -137,11 +137,6 @@ nnoremap <silent> <A-j> :exe "resize +5"<CR>
 nnoremap <silent> <A-k> :exe "resize -5"<CR>
 nnoremap <silent> <A-l> :exe "vertical resize +5"<CR>
 
-nnoremap <leader>n :NERDTreeFocus<CR>
-nnoremap <C-n> :NERDTree<CR>
-nnoremap <C-t> :NERDTreeToggle<CR>
-nnoremap <C-f> :NERDTreeFind<CR>
-
 " setup mapping to call :LazyGit
 nnoremap <silent> <leader>lg :LazyGit<CR>
 
@@ -160,22 +155,10 @@ set splitright
 set splitbelow
 set clipboard=unnamedplus
 
-
-
 " Use tab and shift tab to scroll autocomplete
 "inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
 "inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
 "inoremap <silent><expr> <cr> pumvisible() ? coc#_select_confirm() : har-fjernet-"-her \<C-g>u\<CR>\<c-r>=coc#on_enter()\<CR>"
-
-
-
-"------------------------------------------------------
-" vimux commands
-noremap <leader>dd :VimuxRunCommand "java -Xdiag -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=5005,suspend=y vim.App"<CR>
-
-noremap <leader>sbr :VimuxRunCommand "mvn spring-boot:run"<CR>
-
-
 
 
 " Maximizer
@@ -189,12 +172,14 @@ nmap <silent> <leader>bu :Buffers!<CR>
 " For Fuzzy finder
 let $FZF_DEFAULT_COMMAND = 'rg --files --hidden --glob "!.git/*"'
 
+" TRANSFERED
 nmap <silent> <leader>/ :BLines!<CR>
 nmap <silent> <leader>rg :Rg!<CR>
 nmap <silent> <leader>ag :Ag!<CR>
 nmap <silent> <space>ff :Files!<cr>
 nmap <silent> <space>FF :Files! ~<cr>
 nmap <silent> <space>cc :Commands!<cr>
+" TRANSFERED END
 
 " Git
 nmap <silent> <space>gf :GFiles<CR>
@@ -204,17 +189,10 @@ nmap <silent> <space>gf :GFiles<CR>
 " CtrlSF!
 nmap <leader>ss :%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>
 
-" Set up some handy CtrlSF bindings
-nmap <leader>sfa :CtrlSF -R ""<Left>
-nmap <leader>sfA <Plug>CtrlSFCwordPath -W<CR>
-nmap <leader>sfc :CtrlSFFocus<CR>
-nmap <leader>sfC :CtrlSFToggle<CR>
 
 " Use Ripgrep with CtrlSF for performance
 let g:ctrlsf_ackprg = '/usr/bin/rg'
 
-
-nmap <silent> <leader>dv :Dirvish<CR>
 
 " highlight windows
 let g:vimade = {}
