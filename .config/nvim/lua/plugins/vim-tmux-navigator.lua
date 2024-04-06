@@ -1,5 +1,8 @@
 return {
   "christoomey/vim-tmux-navigator",
+  dependencies = {
+    "roxma/vim-tmux-clipboard",
+  },
   lazy = false,
   cmd = {
     "TmuxNavigateLeft",
