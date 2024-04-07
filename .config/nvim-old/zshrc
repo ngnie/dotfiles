@@ -155,5 +155,7 @@ bindkey -a 'p' pastefromclipboard
 
 fpath+=~/.config/zsh_functions
 
+# OK
 autoload -Uz compinit
 compinit
+# OK END

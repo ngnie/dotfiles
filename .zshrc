@@ -79,8 +79,6 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git z fzf)
 
-source $ZSH/oh-my-zsh.sh
-
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
@@ -107,11 +105,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export DISABLE_FZF_AUTO_COMPLETION="false"
-export DISABLE_FZF_KEY_BINDINGS="false"
-#export FZF_DEFAULT_OPTS="--height=80% --layout=reverse --info=inline --preview 'bat -n --color=always {}'"
-export FZF_DEFAULT_OPTS="--info=inline --preview 'bat -n --color=always {}'"
-export FZF_DEFAULT_COMMAND='find . -type f ! -path "*git*" ! -path "*cache*"'
+source $ZSH/oh-my-zsh.sh
 
 HISTFILE=~/.histfile
 HISTSIZE=5000
@@ -121,6 +115,29 @@ bindkey -v
 zstyle :compinstall filename '/home/nikolaj/.zshrc'
 autoload -Uz compinit
 compinit
+
+bindkey ii vi-cmd-mode
+set -o vi        
+
+yanktoclipboard(){
+    echo $BUFFER | xsel -i -b
+}
+
+pastefromclipboard(){
+    RBUFFER=$(xsel -o -b </dev/null)$RBUFFER
+}
+
+zle -N yanktoclipboard
+zle -N pastefromclipboard
+bindkey -a 'yy' yanktoclipboard
+bindkey -a 'p' pastefromclipboard
+
+
+export DISABLE_FZF_AUTO_COMPLETION="false"
+export DISABLE_FZF_KEY_BINDINGS="false"
+#export FZF_DEFAULT_OPTS="--height=80% --layout=reverse --info=inline --preview 'bat -n --color=always {}'"
+export FZF_DEFAULT_OPTS="--info=inline --preview 'bat -n --color=always {}'"
+export FZF_DEFAULT_COMMAND='find . -type f ! -path "*git*" ! -path "*cache*"'
 
 export REPOS_HOME=/home/nikolaj/ngr/engineer/repos
 export DOTFILES_HOME=$REPOS_HOME/dotfiles

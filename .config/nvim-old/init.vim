@@ -1,5 +1,6 @@
 set nocompatible
 
+
 if has("syntax")
   syntax on
 endif
@@ -112,9 +113,9 @@ set background=dark
 let g:airline_theme='one'
 
 
+" TRANSFERED
 set termguicolors
 set backspace=indent,eol,start
-
 
 set ignorecase
 set smartcase
@@ -126,10 +127,9 @@ set noshowmode
 set sidescrolloff=999
 set scrolloff=999
 " set scrolloff=12
-"set signcolumn=yes
+" set signcolumn=yes
 set signcolumn=number
 
-" TRANSFERED
 let mapleader = " "
 
 nnoremap <A-b> <C-w>
@@ -155,9 +155,11 @@ nnoremap <silent> <leader>lg :LazyGit<CR>
 " Disable tmux navigator when zooming the Vim pane
 " let g:tmux_navigator_disable_when_zoomed = 1
 
+" TRANSFERED
 set splitright
 set splitbelow
 set clipboard=unnamedplus
+" TRANSFERED END
 
 " Use tab and shift tab to scroll autocomplete
 "inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
@@ -168,7 +170,6 @@ set clipboard=unnamedplus
 " Maximizer
 nmap <silent> <leader>m :MaximizerToggle<CR>
 
-" TRANSFERED
 " See buffers
 nmap <silent> <leader>bu :Buffers!<CR>
 " TRANSFERED END
