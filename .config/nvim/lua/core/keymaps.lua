@@ -30,5 +30,6 @@ vim.keymap.set("n", "<C-A-l>", ":vertical resize +5<CR>", { silent = true })
 -- change directory
 vim.keymap.set("n", "<leader>cd", "<cmd>cd %:h<CR>", { silent = true })
 
+-- no need to set this since yank and paste is configured in zsh
 --vim.keymap.set("n", "<leader>y", '"+y<CR>', { silent = true })
 --vim.keymap.set("n", "<leader>p", '"+p<CR>', { silent = true })

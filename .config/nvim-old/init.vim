@@ -22,17 +22,21 @@ nmap <CR> o<Esc>k
 " TRANSFERED END
 
 call plug#begin('~/.vim/plugged')
+
   " TRANSFERED
   Plug 'mhinz/vim-startify'
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
   Plug 'junegunn/fzf.vim'
   " TRANSFERED END
+  "
   Plug 'airblade/vim-rooter'
   Plug 'tpope/vim-classpath'
+
   " TRANSFERED
   Plug 'tpope/vim-surround'
   Plug 'morhetz/gruvbox'
   " TRANSFERED END
+  "
   Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
   Plug 'jiangmiao/auto-pairs'
   Plug 'rstacruz/sparkup'
@@ -44,14 +48,20 @@ call plug#begin('~/.vim/plugged')
   Plug 'christoomey/vim-tmux-navigator'
   Plug 'roxma/vim-tmux-clipboard'
   Plug 'benmills/vimux'
+
+  " TRANSFERED
   Plug 'szw/vim-maximizer'
+  " TRANSFERED END
+  "
   Plug 'vim-syntastic/syntastic'
   Plug 'tpope/vim-fugitive'
   Plug 'christoomey/vim-conflicted'
   Plug 'leafgarland/typescript-vim'  
+
   " TRANSFERED
   Plug 'easymotion/vim-easymotion'
   " TRANSFERED END
+  "
   Plug 'tpope/vim-repeat'
   Plug 'KKPMW/vim-sendtowindow'
   Plug 'rakr/vim-one' 
@@ -116,7 +126,6 @@ let g:airline_theme='one'
 " TRANSFERED
 set termguicolors
 set backspace=indent,eol,start
-
 set ignorecase
 set smartcase
 set autoread
@@ -134,12 +143,13 @@ let mapleader = " "
 
 nnoremap <A-b> <C-w>
 nnoremap <A-b>h <C-w>s
-" TRANSFERED END
 
 nnoremap <silent> <A-h> :exe "vertical resize -5"<CR>
 nnoremap <silent> <A-j> :exe "resize +5"<CR>
 nnoremap <silent> <A-k> :exe "resize -5"<CR>
 nnoremap <silent> <A-l> :exe "vertical resize +5"<CR>
+" TRANSFERED END
+
 
 " setup mapping to call :LazyGit
 nnoremap <silent> <leader>lg :LazyGit<CR>
@@ -200,15 +210,16 @@ nmap <leader>ss :%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>
 " Use Ripgrep with CtrlSF for performance
 let g:ctrlsf_ackprg = '/usr/bin/rg'
 
-
+" Now using 'shade'
 " highlight windows
-let g:vimade = {}
-let g:vimade.fadelevel = 0.5
-let g:vimade.enablesigns = 1
+" let g:vimade = {}
+" let g:vimade.fadelevel = 0.5
+" let g:vimade.enablesigns = 1
+" Now using 'shade' END
 
 " Clever-f.. keep ; and ,
-map ; <Plug>(clever-f-repeat-forward)
-map , <Plug>(clever-f-repeat-back)
+" map ; <Plug>(clever-f-repeat-forward)
+" map , <Plug>(clever-f-repeat-back)
 
 " Find files using Telescope command-line sugar.
 "nnoremap <leader>ff <cmd>Telescope find_files<cr>
@@ -216,12 +227,16 @@ map , <Plug>(clever-f-repeat-back)
 "nnoremap <leader>fb <cmd>Telescope buffers<cr>
 "nnoremap <leader>fh <cmd>Telescope help_tags<cr>
 
+" Not used:
 "From Code Smell
-nnoremap ; :
-vnoremap ; :
+" nnoremap ; :
+" vnoremap ; :
 
 "noremap <leader>q :q<CR>
 "noremap q <nop>
+" Not used END
+
+
 
 nmap <silent> <leader>p "0p
 nmap <silent> <leader>P "0P
@@ -236,17 +251,17 @@ let g:sendtowindow_use_defaults=0
 
 
 " TRANSFERED
-"
 " Move to word
 map <Leader><Leader>w <Plug>(easymotion-bd-w)
 nmap <Leader><Leader>W <Plug>(easymotion-overwin-w)
 nmap <Leader><Leader>f <Plug>(easymotion-overwin-f2)
 " TRANSFERED END
 
+" Not used:
 " Open and source init.vim
-nnoremap <Leader>os :e $MYVIMRC<CR>
-nnoremap <Leader>so :source $MYVIMRC<CR>
-
+" nnoremap <Leader>os :e $MYVIMRC<CR>
+" nnoremap <Leader>so :source $MYVIMRC<CR>
+" Not used END
 
 
 " ------------------------------------------------------
