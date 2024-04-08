@@ -132,6 +132,11 @@ zle -N pastefromclipboard
 bindkey -a 'yy' yanktoclipboard
 bindkey -a 'p' pastefromclipboard
 
+# below used by tmux
+alias pbcopy='xclip -selection clipboard'       # copy to clipboard: ctrl+c, ctrl+shift+c
+alias pbpaste='xclip -selection clipboard -o'   # paste from clipboard: ctrl+v, ctrl+shift+v
+alias pbselect='xclip -selection primary -o'   # paste from highlight: middle click, shift+insert
+
 export DISABLE_FZF_AUTO_COMPLETION="false"
 export DISABLE_FZF_KEY_BINDINGS="false"
 #export FZF_DEFAULT_OPTS="--height=80% --layout=reverse --info=inline --preview 'bat -n --color=always {}'"
@@ -149,10 +154,6 @@ source $DOTFILES_HOME/bin/lfcd.sh
 alias cmd='print -z $(cat $DOTFILES_HOME/commands.txt | fzf)'
 alias lf='lfcd'
 alias pdf='zathura'
-
-alias pbcopy='xclip -selection clipboard'       # copy to clipboard: ctrl+c, ctrl+shift+c
-alias pbpaste='xclip -selection clipboard -o'   # paste from clipboard: ctrl+v, ctrl+shift+v
-alias pbselect='xclip -selection primary -o'   # paste from highlight: middle click, shift+insert
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

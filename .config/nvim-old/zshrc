@@ -128,7 +128,6 @@ export NVM_DIR="$HOME/.nvm"
 
 bindkey "ç" fzf-cd-widget
 bindkey ii vi-cmd-mode
-
 set -o vi        
 
 alias lg='lazygit'
