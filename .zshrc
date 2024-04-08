@@ -119,19 +119,20 @@ compinit
 bindkey ii vi-cmd-mode
 set -o vi        
 
+
+
 yanktoclipboard(){
-    echo $BUFFER | xsel -i -b
+  echo $BUFFER | tr -d '\n' | xsel -i -b
 }
 
 pastefromclipboard(){
-    RBUFFER=$(xsel -o -b </dev/null)$RBUFFER
+  RBUFFER=$(xsel -o -b </dev/null)$RBUFFER
 }
 
 zle -N yanktoclipboard
 zle -N pastefromclipboard
 bindkey -a 'yy' yanktoclipboard
 bindkey -a 'p' pastefromclipboard
-
 
 export DISABLE_FZF_AUTO_COMPLETION="false"
 export DISABLE_FZF_KEY_BINDINGS="false"
@@ -150,6 +151,10 @@ source $DOTFILES_HOME/bin/lfcd.sh
 alias cmd='print -z $(cat $DOTFILES_HOME/commands.txt | fzf)'
 alias lf='lfcd'
 alias pdf='zathura'
+
+alias pbcopy='xclip -selection clipboard'       # copy to clipboard: ctrl+c, ctrl+shift+c
+alias pbpaste='xclip -selection clipboard -o'   # paste from clipboard: ctrl+v, ctrl+shift+v
+alias pbselect='xclip -selection primary -o'   # paste from highlight: middle click, shift+insert
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

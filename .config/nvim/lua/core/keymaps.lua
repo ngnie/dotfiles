@@ -32,4 +32,3 @@ vim.keymap.set("n", "<leader>cd", "<cmd>cd %:h<CR>", { silent = true })
 
 --vim.keymap.set("n", "<leader>y", '"+y<CR>', { silent = true })
 --vim.keymap.set("n", "<leader>p", '"+p<CR>', { silent = true })
-
