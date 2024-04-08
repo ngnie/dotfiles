@@ -1,5 +1,5 @@
 {
-   "checksum": "94193bb22d038297c9bd18785c50e259",
+   "checksum": "85560d7379b724dab1b60ede9cfe3e1e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -951,10 +951,21 @@
                         "name": "nvim-0.8-my/lua/core/options.lua at fae252d7d00b29089f7b33fb697bce46835d6e58 · ur4ltz/nvim-0.8-my · GitHub",
                         "type": "url",
                         "url": "https://github.com/ur4ltz/nvim-0.8-my/blob/fae252d7d00b29089f7b33fb697bce46835d6e58/lua/core/options.lua"
+                     }, {
+                        "date_added": "13356960988371385",
+                        "date_last_used": "0",
+                        "guid": "efa2cb86-23ae-49bc-879c-89d429fa8171",
+                        "id": "2220",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "How to Set up Neovim for Windows and Linux with Lua and Packer - DEV Community",
+                        "type": "url",
+                        "url": "https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391"
                      } ],
                      "date_added": "13356353949407172",
                      "date_last_used": "0",
-                     "date_modified": "0",
+                     "date_modified": "13356988583779851",
                      "guid": "6a7022b3-292d-4720-8ca8-c7941b2e4a58",
                      "id": "419",
                      "name": "quiteOk",
@@ -3207,6 +3218,48 @@
                   "id": "2210",
                   "name": "lua",
                   "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13357011451247874",
+                     "date_last_used": "0",
+                     "guid": "62a5bec0-fc3e-4395-b7f2-e69c1bd87bcc",
+                     "id": "2266",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Copy and Paste to/from Vim from/to Other Programs! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=E_rbfQqrm7g&ab_channel=LukeSmith"
+                  }, {
+                     "date_added": "13357011486572901",
+                     "date_last_used": "0",
+                     "guid": "e15f1570-d222-4a4d-aeb0-e19db817de21",
+                     "id": "2268",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "xclip - Copy and Paste Text to Clipboard - Linux CLI - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=fKP0FLp3uW0&ab_channel=gotbletu"
+                  }, {
+                     "date_added": "13357011493177979",
+                     "date_last_used": "0",
+                     "guid": "21ccc22c-dbd8-4a24-ac12-3d8f7cdfd09a",
+                     "id": "2269",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "linux - How can I copy the output of a command directly into my clipboard? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard"
+                  } ],
+                  "date_added": "13357011483678055",
+                  "date_last_used": "0",
+                  "date_modified": "13357011493177979",
+                  "guid": "d4c10e4a-c00e-4dd6-8a67-5931db9f8fae",
+                  "id": "2267",
+                  "name": "copyPaste",
+                  "type": "folder"
                } ],
                "date_added": "13356353949402259",
                "date_last_used": "0",
@@ -4788,6 +4841,48 @@
                   "id": "876",
                   "name": "maven",
                   "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356988583779851",
+                     "date_last_used": "0",
+                     "guid": "dc71221a-8064-4689-a3e5-e97a46a61c45",
+                     "id": "2222",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Akka Actors Quickstart with Java · Lightbend Tech Hub",
+                     "type": "url",
+                     "url": "https://developer.lightbend.com/guides/akka-quickstart-java/"
+                  }, {
+                     "date_added": "13356988663766848",
+                     "date_last_used": "0",
+                     "guid": "eeab8453-612a-4bb3-9dd1-0a805c11920d",
+                     "id": "2224",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Introduction to Akka • Akka Documentation",
+                     "type": "url",
+                     "url": "https://doc.akka.io/docs/akka/2.6/typed/guide/introduction.html?language=java"
+                  }, {
+                     "date_added": "13356988673873245",
+                     "date_last_used": "0",
+                     "guid": "2b62b543-1882-47ac-8ce7-99ea9cadd9d4",
+                     "id": "2225",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Akka Guide :: Akka Guide",
+                     "type": "url",
+                     "url": "https://developer.lightbend.com/docs/akka-guide/"
+                  } ],
+                  "date_added": "13356988661633029",
+                  "date_last_used": "0",
+                  "date_modified": "13356994129793891",
+                  "guid": "493c1a8c-9e95-4736-906f-3dcfbf935a6b",
+                  "id": "2223",
+                  "name": "akka",
+                  "type": "folder"
                } ],
                "date_added": "13356353949426865",
                "date_last_used": "0",
@@ -5726,32 +5821,115 @@
                      "name": "SunFounder Raspberry Pi Ultimate Starter Kit for Raspberry Pi 4B 3B+ 400, Python C Java Scratch, Online Detailed Tutorials, 133 Projects, 337 Items (Camera Module, Speaker, I2C LCD, etc): Amazon.co.uk: Computers & Accessories",
                      "type": "url",
                      "url": "https://www.amazon.co.uk/dp/B09BMVT4CB?keywords=sunfounder+ultimate+raspberry+pi+kit&sprefix=sunfounder+ul,aps,937&ref_=as_li_ss_tl&language=en_US&sr=8-3&linkCode=gs2&linkId=7508e0e8fa2aeb688c04b08d7768a99b&tag=sonofthesouth-21"
+                  }, {
+                     "date_added": "13356996794801255",
+                     "date_last_used": "0",
+                     "guid": "3133cf47-b6ec-4809-ae0b-351a8af8942b",
+                     "id": "2243",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Raspberry Pi 4 OpenMediaVault NAS - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=bpvlEbdA6qI&ab_channel=ExplainingComputers"
+                  }, {
+                     "date_added": "13356996987860039",
+                     "date_last_used": "0",
+                     "guid": "e3804e7b-bb6a-4069-821a-5e821dae2915",
+                     "id": "2244",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "How to Make a Raspberry Pi NAS - A NAS-Berry that Runs OpenMediaVault - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=zISwEoywvX4&ab_channel=CoreElectronics"
+                  }, {
+                     "date_added": "13356997705471280",
+                     "date_last_used": "0",
+                     "guid": "f6880cf9-ba1f-4079-ada5-32f974a529c2",
+                     "id": "2245",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "The ULTIMATE Raspberry Pi 5 NAS - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=l30sADfDiM8&ab_channel=JeffGeerling"
+                  }, {
+                     "date_added": "13356997964301504",
+                     "date_last_used": "0",
+                     "guid": "55773778-463f-4e43-a4dc-b3d306136f30",
+                     "id": "2248",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Raspberry Pi Supercomputer Cluster - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=VzcarXuVUvU&ab_channel=GaryExplains"
+                  }, {
+                     "date_added": "13356998176987620",
+                     "date_last_used": "0",
+                     "guid": "9888343b-7bff-44db-b395-750277da1fa5",
+                     "id": "2249",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Building a 4-node Raspberry Pi Cluster - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=H2rTecSO0gk&ab_channel=DavyWybiral"
+                  }, {
+                     "date_added": "13356998371741194",
+                     "date_last_used": "0",
+                     "guid": "c04e4b90-f40a-42b9-9db7-9a91cf7e13dc",
+                     "id": "2254",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "4 Pis on a mini ITX board! The Turing Pi 2 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=IUPYpZBfsMU&ab_channel=JeffGeerling"
+                  }, {
+                     "date_added": "13356998382967299",
+                     "date_last_used": "0",
+                     "guid": "15deadc7-eb53-41e4-aa70-5de7e8263be5",
+                     "id": "2255",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Raspberry Pi CM4 Cluster Running Kubernetes - Turing Pi 2 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=9Llchw14cDA&ab_channel=MichaelKlements"
+                  }, {
+                     "date_added": "13356998386791456",
+                     "date_last_used": "0",
+                     "guid": "c2a799ec-4748-44cd-a210-595619cfbbf7",
+                     "id": "2256",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Turing Pi 2 – The Ultimate Home Server? - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=hrXwRrcyrQ8&ab_channel=Wolfgang%27sChannel"
+                  }, {
+                     "date_added": "13356998393094961",
+                     "date_last_used": "0",
+                     "guid": "a56a63e1-3e7a-4b94-bf53-3581ec7bcbe8",
+                     "id": "2257",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "6-in-1: Build a 6-node Ceph cluster on this Mini ITX Motherboard - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=ecdm3oA-QdQ&ab_channel=JeffGeerling"
                   } ],
                   "date_added": "13356353949433847",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13356998393094961",
                   "guid": "b5367b1a-3763-42ee-914d-6c428c761226",
                   "id": "1007",
                   "name": "raspberrypi",
                   "type": "folder"
                }, {
                   "children": [ {
-                     "date_added": "13336574175000000",
-                     "date_last_used": "0",
-                     "guid": "b956eab1-c4cc-461f-be7f-d56f6a2b3332",
-                     "id": "1011",
-                     "name": "The Most Powerful ARM SBC Is Here And It's Crazy Fast! RK3588 SOC Hands-On - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=XrEmmXMXzXU&ab_channel=ETAPRIME"
-                  }, {
-                     "date_added": "13336574776000000",
-                     "date_last_used": "0",
-                     "guid": "a0372950-b3d1-43bf-bba2-fec63da3f235",
-                     "id": "1012",
-                     "name": "The New Rock Pi 5 Is So Fast It Could Replace a Desktop PC! Reborn OS Arch Linux - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=p7qFLQUgX7E&ab_channel=ETAPRIME"
-                  }, {
                      "date_added": "13336576501000000",
                      "date_last_used": "0",
                      "guid": "d9ef2cc3-ab3b-40ca-9fa6-865a9064dcd5",
@@ -5859,13 +6037,346 @@
                      "name": "Rock Pi 5 First Look, An All-New ARM-Based SBC With 16GB Ram & The Speed You Need - YouTube",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=dvPcPakRL20&ab_channel=ETAPRIME"
+                  }, {
+                     "date_added": "13336574776000000",
+                     "date_last_used": "0",
+                     "guid": "a0372950-b3d1-43bf-bba2-fec63da3f235",
+                     "id": "1012",
+                     "name": "The New Rock Pi 5 Is So Fast It Could Replace a Desktop PC! Reborn OS Arch Linux - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=p7qFLQUgX7E&ab_channel=ETAPRIME"
                   } ],
                   "date_added": "13356353949434728",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13356996442155453",
                   "guid": "d660e981-9a35-4223-b3e9-7823abecb783",
                   "id": "1024",
                   "name": "rockPi5",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356994129793891",
+                     "date_last_used": "0",
+                     "guid": "4d331cd1-b52b-4479-9900-a91abdf47941",
+                     "id": "2226",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Mixtile Blade 3 | Mixtile",
+                     "type": "url",
+                     "url": "https://www.mixtile.com/blade-3/"
+                  }, {
+                     "date_added": "13356994461662560",
+                     "date_last_used": "0",
+                     "guid": "b86ea9ef-e9e3-4e18-b91d-e133472aef6e",
+                     "id": "2230",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Supercharge Your Home Cluster With The Mixtile Blade 3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=geb3AC1wjrU&ab_channel=MichaelKlements"
+                  }, {
+                     "date_added": "13356999231456986",
+                     "date_last_used": "0",
+                     "guid": "88444aba-68c4-4b2c-bf12-16a90a9a92a8",
+                     "id": "2263",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Mixtile Blade 3 - Review / My new favorite RK3588 ARM desktop SBC ! ! ! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=qPuRH8V6aEY&ab_channel=NicoD%27sSBCs"
+                  }, {
+                     "date_added": "13356999305886742",
+                     "date_last_used": "0",
+                     "guid": "0c9883ef-424a-4628-840c-e6e333c950bf",
+                     "id": "2264",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Mixtile Core 3588E Review / RK3588 System-On-Module - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=0ynZ1X5_T1M&ab_channel=NicoD%27sSBCs"
+                  }, {
+                     "date_added": "13356999427534469",
+                     "date_last_used": "0",
+                     "guid": "dc98a79f-86b3-4375-a91b-b0694a5e29b2",
+                     "id": "2265",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Mixtile Blade 3 unbox - Stackable RK3588 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=OAkJgqZyS2I&ab_channel=NicoD%27sSBCs"
+                  } ],
+                  "date_added": "13356994147377991",
+                  "date_last_used": "0",
+                  "date_modified": "13357011451247874",
+                  "guid": "7eea1698-e236-4380-9b92-2fc6ad2170ee",
+                  "id": "2227",
+                  "name": "mixtile",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356994241806114",
+                     "date_last_used": "0",
+                     "guid": "f0be6e06-ad74-43e1-b5f5-0967f9a511c3",
+                     "id": "2228",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Edge2 | Khadas",
+                     "type": "url",
+                     "url": "https://www.khadas.com/product-page/edge2"
+                  }, {
+                     "date_added": "13356995969720854",
+                     "date_last_used": "0",
+                     "guid": "55aab52c-bbb9-4f24-bde2-ff95eb53cd64",
+                     "id": "2238",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "DON'T Use Raspberry Pis for Servers! (Use THIS) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=aKmKo_Ua7rQ&ab_channel=HardwareHaven"
+                  }, {
+                     "date_added": "13356997782023839",
+                     "date_last_used": "0",
+                     "guid": "b3868b53-e469-4772-973b-e5aee3e4c729",
+                     "id": "2246",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "The New Khadas Edge 2 Is The Most Powerful ARM SBC We've Ever Gotten Our Hands On - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=S1FrKQpSVco&ab_channel=ETAPRIME"
+                  } ],
+                  "date_added": "13356994254380766",
+                  "date_last_used": "0",
+                  "date_modified": "13356997873902100",
+                  "guid": "16075da0-90e8-4dc3-8b4e-c9f0da6ab027",
+                  "id": "2229",
+                  "name": "khadas",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356994549186409",
+                     "date_last_used": "0",
+                     "guid": "5dd18fbf-5f0a-4a8e-b0d1-889bd8cf72c5",
+                     "id": "2231",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Firefly Store",
+                     "type": "url",
+                     "url": "https://www.firefly.store/"
+                  }, {
+                     "date_added": "13356994614036613",
+                     "date_last_used": "13356997100653373",
+                     "guid": "c77f8909-e9e5-4d4b-a6f6-f774c93c0932",
+                     "id": "2233",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "The Fastest ARM-Based SBC We Ever Tested🔥 Firefly RK3588S First Look! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=WlECRxfqWrs&ab_channel=ETAPRIME"
+                  } ],
+                  "date_added": "13356994557705618",
+                  "date_last_used": "0",
+                  "date_modified": "13356994797628088",
+                  "guid": "1d3e9ae4-2e53-412c-8be3-79176051df91",
+                  "id": "2232",
+                  "name": "FireFlyRK3588SPCarmBoard",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356994797628088",
+                     "date_last_used": "13356997085715351",
+                     "guid": "cae899f5-15d9-4151-93e0-88b1c0190df1",
+                     "id": "2234",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Paying for Cloud Storage is Stupid - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=QsM6b5yix0U&ab_channel=LinusTechTips"
+                  } ],
+                  "date_added": "13356994851536273",
+                  "date_last_used": "0",
+                  "date_modified": "13356994954352423",
+                  "guid": "de016bce-0513-49a0-b743-c2dda4111cf5",
+                  "id": "2235",
+                  "name": "friendlyELECCM3588Nas",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356994954352423",
+                     "date_last_used": "13356999609516357",
+                     "guid": "16aa3158-368c-4f59-96c6-7a4aadbf7671",
+                     "id": "2236",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "The most powerful SBC I have tested! Mekotronics RK3588. 8K VIDEO. - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=4rg2I7m1t3k&ab_channel=leepspvideo"
+                  }, {
+                     "date_added": "13356997873902100",
+                     "date_last_used": "0",
+                     "guid": "d526daee-d5f1-403e-bf21-2242d4ea11fc",
+                     "id": "2247",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "The New R58X Is An 8K Next-Gen Arm SBC, It's Fast, Destroys The Shield TV! First Look - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=_2FGKaTxp60&ab_channel=ETAPRIME"
+                  } ],
+                  "date_added": "13356994993326632",
+                  "date_last_used": "0",
+                  "date_modified": "13356997964301504",
+                  "guid": "08b5a776-809e-4daa-8398-23758c4d3931",
+                  "id": "2237",
+                  "name": "MekotronicsR58XRockchipRK3588CPUNice",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356995980318111",
+                     "date_last_used": "0",
+                     "guid": "8f759306-7cd0-4282-ab0d-02066b1a5ee7",
+                     "id": "2239",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "The All-New Orange Pi 5 Pro Has 32GB Of Ram & A Fast ARM CPU! First Look - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=wMrXc0D18JQ&ab_channel=ETAPRIME"
+                  } ],
+                  "date_added": "13356995996181295",
+                  "date_last_used": "0",
+                  "date_modified": "13356995996181656",
+                  "guid": "e0afbc48-54e4-4999-9d93-a0ade0180ab8",
+                  "id": "2240",
+                  "name": "orangePi",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356996442155453",
+                     "date_last_used": "0",
+                     "guid": "c4bf3459-e329-404b-a255-c5bddc097078",
+                     "id": "2241",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Unleashing the $10 Tech Revolution: Milk-V Duo S Rocks the Linux World! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=rby8a_DsSYc&ab_channel=TechnicallyUnsure"
+                  } ],
+                  "date_added": "13356996466995504",
+                  "date_last_used": "0",
+                  "date_modified": "13356996794801255",
+                  "guid": "fa3903ae-e2fe-4aae-8f49-a9dd1c486d91",
+                  "id": "2242",
+                  "name": "milkVDuoRiskV",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356998302230388",
+                     "date_last_used": "0",
+                     "guid": "5efc7379-f602-46a5-bc4d-0c93123f7a55",
+                     "id": "2250",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Meet the Turing Pi 2 - Mix Pis and NVIDIA Jetsons on a Mini ITX Board! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=PX5UAtPeyd8&ab_channel=TechnoTim"
+                  } ],
+                  "date_added": "13356998322255475",
+                  "date_last_used": "0",
+                  "date_modified": "13356998346788098",
+                  "guid": "3c0c8c5c-f0fb-496e-a50c-2f76d8ef45a5",
+                  "id": "2251",
+                  "name": "rasberryPiJetson",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356998346788098",
+                     "date_last_used": "0",
+                     "guid": "bd450052-c5b0-41bc-803b-9c97e53fc17a",
+                     "id": "2252",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Build Your Own GPU Accelerated Supercomputer - NVIDIA Jetson Cluster - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=3IQuuX68-g8&ab_channel=GaryExplains"
+                  } ],
+                  "date_added": "13356998363186422",
+                  "date_last_used": "0",
+                  "date_modified": "13356998371741194",
+                  "guid": "669a74a7-5048-4480-ac37-8b5b6f58eefa",
+                  "id": "2253",
+                  "name": "jetson",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13336574175000000",
+                     "date_last_used": "0",
+                     "guid": "b956eab1-c4cc-461f-be7f-d56f6a2b3332",
+                     "id": "1011",
+                     "name": "The Most Powerful ARM SBC Is Here And It's Crazy Fast! RK3588 SOC Hands-On - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=XrEmmXMXzXU&ab_channel=ETAPRIME"
+                  } ],
+                  "date_added": "13356998679802473",
+                  "date_last_used": "0",
+                  "date_modified": "13356998788360079",
+                  "guid": "676d4655-75e1-4c53-b579-2eb112361be6",
+                  "id": "2258",
+                  "name": "firefly",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356998788360079",
+                     "date_last_used": "0",
+                     "guid": "52d3495d-dba5-4bcc-939b-a578857c14b7",
+                     "id": "2259",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Comparing RK3588 SBCs - Khadas Edge2 - Radxa Rock5B - NanoPi R6S - Mekotronics R58 Mini / R58X-4G - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=b0sbfJq2s3s&ab_channel=NicoD%27sSBCs"
+                  } ],
+                  "date_added": "13356998809189872",
+                  "date_last_used": "0",
+                  "date_modified": "13356999051809250",
+                  "guid": "2ba3989c-fa1c-4d89-881f-f7731d13acc4",
+                  "id": "2260",
+                  "name": "nicoDsSBC",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356999051809250",
+                     "date_last_used": "0",
+                     "guid": "fa9b2b34-659e-496a-8b58-d15b8a4e3445",
+                     "id": "2261",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "This Single Board Computer is Faster than a Mac Mini AND a Raspberry Pi - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=kIEv6ueNxUs&ab_channel=ServeTheHome"
+                  } ],
+                  "date_added": "13356999069165332",
+                  "date_last_used": "0",
+                  "date_modified": "13356999231456986",
+                  "guid": "6ea496a2-88d0-43c6-920a-c48e22d95fa4",
+                  "id": "2262",
+                  "name": "LattePandaSigma",
                   "type": "folder"
                } ],
                "date_added": "13356353949432799",
@@ -15631,7 +16142,7 @@
                } ],
                "date_added": "13356800421190810",
                "date_last_used": "0",
-               "date_modified": "13356800431234278",
+               "date_modified": "13356960988371385",
                "guid": "7338ce86-e35d-48d8-a605-6c4c611efd0f",
                "id": "2214",
                "name": "barbour",

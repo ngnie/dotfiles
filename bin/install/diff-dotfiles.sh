@@ -3,8 +3,10 @@
 DOTFILES_HOME=/home/nikolaj/ngr/engineer/repos/dotfiles
 DOTFILES_CONFIG_HOME=$DOTFILES_HOME/.config
 DOTFILES_BOOKMARKS_HOME=$DOTFILES_CONFIG_HOME/chromium/Default
+DOTFILES_ALACRITTY_HOME=$DOTFILES_CONFIG_HOME/alacritty
 CONFIG_HOME=~/.config
 CONFIG_BOOKMARKS_HOME=$CONFIG_HOME/chromium/Default
+CONFIG_ALACRITTY_HOME=$CONFIG_HOME/alacritty
 
 source ./utils.sh
 
@@ -16,3 +18,4 @@ diff_dotfile $DOTFILES_BOOKMARKS_HOME/Bookmarks $CONFIG_BOOKMARKS_HOME/Bookmarks
 diff_folder $DOTFILES_CONFIG_HOME/lf $CONFIG_HOME/lf
 diff_folder $DOTFILES_CONFIG_HOME/nvim $CONFIG_HOME/nvim
 diff_dotfile $DOTFILES_HOME/.tmux.conf ~/.tmux.conf
+diff_dotfile $DOTFILES_ALACRITTY_HOME/alacritty.toml $CONFIG_ALACRITTY_HOME/alacritty.toml

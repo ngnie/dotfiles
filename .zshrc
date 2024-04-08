@@ -119,8 +119,6 @@ compinit
 bindkey ii vi-cmd-mode
 set -o vi        
 
-
-
 yanktoclipboard(){
   echo $BUFFER | tr -d '\n' | xsel -i -b
 }
