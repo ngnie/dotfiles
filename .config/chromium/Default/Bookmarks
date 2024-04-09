@@ -1,5 +1,5 @@
 {
-   "checksum": "85560d7379b724dab1b60ede9cfe3e1e",
+   "checksum": "1cdb74e9ffe915c1e21f57d355a4a3c5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -737,18 +737,7 @@
                      "name": "medium",
                      "type": "folder"
                   }, {
-                     "children": [ {
-                        "date_added": "13356700053218389",
-                        "date_last_used": "0",
-                        "guid": "d9b2fb36-0a55-431f-a521-5325303df76c",
-                        "id": "2206",
-                        "meta_info": {
-                           "power_bookmark_meta": ""
-                        },
-                        "name": "My lazy neovim config - DEV Community",
-                        "type": "url",
-                        "url": "https://dev.to/voyeg3r/my-lazy-neovim-config-3h6o"
-                     } ],
+                     "children": [  ],
                      "date_added": "13356700105084158",
                      "date_last_used": "0",
                      "date_modified": "13356700239276270",
@@ -951,17 +940,6 @@
                         "name": "nvim-0.8-my/lua/core/options.lua at fae252d7d00b29089f7b33fb697bce46835d6e58 · ur4ltz/nvim-0.8-my · GitHub",
                         "type": "url",
                         "url": "https://github.com/ur4ltz/nvim-0.8-my/blob/fae252d7d00b29089f7b33fb697bce46835d6e58/lua/core/options.lua"
-                     }, {
-                        "date_added": "13356960988371385",
-                        "date_last_used": "0",
-                        "guid": "efa2cb86-23ae-49bc-879c-89d429fa8171",
-                        "id": "2220",
-                        "meta_info": {
-                           "power_bookmark_meta": ""
-                        },
-                        "name": "How to Set up Neovim for Windows and Linux with Lua and Packer - DEV Community",
-                        "type": "url",
-                        "url": "https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391"
                      } ],
                      "date_added": "13356353949407172",
                      "date_last_used": "0",
@@ -3259,6 +3237,37 @@
                   "guid": "d4c10e4a-c00e-4dd6-8a67-5931db9f8fae",
                   "id": "2267",
                   "name": "copyPaste",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13356700053218389",
+                     "date_last_used": "0",
+                     "guid": "d9b2fb36-0a55-431f-a521-5325303df76c",
+                     "id": "2206",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "My lazy neovim config - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/voyeg3r/my-lazy-neovim-config-3h6o"
+                  }, {
+                     "date_added": "13356960988371385",
+                     "date_last_used": "0",
+                     "guid": "efa2cb86-23ae-49bc-879c-89d429fa8171",
+                     "id": "2220",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "How to Set up Neovim for Windows and Linux with Lua and Packer - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391"
+                  } ],
+                  "date_added": "13357122817138684",
+                  "date_last_used": "0",
+                  "date_modified": "13357122835491690",
+                  "guid": "46510940-ce06-4f02-9b2e-d297e09156c5",
+                  "id": "2271",
+                  "name": "luaLearning",
                   "type": "folder"
                } ],
                "date_added": "13356353949402259",

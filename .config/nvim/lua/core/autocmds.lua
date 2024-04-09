@@ -39,6 +39,21 @@ end
 -- vim.cmd('autocmd! TermOpen term://* lua set_terminal_keymaps()')
 vim.cmd('autocmd! TermOpen term://*toggleterm#* lua set_terminal_keymaps()')
 
+-- vim.cmd([[
+--   highlight Cursor guibg=#5f87af ctermbg=67
+--   highlight iCursor guibg=#ffffaf ctermbg=229
+--   highlight rCursor guibg=#d70000 ctermbg=124
+--   set guicursor=n-v-c:block-Cursor/lCursor,i-ci-ve:ver100-iCursor,r-cr:block-rCursor,o:hor50-Cursor/lCursor,sm:block-iCursor,a:blinkwait1000-blinkon500-blinkoff250
+-- ]])
+
+-- vim.cmd([[
+--   highlight Cursor guifg=white guibg=black
+--   highlight iCursor guifg=white guibg=steelblue
+--   set guicursor=n-v-c:block-Cursor
+--   set guicursor+=i:ver100-iCursor
+--   set guicursor+=n-v-c:blinkon0
+--   set guicursor+=i:blinkwait10
+-- ]])
 
 -- require("shade").setup({
 --   overlay_opacity = 50,
@@ -57,3 +72,6 @@ vim.cmd('autocmd! TermOpen term://*toggleterm#* lua set_terminal_keymaps()')
 --  let g:vimade.fadelevel = 0.5
 --  let g:vimade.enablesigns = 1
 --]])
+--
+--
+--

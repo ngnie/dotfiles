@@ -1,8 +1,6 @@
 return {
   "lmburns/lf.nvim",
-  keys = {
-    { "<c-f>", ":Lf<cr>", desc = "Open lf filemanager within toggleterm" },
-  },
+  -- key mapping moved to toggleterm
   config = function()
     -- This feature will not work if the plugin is lazy-loaded
     vim.g.lf_netrw = 1
@@ -11,8 +9,6 @@ return {
       escape_quit = false,
       border = "rounded",
     })
-
-    -- vim.keymap.set("n", "<M-o>", "<Cmd>Lf<CR>")
 
     vim.api.nvim_create_autocmd({"User"}, {
       pattern = "LfTermEnter",

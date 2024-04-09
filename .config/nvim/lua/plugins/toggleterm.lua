@@ -64,5 +64,9 @@ return {
         end
       },
     })
+
+    vim.keymap.set("n", "<c-f>", ":Lf<cr>", { desc = "Open lf filemanager within toggleterm" })
+    vim.keymap.set("n", "<c-r>", ":ToggleTerm size=40 direction=float<CR>", { desc = "Open toggleterm in float mode" })
+    
   end,
 }

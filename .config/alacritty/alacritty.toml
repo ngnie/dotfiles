@@ -7,3 +7,23 @@ mods = "Shift"
 chars = "\u001B[13;5u"
 key = "Return"
 mods = "Control"
+
+[cursor]
+# Cursor style
+style = { shape = "Block", blinking = "On" }  # Default: shape = "Block", blinking = "Off"
+
+# Vi mode cursor style (falls back to the active value of the normal cursor if "None")
+vi_mode_style = { shape = "Block", blinking = "On" }  # Default: "None"
+
+# Cursor blinking interval in milliseconds
+blink_interval = 750  # Default: 750
+
+# Time after which cursor stops blinking, in seconds
+blink_timeout = 0  # Default: 5
+
+# When true, the cursor will be rendered as a hollow box when the window is not focused
+unfocused_hollow = true  # Default: true
+
+# Thickness of the cursor relative to the cell width
+thickness = 0.15  # Default: 0.15
+
