@@ -1,16 +1,11 @@
 return {
-  'akinsho/toggleterm.nvim',
+  "akinsho/toggleterm.nvim",
   lazy = false,
-  --vim.keymap.set("n", "<C-Bslash>", ":ToggleTerm<CR>", { silent = true })
-  keys = {
-    --{"n", "<C-Bslash>", ":ToggleTerm<CR>", desc = "Open terminal.."},
-    {"n", "<C-\\>", ":ToggleTerm<CR>", desc = "Open terminal.."},
-  },
   version = "*",
   config = function() 
     require("toggleterm").setup({
       size = 20,
-      open_mapping = [[<c-\>]],
+      open_mapping = [[<c-t>]],
       --on_create = fun(t: Terminal), -- function to run when the terminal is first created
       --on_open = fun(t: Terminal), -- function to run when the terminal opens
       --on_close = fun(t: Terminal), -- function to run when the terminal closes

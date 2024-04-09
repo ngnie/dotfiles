@@ -17,7 +17,7 @@ vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 vim.keymap.set("n", "<leader>gf", ":GitFiles<CR>", { silent = true })
 
 -- show buffers
-vim.keymap.set("n", "<leader>bu", ":Buffers!<CR>")
+vim.keymap.set("n", "<leader>b", ":Buffers!<CR>")
 
 vim.keymap.set("n", "<C-w>h", "<C-w>s", { silent = true })
 
