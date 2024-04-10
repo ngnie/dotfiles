@@ -1,8 +1,5 @@
 local api = vim.api
 
--- api.nvim_create_autocmd({"BufEnter", "FocusGained", "InsertLeave"}, {command = [[ set relativenumber ]]})
--- api.nvim_create_autocmd({"BufLeave", "FocusLost", "InsertEnter"}, {command = [[ set norelativenumber ]]})
-
 vim.api.nvim_create_autocmd({"BufEnter", "FocusGained", "InsertLeave"}, {
   callback = function()
     vim.opt.nu = true
@@ -39,39 +36,12 @@ end
 -- vim.cmd('autocmd! TermOpen term://* lua set_terminal_keymaps()')
 vim.cmd('autocmd! TermOpen term://*toggleterm#* lua set_terminal_keymaps()')
 
--- vim.cmd([[
---   highlight Cursor guibg=#5f87af ctermbg=67
---   highlight iCursor guibg=#ffffaf ctermbg=229
---   highlight rCursor guibg=#d70000 ctermbg=124
---   set guicursor=n-v-c:block-Cursor/lCursor,i-ci-ve:ver100-iCursor,r-cr:block-rCursor,o:hor50-Cursor/lCursor,sm:block-iCursor,a:blinkwait1000-blinkon500-blinkoff250
--- ]])
+vim.cmd([[
+  let g:fzf_action = { "ctrl-h": "split", "ctrl-v": "vsplit" }
+]])
 
--- vim.cmd([[
---   highlight Cursor guifg=white guibg=black
---   highlight iCursor guifg=white guibg=steelblue
---   set guicursor=n-v-c:block-Cursor
---   set guicursor+=i:ver100-iCursor
---   set guicursor+=n-v-c:blinkon0
---   set guicursor+=i:blinkwait10
--- ]])
+vim.cmd([[
+  hi CursorRed guifg=red guibg=red
+  set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkwait700-blinkoff400-blinkon250-CursorRed/lCursorRed,sm:block-blinkwait175-blinkoff150-blinkon175
+]])
 
--- require("shade").setup({
---   overlay_opacity = 50,
---   opacity_step = 1,
---   keys = {
---     brightness_up    = '<C-Up>',
---     brightness_down  = '<C-Down>',
---     toggle           = '<Leader>s',
---   }
--- })
-
--- vim.cmd([[let g:airline_theme='one']])
---
---vim.cmd([[
---  let g:vimade = {}
---  let g:vimade.fadelevel = 0.5
---  let g:vimade.enablesigns = 1
---]])
---
---
---
