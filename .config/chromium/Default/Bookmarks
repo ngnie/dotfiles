@@ -1,5 +1,5 @@
 {
-   "checksum": "1cdb74e9ffe915c1e21f57d355a4a3c5",
+   "checksum": "5656665018c2d8cd7a3621e68097c5e7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -375,7 +375,7 @@
                         "url": "https://www.youtube.com/watch?v=vqvdTSITduE&ab_channel=BitInByte"
                      }, {
                         "date_added": "13348407747000000",
-                        "date_last_used": "0",
+                        "date_last_used": "13357222948715418",
                         "guid": "a17d3321-14fc-477e-9a6b-254857aa0d9d",
                         "id": "397",
                         "name": "Neovim | Updated setup of JDTLS LSP - YouTube",
@@ -1939,10 +1939,21 @@
                      "name": "GitHub - nanotee/nvim-lua-guide: A guide to using Lua in Neovim",
                      "type": "url",
                      "url": "https://github.com/nanotee/nvim-lua-guide"
+                  }, {
+                     "date_added": "13357173281948865",
+                     "date_last_used": "0",
+                     "guid": "5e19f1a7-ac06-4c32-b5ea-1d369852750d",
+                     "id": "2277",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Neovim Config: from init.vim to init.lua - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/aphelionz/neovim-config-from-initvim-to-initlua-53n4"
                   } ],
                   "date_added": "13356353949412754",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13357173296254081",
                   "guid": "57fa7731-6d3a-4ea6-9410-04406cbf33e5",
                   "id": "538",
                   "name": "lua",
@@ -3264,10 +3275,52 @@
                   } ],
                   "date_added": "13357122817138684",
                   "date_last_used": "0",
-                  "date_modified": "13357122835491690",
+                  "date_modified": "13357136165396722",
                   "guid": "46510940-ce06-4f02-9b2e-d297e09156c5",
                   "id": "2271",
                   "name": "luaLearning",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13357136165396722",
+                     "date_last_used": "0",
+                     "guid": "d94de31e-3672-4b1f-b15b-5570f8ff2a75",
+                     "id": "2272",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Example toml config · Issue #6999 · alacritty/alacritty · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/alacritty/alacritty/issues/6999"
+                  }, {
+                     "date_added": "13357136449053332",
+                     "date_last_used": "0",
+                     "guid": "8711a657-0931-4cad-af5a-1e820ae1e4b7",
+                     "id": "2274",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "TOML: English v1.0.0",
+                     "type": "url",
+                     "url": "https://toml.io/en/v1.0.0"
+                  }, {
+                     "date_added": "13357136452158456",
+                     "date_last_used": "13357136582954347",
+                     "guid": "ec6dbeb3-6495-4ce6-bd5d-3d8a7e5a6aa3",
+                     "id": "2275",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Alacritty",
+                     "type": "url",
+                     "url": "https://alacritty.org/config-alacritty.html"
+                  } ],
+                  "date_added": "13357136191364214",
+                  "date_last_used": "0",
+                  "date_modified": "13357173281948865",
+                  "guid": "2f24d3ea-cd69-4ae8-99f7-454d0c45c067",
+                  "id": "2273",
+                  "name": "alacritty",
                   "type": "folder"
                } ],
                "date_added": "13356353949402259",

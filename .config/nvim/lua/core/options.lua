@@ -37,4 +37,4 @@ vim.opt.scrolloff = 999
 -- vim.opt.signcolumn = yes
 vim.opt.signcolumn = "number"
 
-vim.opt.wrap = false
+vim.opt.wrap = true
