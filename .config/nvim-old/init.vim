@@ -27,45 +27,35 @@ call plug#begin('~/.vim/plugged')
   Plug 'mhinz/vim-startify'
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
   Plug 'junegunn/fzf.vim'
+  Plug 'tpope/vim-surround'
+  Plug 'morhetz/gruvbox'
+  Plug 'kdheepak/lazygit.nvim', { 'branch': 'nvim-v0.4.3' }
+  Plug 'christoomey/vim-tmux-navigator'
+  Plug 'szw/vim-maximizer'
+  Plug 'easymotion/vim-easymotion'
   " TRANSFERED END
   "
   Plug 'airblade/vim-rooter'
   Plug 'tpope/vim-classpath'
-
-  " TRANSFERED
-  Plug 'tpope/vim-surround'
-  Plug 'morhetz/gruvbox'
-  " TRANSFERED END
-  "
   Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
   Plug 'jiangmiao/auto-pairs'
   Plug 'rstacruz/sparkup'
   Plug 'alvan/vim-closetag'
-  Plug 'kdheepak/lazygit.nvim', { 'branch': 'nvim-v0.4.3' }
   Plug 'vim-airline/vim-airline'
   Plug 'tpope/vim-dispatch'
   Plug 'neomake/neomake'
-  Plug 'christoomey/vim-tmux-navigator'
+
+
   Plug 'roxma/vim-tmux-clipboard'
   Plug 'benmills/vimux'
 
-  " TRANSFERED
-  Plug 'szw/vim-maximizer'
-  " TRANSFERED END
-  "
   Plug 'vim-syntastic/syntastic'
   Plug 'tpope/vim-fugitive'
   Plug 'christoomey/vim-conflicted'
   Plug 'leafgarland/typescript-vim'  
 
-  " TRANSFERED
-  Plug 'easymotion/vim-easymotion'
-  " TRANSFERED END
-  "
   Plug 'tpope/vim-repeat'
-  Plug 'KKPMW/vim-sendtowindow'
   Plug 'rakr/vim-one' 
-  Plug 'preservim/nerdtree'
   Plug 'mfussenegger/nvim-jdtls'
   Plug 'mfussenegger/nvim-dap'
   Plug 'theHamsta/nvim-dap-virtual-text'
@@ -73,15 +63,22 @@ call plug#begin('~/.vim/plugged')
   Plug 'ryanoasis/vim-devicons'
   Plug 'nvim-lua/lsp-status.nvim'
   Plug 'neovim/nvim-lspconfig'
+
+  " cmp
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'hrsh7th/cmp-buffer'
   Plug 'hrsh7th/cmp-path'
   Plug 'hrsh7th/cmp-cmdline'
   Plug 'hrsh7th/nvim-cmp'
-  Plug 'ray-x/lsp_signature.nvim'
-  Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate' }
-  Plug 'voldikss/vim-floaterm'
 
+  Plug 'ray-x/lsp_signature.nvim'
+
+  Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate' }
+
+
+  "Plug 'preservim/nerdtree'
+  "Plug 'KKPMW/vim-sendtowindow'
+  "Plug 'voldikss/vim-floaterm'
   "Plug 'vim-test/vim-test'
   "Plug 'itchyny/lightline.vim' //looks nice
   "Plug 'rhysd/clever-f.vim'
