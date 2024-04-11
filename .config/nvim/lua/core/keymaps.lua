@@ -35,7 +35,7 @@ vim.keymap.set("n", "<leader>cd", "<cmd>cd %:h<CR>", { silent = true })
 --vim.keymap.set("n", "<leader>p", '"+p<CR>', { silent = true })
 
 
-function get_spring_boot_runner(profile, debug)
+local function get_spring_boot_runner(profile, debug)
   local debug_param = ""
   if debug then
     debug_param = ' -Dspring-boot.run.jvmArguments="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=5005" '
@@ -49,7 +49,7 @@ function get_spring_boot_runner(profile, debug)
   return 'mvn spring-boot:run ' .. profile_param .. debug_param
 end
 
-function attach_to_debug()
+local function attach_to_debug()
   local dap = require('dap')
   dap.configurations.java = {
     {
@@ -60,6 +60,7 @@ function attach_to_debug()
       port = '5005';
     },
   }
+
   dap.continue()
 end
 
