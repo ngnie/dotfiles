@@ -1,4 +1,4 @@
-return { 
+return {
   'neovim/nvim-lspconfig',
   lazy = false,
   dependencies = {
@@ -42,7 +42,8 @@ return {
         vim.keymap.set('n', 'gd', vim.lsp.buf.definition, opts)
         vim.keymap.set('n', 'K', vim.lsp.buf.hover, opts)
         vim.keymap.set('n', 'gi', vim.lsp.buf.implementation, opts)
-        vim.keymap.set('n', '<C-h>', vim.lsp.buf.signature_help, opts)
+        --vim.keymap.set('n', '<C-h>', vim.lsp.buf.signature_help, opts)
+        vim.keymap.set('n', '<space>h', vim.lsp.buf.signature_help, opts)
         vim.keymap.set('n', '<space>wa', vim.lsp.buf.add_workspace_folder, opts)
         vim.keymap.set('n', '<space>wr', vim.lsp.buf.remove_workspace_folder, opts)
         vim.keymap.set('n', '<space>wl', function()
@@ -55,7 +56,6 @@ return {
         vim.keymap.set('n', '<space>f', function()
           vim.lsp.buf.format { async = true }
         end, opts)
-
 
         -- From https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
 

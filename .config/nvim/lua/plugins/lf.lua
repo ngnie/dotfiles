@@ -18,5 +18,7 @@ return {
     })
 
   end,
+
   requires = {"toggleterm.nvim"}
+
 }
