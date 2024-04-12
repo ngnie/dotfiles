@@ -30,11 +30,6 @@ vim.keymap.set("n", "<C-A-l>", ":vertical resize +5<CR>", { silent = true })
 -- change directory
 vim.keymap.set("n", "<leader>cd", "<cmd>cd %:h<CR>", { silent = true })
 
--- no need to set this since yank and paste is configured in zsh
---vim.keymap.set("n", "<leader>y", '"+y<CR>', { silent = true })
---vim.keymap.set("n", "<leader>p", '"+p<CR>', { silent = true })
-
-
 local function get_spring_boot_runner(profile, debug)
   local debug_param = ""
   if debug then
@@ -49,6 +44,11 @@ local function get_spring_boot_runner(profile, debug)
   return 'mvn spring-boot:run ' .. profile_param .. debug_param
 end
 
+local function debug_open_centered_scopes()
+  local widgets = require'dap.ui.widgets'
+  widgets.centered_float(widgets.scopes)
+end
+
 local function attach_to_debug()
   local dap = require('dap')
   dap.configurations.java = {
@@ -60,9 +60,14 @@ local function attach_to_debug()
       port = '5005';
     },
   }
-
   dap.continue()
 end
 
-vim.keymap.set("n", "<leader>da", function() attach_to_debug() end)
+vim.keymap.set('n', '<leader>db', ':lua require"dap".toggle_breakpoint()<cr>', { desc = 'Debug toggle breakpoint' })
+vim.keymap.set("n", "<leader>da", function() attach_to_debug() end, { desc = 'Debug attach' })
+vim.keymap.set('n', '<leader>dc', ':lua require"dap".continue()<cr>', { desc = 'Debug continue' })
+vim.keymap.set('n', '<leader>ds', function() debug_open_centered_scopes() end, { desc = 'Debug centered scopes' })
+vim.keymap.set('n', '<leader>dr', ':lua require"dap".repl.open()<cr>', { desc = 'Debug repl open' })
+
+
 

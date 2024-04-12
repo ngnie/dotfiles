@@ -1,6 +1,8 @@
 return {
-  'mfussenegger/nvim-dap',
+  'mfussenegger/nvim-jdtls',
+  lazy = false,
   dependencies = {
+    'mfussenegger/nvim-dap',
     'rcarriga/nvim-dap-ui',
   },
   config = function ()
@@ -14,10 +16,6 @@ return {
     end
 
     jdtls.setup_dap({ hotcodereplace = 'auto' })
-
-    vim.keymap.set('n', '<leader>ds', ':lua debug_open_centered_scopes()<cr>', { desc = 'Debug open centered scopes' })
-    vim.keymap.set('n', '<leader>db', ':lua require"dap".toggle_breakpoint()<cr>', { desc = 'Toggle breakpoint' })
-    vim.keymap.set('n', '<leader>dr', ':lua require"dap".repl.open()<cr>', { desc = 'Repl open' })
 
   end,
 }
