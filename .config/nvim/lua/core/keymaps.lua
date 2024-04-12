@@ -30,8 +30,10 @@ vim.keymap.set("n", "<C-A-l>", ":vertical resize +5<CR>", { silent = true })
 -- change directory
 vim.keymap.set("n", "<leader>cd", "<cmd>cd %:h<CR>", { silent = true })
 
+
 local function get_spring_boot_runner(profile, debug)
   local debug_param = ""
+
   if debug then
     debug_param = ' -Dspring-boot.run.jvmArguments="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=5005" '
   end
@@ -42,12 +44,15 @@ local function get_spring_boot_runner(profile, debug)
   end
 
   return 'mvn spring-boot:run ' .. profile_param .. debug_param
+
 end
+
 
 local function debug_open_centered_scopes()
   local widgets = require'dap.ui.widgets'
   widgets.centered_float(widgets.scopes)
 end
+
 
 local function attach_to_debug()
   local dap = require('dap')
@@ -60,8 +65,11 @@ local function attach_to_debug()
       port = '5005';
     },
   }
+
   dap.continue()
+
 end
+
 
 vim.keymap.set('n', '<leader>db', ':lua require"dap".toggle_breakpoint()<cr>', { desc = 'Debug toggle breakpoint' })
 vim.keymap.set("n", "<leader>da", function() attach_to_debug() end, { desc = 'Debug attach' })
