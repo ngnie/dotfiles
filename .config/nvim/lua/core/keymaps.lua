@@ -70,12 +70,8 @@ local function attach_to_debug()
 
 end
 
-
 vim.keymap.set('n', '<leader>db', ':lua require"dap".toggle_breakpoint()<cr>', { desc = 'Debug toggle breakpoint' })
 vim.keymap.set("n", "<leader>da", function() attach_to_debug() end, { desc = 'Debug attach' })
 vim.keymap.set('n', '<leader>dc', ':lua require"dap".continue()<cr>', { desc = 'Debug continue' })
 vim.keymap.set('n', '<leader>ds', function() debug_open_centered_scopes() end, { desc = 'Debug centered scopes' })
 vim.keymap.set('n', '<leader>dr', ':lua require"dap".repl.open()<cr>', { desc = 'Debug repl open' })
-
-
-
