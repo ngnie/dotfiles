@@ -1,5 +1,4 @@
--- map to Esc
---
+-- map Esc
 vim.keymap.set("i", "jk", "<Esc>", { desc = "Esc" })
 
 -- Make Y behave like C or D
@@ -71,7 +70,11 @@ local function attach_to_debug()
 end
 
 vim.keymap.set('n', '<leader>db', ':lua require"dap".toggle_breakpoint()<cr>', { desc = 'Debug toggle breakpoint' })
-vim.keymap.set("n", "<leader>da", function() attach_to_debug() end, { desc = 'Debug attach' })
-vim.keymap.set('n', '<leader>dc', ':lua require"dap".continue()<cr>', { desc = 'Debug continue' })
+vim.keymap.set('n', '<leader>da', function() attach_to_debug() end, { desc = 'Debug attach' })
 vim.keymap.set('n', '<leader>ds', function() debug_open_centered_scopes() end, { desc = 'Debug centered scopes' })
+vim.keymap.set('n', '<leader>dc', ':lua require"dap".continue()<cr>', { desc = 'Debug continue' })
 vim.keymap.set('n', '<leader>dr', ':lua require"dap".repl.open()<cr>', { desc = 'Debug repl open' })
+vim.keymap.set('n', '<leader>dov', ':lua require"dap".step_over()<cr>', { desc = 'Debug step over' })
+vim.keymap.set('n', '<leader>din', ':lua require"dap".step_into()<cr>', { desc = 'Debug step into' })
+vim.keymap.set('n', '<leader>dou', ':lua require"dap".step_out()<cr>', { desc = 'Debug step out' })
+

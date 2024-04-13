@@ -40,22 +40,18 @@ return {
         local opts = { buffer = event.buf }
         vim.keymap.set('n', 'gD', vim.lsp.buf.declaration, opts)
         vim.keymap.set('n', 'gd', vim.lsp.buf.definition, opts)
-        vim.keymap.set('n', 'K', vim.lsp.buf.hover, opts)
+        vim.keymap.set('n', 'gh', vim.lsp.buf.hover, opts)
         vim.keymap.set('n', 'gi', vim.lsp.buf.implementation, opts)
         --vim.keymap.set('n', '<C-h>', vim.lsp.buf.signature_help, opts)
-        vim.keymap.set('n', '<space>h', vim.lsp.buf.signature_help, opts)
-        vim.keymap.set('n', '<space>wa', vim.lsp.buf.add_workspace_folder, opts)
-        vim.keymap.set('n', '<space>wr', vim.lsp.buf.remove_workspace_folder, opts)
-        vim.keymap.set('n', '<space>wl', function()
-          print(vim.inspect(vim.lsp.buf.list_workspace_folders()))
-        end, opts)
-        vim.keymap.set('n', '<space>D', vim.lsp.buf.type_definition, opts)
-        vim.keymap.set('n', '<space>rn', vim.lsp.buf.rename, opts)
-        vim.keymap.set({ 'n', 'v' }, '<space>ca', vim.lsp.buf.code_action, opts)
+        vim.keymap.set('n', 'gH', vim.lsp.buf.signature_help, opts)
+        vim.keymap.set('n', 'gwa', vim.lsp.buf.add_workspace_folder, opts)
+        vim.keymap.set('n', 'gwr', vim.lsp.buf.remove_workspace_folder, opts)
+        vim.keymap.set('n', 'gwl', function() print(vim.inspect(vim.lsp.buf.list_workspace_folders())) end, opts)
+        vim.keymap.set('n', 'gtd', vim.lsp.buf.type_definition, opts)
+        vim.keymap.set('n', 'grn', vim.lsp.buf.rename, opts)
+        vim.keymap.set({ 'n', 'v' }, 'gca', vim.lsp.buf.code_action, opts)
         vim.keymap.set('n', 'gr', vim.lsp.buf.references, opts)
-        vim.keymap.set('n', '<space>f', function()
-          vim.lsp.buf.format { async = true }
-        end, opts)
+        vim.keymap.set('n', 'gf', function() vim.lsp.buf.format { async = true } end, opts)
 
         -- From https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
 
