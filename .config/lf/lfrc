@@ -1,5 +1,5 @@
 cmd fzf_jump ${{
-    res="$(find . -maxdepth 5 | fzf --reverse --header='Jump to location')"
+    res="$(find . -maxdepth 10 | fzf --reverse --header='Jump to location')"
     if [ -n "$res" ]; then
         if [ -d "$res" ]; then
             cmd="cd"
@@ -23,6 +23,6 @@ cmd fzf_search ${{
 }}
 
 map . set hidden!
-map <c-f> :fzf_jump
-map gs :fzf_search
-
+#map <c-f> :fzf_jump
+map gj :fzf_jump
+map gl :fzf_search
