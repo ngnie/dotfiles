@@ -1,5 +1,5 @@
 {
-   "checksum": "5656665018c2d8cd7a3621e68097c5e7",
+   "checksum": "b6382203d443068de48dd1d8d219e809",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -25,7 +25,7 @@
                   }, {
                      "children": [ {
                         "date_added": "13346690639000000",
-                        "date_last_used": "0",
+                        "date_last_used": "13357244738690055",
                         "guid": "01020ed8-b709-40cd-a38e-80fa0efa0132",
                         "id": "334",
                         "name": "Effective Neovim setup for web development towards 2024 - YouTube",
@@ -88,40 +88,6 @@
                      "guid": "57fc64de-6985-45cb-b477-8bbde510c919",
                      "id": "339",
                      "name": "tmux",
-                     "type": "folder"
-                  }, {
-                     "children": [ {
-                        "date_added": "13346698269000000",
-                        "date_last_used": "0",
-                        "guid": "5eec406f-1bbf-4d7e-af65-8a2215ba1cb2",
-                        "id": "342",
-                        "name": "Neovim - Convert init.vim to init.lua (Live) - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=BoDU6QOmEOY"
-                     }, {
-                        "date_added": "13350269517000000",
-                        "date_last_used": "0",
-                        "guid": "715133eb-af9a-429c-a2e7-70791a7aac66",
-                        "id": "343",
-                        "name": "GitHub - nanotee/nvim-lua-guide: A guide to using Lua in Neovim",
-                        "type": "url",
-                        "url": "https://github.com/nanotee/nvim-lua-guide#using-vimscript-from-lua"
-                     } ],
-                     "date_added": "13356353949403482",
-                     "date_last_used": "0",
-                     "date_modified": "0",
-                     "guid": "5751ec37-52d7-442c-8765-1745cc05fb8c",
-                     "id": "341",
-                     "name": "lua",
-                     "type": "folder"
-                  }, {
-                     "children": [  ],
-                     "date_added": "13356353949403629",
-                     "date_last_used": "0",
-                     "date_modified": "13356353949403629",
-                     "guid": "6322040e-7781-4c2c-ae5f-85b165667f49",
-                     "id": "344",
-                     "name": "fzf",
                      "type": "folder"
                   }, {
                      "children": [ {
@@ -223,7 +189,7 @@
                         "url": "https://www.youtube.com/watch?v=jGAAnrOF2mQ&ab_channel=IvanBytesoft"
                      }, {
                         "date_added": "13356688500481682",
-                        "date_last_used": "13356690544328254",
+                        "date_last_used": "13357570169278940",
                         "guid": "f9677deb-4be6-4be9-ab13-3129d43db49d",
                         "id": "2197",
                         "meta_info": {
@@ -315,7 +281,7 @@
                         "url": "https://www.youtube.com/watch?v=F8dgIPYjvH8&ab_channel=AndrewCourter"
                      }, {
                         "date_added": "13356687368485557",
-                        "date_last_used": "13356690569947975",
+                        "date_last_used": "13357287704772596",
                         "guid": "01dabcd3-645c-4a85-903f-c3c7135dc1f9",
                         "id": "2192",
                         "meta_info": {
@@ -383,7 +349,7 @@
                         "url": "https://www.youtube.com/watch?v=P7NYyb65A4s&ab_channel=BitInByte"
                      }, {
                         "date_added": "13356687444631273",
-                        "date_last_used": "13356690574532012",
+                        "date_last_used": "13357287708393742",
                         "guid": "3a3aad06-4057-4654-8092-121f6410869e",
                         "id": "2193",
                         "meta_info": {
@@ -451,7 +417,7 @@
                         "url": "https://www.youtube.com/watch?v=80mWp6H4zEw&ab_channel=JoseanMartinez"
                      }, {
                         "date_added": "13356687497118684",
-                        "date_last_used": "13356690577774206",
+                        "date_last_used": "13357287711850021",
                         "guid": "ccb337a2-ee7b-41df-9c0b-04fa23debb21",
                         "id": "2194",
                         "meta_info": {
@@ -471,7 +437,7 @@
                   }, {
                      "children": [ {
                         "date_added": "13356687522276728",
-                        "date_last_used": "13356690581402303",
+                        "date_last_used": "13357287715315601",
                         "guid": "17732c5e-1341-482e-aaf3-76c2978a744e",
                         "id": "2195",
                         "meta_info": {
@@ -491,7 +457,7 @@
                   }, {
                      "children": [ {
                         "date_added": "13346698253000000",
-                        "date_last_used": "0",
+                        "date_last_used": "13357287726025288",
                         "guid": "71cf21bc-86ac-46a3-8186-d2fc46b1f50f",
                         "id": "348",
                         "name": "DEBUG in Neovim. Like a BOSS. - YouTube",
@@ -572,7 +538,7 @@
                   }, {
                      "children": [ {
                         "date_added": "13346684578000000",
-                        "date_last_used": "0",
+                        "date_last_used": "13357287890038878",
                         "guid": "11aca660-80a3-404e-9ace-9b3c30a801c6",
                         "id": "358",
                         "name": "How to setup Neovim from Scratch - Complete Guide (Including TMUX, Lazy and LSP) - YouTube",
@@ -589,7 +555,7 @@
                   }, {
                      "children": [ {
                         "date_added": "13348407183000000",
-                        "date_last_used": "0",
+                        "date_last_used": "13357287924614295",
                         "guid": "a7696623-898a-49a7-9353-fdcd4380174e",
                         "id": "370",
                         "name": "Tmux has forever changed the way I write code. - YouTube",
@@ -646,7 +612,7 @@
                   }, {
                      "children": [ {
                         "date_added": "13348407020000000",
-                        "date_last_used": "0",
+                        "date_last_used": "13357287955968318",
                         "guid": "a362c7b4-ab86-4618-ba50-354e3a30890d",
                         "id": "377",
                         "name": "LSP in Neovim. Thanks to BILL GATES?! | FREE COURSE // EP 3 - YouTube",
@@ -744,6 +710,46 @@
                      "guid": "37db3b17-856f-4c9b-a9ef-636217c6e7e1",
                      "id": "2207",
                      "name": "SegioAraujo",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13357349035142410",
+                        "date_last_used": "13357472890511062",
+                        "guid": "cd254d79-985a-48ca-986a-eb9dc98b7fc3",
+                        "id": "2279",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "kickstart.nvim/init.lua at master · nvim-lua/kickstart.nvim · GitHub",
+                        "type": "url",
+                        "url": "https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua"
+                     } ],
+                     "date_added": "13357349050796391",
+                     "date_last_used": "0",
+                     "date_modified": "13357408909563644",
+                     "guid": "8831b916-3bc4-49f9-b7a3-0f34a52d1f1d",
+                     "id": "2280",
+                     "name": "kickstart",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13357477138301480",
+                        "date_last_used": "13357560983146807",
+                        "guid": "3ecbb1f9-4642-4429-a1b0-66acb68a8d63",
+                        "id": "2286",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - David-Kunz/vim",
+                        "type": "url",
+                        "url": "https://github.com/David-Kunz/vim"
+                     } ],
+                     "date_added": "13357477176953805",
+                     "date_last_used": "0",
+                     "date_modified": "13357559747269311",
+                     "guid": "1ffbd606-b574-49f4-bca4-22aa0b25599f",
+                     "id": "2287",
+                     "name": "devOnDuty",
                      "type": "folder"
                   } ],
                   "date_added": "13356353949402308",
@@ -1621,6 +1627,26 @@
                      "id": "503",
                      "name": "RishabhRD",
                      "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13357561594851145",
+                        "date_last_used": "0",
+                        "guid": "10ae631f-0cba-45d5-b6ba-1112011317fc",
+                        "id": "2295",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "I FINALLY configured nvim-dap to debug Node.js apps!!! - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Ul_WPhS2bis&ab_channel=LazarNikolov"
+                     } ],
+                     "date_added": "13357561632682550",
+                     "date_last_used": "0",
+                     "date_modified": "13357564802472928",
+                     "guid": "224a0dee-0b66-41ba-8689-5e331d871b22",
+                     "id": "2296",
+                     "name": "js",
+                     "type": "folder"
                   } ],
                   "date_added": "13356353949408607",
                   "date_last_used": "0",
@@ -1809,10 +1835,84 @@
                      "name": "GitHub - tmux-plugins/tpm: Tmux Plugin Manager",
                      "type": "url",
                      "url": "https://github.com/tmux-plugins/tpm"
+                  }, {
+                     "date_added": "13357408909563644",
+                     "date_last_used": "0",
+                     "guid": "5731e6ba-276f-4f8f-8566-359a99cd3263",
+                     "id": "2282",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Making Tmux Better AND Beautiful -- here’s how - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=jaI3Hcw-ZaA&ab_channel=typecraft"
+                  }, {
+                     "date_added": "13357408962998858",
+                     "date_last_used": "0",
+                     "guid": "44db9370-6f99-4cd3-ab51-f2f1aef82fc2",
+                     "id": "2283",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "dotfiles/.tmux.conf at master · typecraft-dev/dotfiles · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/typecraft-dev/dotfiles/blob/master/.tmux.conf"
+                  }, {
+                     "date_added": "13348408069000000",
+                     "date_last_used": "0",
+                     "guid": "0c760385-017f-48b7-9864-c7cf8d38113b",
+                     "id": "688",
+                     "name": "Tmux From Scratch To BEAST MODE - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=GH3kpsbbERo&ab_channel=DevOpsToolbox"
+                  }, {
+                     "date_added": "13357408973773011",
+                     "date_last_used": "0",
+                     "guid": "56460e67-6402-4f05-a8a3-a91274b7715b",
+                     "id": "2284",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "dotfiles/tmux/tmux.conf at master · omerxx/dotfiles · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/omerxx/dotfiles/blob/master/tmux/tmux.conf"
+                  }, {
+                     "date_added": "13353240406988878",
+                     "date_last_used": "0",
+                     "guid": "a2467fcd-29ef-420e-8132-2c3690a5b36a",
+                     "id": "100",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Tmux has forever changed the way I write code. - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=DzNmUNvnB04&ab_channel=DreamsofCode"
+                  }, {
+                     "date_added": "13353240691967222",
+                     "date_last_used": "0",
+                     "guid": "cd8baf8c-7b67-47cb-bee3-b7f540015f41",
+                     "id": "102",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "tmux/tmux.conf at main · dreamsofcode-io/tmux · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/dreamsofcode-io/tmux/blob/main/tmux.conf"
+                  }, {
+                     "date_added": "13357564802472928",
+                     "date_last_used": "0",
+                     "guid": "396998b7-2dd0-47bc-87c3-a7be0ebacdb9",
+                     "id": "2297",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "GitHub - rothgar/awesome-tmux: A list of awesome resources for tmux",
+                     "type": "url",
+                     "url": "https://github.com/rothgar/awesome-tmux"
                   } ],
                   "date_added": "13356353949411927",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13357564809888413",
                   "guid": "63f89f0a-5436-47d2-9cf2-3bd8d0d730d6",
                   "id": "520",
                   "name": "tmux",
@@ -1950,10 +2050,46 @@
                      "name": "Neovim Config: from init.vim to init.lua - DEV Community",
                      "type": "url",
                      "url": "https://dev.to/aphelionz/neovim-config-from-initvim-to-initlua-53n4"
+                  }, {
+                     "date_added": "13346698269000000",
+                     "date_last_used": "0",
+                     "guid": "5eec406f-1bbf-4d7e-af65-8a2215ba1cb2",
+                     "id": "342",
+                     "name": "Neovim - Convert init.vim to init.lua (Live) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=BoDU6QOmEOY"
+                  }, {
+                     "date_added": "13350269517000000",
+                     "date_last_used": "0",
+                     "guid": "715133eb-af9a-429c-a2e7-70791a7aac66",
+                     "id": "343",
+                     "name": "GitHub - nanotee/nvim-lua-guide: A guide to using Lua in Neovim",
+                     "type": "url",
+                     "url": "https://github.com/nanotee/nvim-lua-guide#using-vimscript-from-lua"
+                  }, {
+                     "children": [ {
+                        "date_added": "13357560828447327",
+                        "date_last_used": "0",
+                        "guid": "8839e4b3-13d9-4874-80cc-1efe30b4b299",
+                        "id": "2293",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Create Neovim Plugins with Lua - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=wkxtHV1hzEY&ab_channel=TJDeVries"
+                     } ],
+                     "date_added": "13357560845588498",
+                     "date_last_used": "0",
+                     "date_modified": "13357561594851145",
+                     "guid": "774713ab-ce75-4391-9d03-9a8152e6e4e4",
+                     "id": "2294",
+                     "name": "plugin",
+                     "type": "folder"
                   } ],
                   "date_added": "13356353949412754",
                   "date_last_used": "0",
-                  "date_modified": "13357173296254081",
+                  "date_modified": "13357349035142410",
                   "guid": "57fa7731-6d3a-4ea6-9410-04406cbf33e5",
                   "id": "538",
                   "name": "lua",
@@ -2171,6 +2307,30 @@
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=YLTH9jzE0MY"
                   }, {
+                     "date_added": "13350257699000000",
+                     "date_last_used": "0",
+                     "guid": "58a73674-fd58-470f-b8ec-4f9d063a49af",
+                     "id": "581",
+                     "name": "#fzf - FuZzy Finder Tutorial - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=tB-AgxzBmH8&ab_channel=DevInsideYou"
+                  }, {
+                     "date_added": "13350257743000000",
+                     "date_last_used": "0",
+                     "guid": "b5bd8cb3-418d-40d1-8833-53867d6f7eab",
+                     "id": "582",
+                     "name": "Neovim fzf #3: making your own ( fzf with ripgrep ) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=1Tbvq2QN60M&ab_channel=YukiUthman"
+                  }, {
+                     "date_added": "13350259077000000",
+                     "date_last_used": "0",
+                     "guid": "b995f7ec-028d-49fb-a34e-7d3aacf7c9c0",
+                     "id": "584",
+                     "name": "Neovim fzf #3: making your own ( fzf with ripgrep ) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=1Tbvq2QN60M&ab_channel=DevInsideYou"
+                  }, {
                      "date_added": "13282394300000000",
                      "date_last_used": "0",
                      "guid": "e1503ea1-c2d7-4212-a794-20ae7b2c6cda",
@@ -2251,22 +2411,6 @@
                      "type": "url",
                      "url": "https://github.com/vijaymarupudi/nvim-fzf"
                   }, {
-                     "date_added": "13350257699000000",
-                     "date_last_used": "0",
-                     "guid": "58a73674-fd58-470f-b8ec-4f9d063a49af",
-                     "id": "581",
-                     "name": "#fzf - FuZzy Finder Tutorial - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=tB-AgxzBmH8&ab_channel=DevInsideYou"
-                  }, {
-                     "date_added": "13350257743000000",
-                     "date_last_used": "0",
-                     "guid": "b5bd8cb3-418d-40d1-8833-53867d6f7eab",
-                     "id": "582",
-                     "name": "Neovim fzf #3: making your own ( fzf with ripgrep ) - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=1Tbvq2QN60M&ab_channel=YukiUthman"
-                  }, {
                      "date_added": "13350259057000000",
                      "date_last_used": "0",
                      "guid": "ada8c9f9-5c24-4b17-b9e8-76d01afc4ea1",
@@ -2274,18 +2418,10 @@
                      "name": "Using fzf-lua - aliquote.org",
                      "type": "url",
                      "url": "https://aliquote.org/post/nvim-fzf-lua/"
-                  }, {
-                     "date_added": "13350259077000000",
-                     "date_last_used": "0",
-                     "guid": "b995f7ec-028d-49fb-a34e-7d3aacf7c9c0",
-                     "id": "584",
-                     "name": "Neovim fzf #3: making your own ( fzf with ripgrep ) - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=1Tbvq2QN60M&ab_channel=DevInsideYou"
                   } ],
                   "date_added": "13356353949414011",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13357244569311541",
                   "guid": "7936b847-a752-4cb5-b1c7-e89a9f87aadf",
                   "id": "566",
                   "name": "fzf",
@@ -2799,10 +2935,21 @@
                      "name": "Let's create a Neovim Lua plugin: cmp-npm - YouTube",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=om7r3PXT1Vg&ab_channel=DevOnDuty"
+                  }, {
+                     "date_added": "13357560801336760",
+                     "date_last_used": "0",
+                     "guid": "fc223289-d5da-4410-b55c-3fa4f8f399bf",
+                     "id": "2292",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Create Neovim Plugins with Lua - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=wkxtHV1hzEY&ab_channel=DevOnDuty"
                   } ],
                   "date_added": "13356353949417217",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13357560828447327",
                   "guid": "9be2f4c2-2d3f-4f1a-88cf-da11c0298e7a",
                   "id": "638",
                   "name": "devOnDuty",
@@ -3134,14 +3281,6 @@
                      "name": "The Holy Grail of Neovim Note Taking - YouTube",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=5ht8NYkU9wQ&ab_channel=DevOpsToolbox"
-                  }, {
-                     "date_added": "13348408069000000",
-                     "date_last_used": "0",
-                     "guid": "0c760385-017f-48b7-9864-c7cf8d38113b",
-                     "id": "688",
-                     "name": "Tmux From Scratch To BEAST MODE - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=GH3kpsbbERo&ab_channel=DevOpsToolbox"
                   }, {
                      "date_added": "13348408069000000",
                      "date_last_used": "0",
@@ -6439,6 +6578,26 @@
                   "guid": "6ea496a2-88d0-43c6-920a-c48e22d95fa4",
                   "id": "2262",
                   "name": "LattePandaSigma",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13357559747269311",
+                     "date_last_used": "0",
+                     "guid": "46acfc31-7480-44a5-b6cd-67a619a863e1",
+                     "id": "2290",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Mini ITX NAS Motherboard Intel CPU 6xSATA 4x2.5GbE 2xM.2 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=PO8Kfi4qpY8&ab_channel=HTWingNut"
+                  } ],
+                  "date_added": "13357559812157452",
+                  "date_last_used": "0",
+                  "date_modified": "13357560801336760",
+                  "guid": "a290eb48-5c1b-4e4a-abff-5e1612282964",
+                  "id": "2291",
+                  "name": "MiniITXNASMotherboardIntelCpu6xSata4x2-5Gbe2xM2",
                   "type": "folder"
                } ],
                "date_added": "13356353949432799",
@@ -16521,28 +16680,6 @@
                         "name": "How to install and use fzf: the command-line fuzzy finder - YouTube",
                         "type": "url",
                         "url": "https://www.youtube.com/watch?v=1a5NiMhqAR0&ab_channel=TheModernCoder"
-                     }, {
-                        "date_added": "13353240406988878",
-                        "date_last_used": "0",
-                        "guid": "a2467fcd-29ef-420e-8132-2c3690a5b36a",
-                        "id": "100",
-                        "meta_info": {
-                           "power_bookmark_meta": ""
-                        },
-                        "name": "Tmux has forever changed the way I write code. - YouTube",
-                        "type": "url",
-                        "url": "https://www.youtube.com/watch?v=DzNmUNvnB04&ab_channel=DreamsofCode"
-                     }, {
-                        "date_added": "13353240691967222",
-                        "date_last_used": "0",
-                        "guid": "cd8baf8c-7b67-47cb-bee3-b7f540015f41",
-                        "id": "102",
-                        "meta_info": {
-                           "power_bookmark_meta": ""
-                        },
-                        "name": "tmux/tmux.conf at main · dreamsofcode-io/tmux · GitHub",
-                        "type": "url",
-                        "url": "https://github.com/dreamsofcode-io/tmux/blob/main/tmux.conf"
                      } ],
                      "date_added": "13352892605276939",
                      "date_last_used": "0",
