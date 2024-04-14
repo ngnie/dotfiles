@@ -18,16 +18,12 @@ local config = {
     '-Declipse.product=org.eclipse.jdt.ls.core.product',
     '-Dlog.protocol=true',
     '-Dlog.level=ALL',
-    '-javaagent:' .. lombok_path,
-    '-Xbootclasspath/a:' .. lombok_path,
+    --'-javaagent:' .. lombok_path,
+    --'-Xbootclasspath/a:' .. lombok_path,
     '-Xmx1g',
     '--add-modules=ALL-SYSTEM',
     '--add-opens', 'java.base/java.util=ALL-UNNAMED',
     '--add-opens', 'java.base/java.lang=ALL-UNNAMED',
-    --'--jvm-arg=-javaagent:', '/home/nikolaj/.local/share/nvim/mason/packages/jdtls/lombok.jar',
-    --'--jvm-arg=-Xbootclasspath/a:', '/home/nikolaj/.local/share/nvim/mason/packages/jdtls/lombok.jar',
-    --'-javaagent=', '/home/nikolaj/.local/share/nvim/mason/packages/jdtls/lombok.jar',
-    --'-Xbootclasspath/a=', '/home/nikolaj/.local/share/nvim/mason/packages/jdtls/lombok.jar',
     '-jar', '/home/nikolaj/.local/share/nvim/mason/share/jdtls/plugins/org.eclipse.equinox.launcher.jar',
     '-configuration', '/home/nikolaj/.local/share/nvim/mason/packages/jdtls/config_linux',
     '-data', workspace_dir,
@@ -47,4 +43,5 @@ local config = {
   },
 }
 
+jdtls.setup_dap({ hotcodereplace = 'auto' })
 jdtls.start_or_attach(config)

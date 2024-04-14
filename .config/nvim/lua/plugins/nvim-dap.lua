@@ -15,8 +15,6 @@ return {
       return
     end
 
-    jdtls.setup_dap({ hotcodereplace = 'auto' })
-
     require("dapui").setup()
 
     require("neodev").setup({

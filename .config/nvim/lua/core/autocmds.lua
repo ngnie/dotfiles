@@ -45,4 +45,8 @@ vim.cmd([[
   set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkwait700-blinkoff400-blinkon250-CursorRed/lCursorRed,sm:block-blinkwait175-blinkoff150-blinkon175
 ]])
 
--- vim.lsp.set_log_level("debug")
+vim.cmd([[
+  let g:python3_host_prog = "/usr/bin/python"
+]])
+
+vim.lsp.set_log_level("debug")
