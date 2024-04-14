@@ -1,5 +1,5 @@
 -- map Esc
-vim.keymap.set("i", "jk", "<Esc>", { desc = "Esc" })
+vim.keymap.set("i", "ii", "<Esc>", { desc = "Esc" })
 
 -- Make Y behave like C or D
 vim.keymap.set("n", "Y", "y$")
