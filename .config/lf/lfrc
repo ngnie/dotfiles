@@ -23,6 +23,5 @@ cmd fzf_search ${{
 }}
 
 map . set hidden!
-#map <c-f> :fzf_jump
 map gj :fzf_jump
 map gl :fzf_search
