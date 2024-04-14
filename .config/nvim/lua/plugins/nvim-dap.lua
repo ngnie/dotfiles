@@ -4,7 +4,9 @@ return {
   dependencies = {
     "mfussenegger/nvim-jdtls",
     "rcarriga/nvim-dap-ui",
-    "nvim-neotest/nvim-nio"
+    "nvim-neotest/nvim-nio",
+    "theHamsta/nvim-dap-virtual-text",
+    "ryanoasis/vim-devicons"
   },
   config = function ()
     --require('dap').setup({})
@@ -32,6 +34,7 @@ return {
     vim.keymap.set("n", "<leader>duio", ":lua require('dapui').open()<cr>", { desc = "Open dapui" })
     vim.keymap.set("n", "<leader>duic", ":lua require('dapui').close()<cr>", { desc = "Close dapui" })
     vim.keymap.set("n", "<leader>duit", ":lua require('dapui').toggle()<cr>", { desc = "Toggle dapui" })
+    vim.keymap.set("n", "<leader>de", ":lua require('dapui').eval()<cr>", { desc = "Eval dapui" })
 
   end,
 }
