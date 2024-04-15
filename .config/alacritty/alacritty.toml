@@ -28,7 +28,6 @@ unfocused_hollow = true  # Default: true
 thickness = 0.15  # Default: 0.15
 
 [window]
-decorations = "Transparent"
 opacity = 0.9
 blur = true
 
