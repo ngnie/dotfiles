@@ -31,6 +31,7 @@ local config = {
 
 	--root_dir = vim.fs.dirname(vim.fs.find({ ".gradlew", ".git", "mvnw" }, { upward = true })[1]),
   root_dir = require('jdtls.setup').find_root({'.git', 'mvnw', 'gradlew', 'pom.xml', 'build.gradle'}),
+  --root_dir = require('jdtls.setup').find_root({'.git', 'mvnw', 'gradlew' }),
 
   settings = {
     java = {}

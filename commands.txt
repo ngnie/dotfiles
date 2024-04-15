@@ -4,9 +4,9 @@ sudo fdisk -l
 sudo mount /dev/sda /mnt -o rw,umask=0
 sudo systemctl --type=service
 sudo pacman -Q
-~/ngr/bin/package-dependency.sh
-~/ngr/bin/packages-installed.sh
-~/ngr/bin/packages-not-installed.sh
+~/ngr/engineer/repos/dotfiles/bin/package-dependency.sh
+~/ngr/engineer/repos/dotfiles/bin/packages-installed.sh
+~/ngr/engineer/repos/dotfiles/bin/packages-not-installed.sh
 sudo pacman -Syu
 pamixer -i 10
 pamixer -d 10
