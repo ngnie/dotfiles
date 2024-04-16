@@ -2,7 +2,7 @@ return {
   "mfussenegger/nvim-dap",
   lazy = false,
   dependencies = {
-    "mfussenegger/nvim-jdtls",
+    --"mfussenegger/nvim-jdtls",
     "rcarriga/nvim-dap-ui",
     "nvim-neotest/nvim-nio",
     "theHamsta/nvim-dap-virtual-text",
@@ -14,6 +14,8 @@ return {
     if not status then
       return
     end
+
+    --jdtls.setup_dap({ hotcodereplace = 'auto' })
 
     require("dapui").setup()
 

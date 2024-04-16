@@ -1,3 +1,8 @@
+pamixer -i 10
+pamixer -d 10
+pacman -Syu
+xrandr --output DP-0 --brightness 0.9
+xrandr --output DP-0 --brightness 0.5
 lsblk
 lspci
 sudo fdisk -l
@@ -8,11 +13,6 @@ sudo pacman -Q
 ~/ngr/engineer/repos/dotfiles/bin/packages-installed.sh
 ~/ngr/engineer/repos/dotfiles/bin/packages-not-installed.sh
 sudo pacman -Syu
-pamixer -i 10
-pamixer -d 10
-pacman -Syu
-xrandr --output DP-0 --brightness 0.9
-xrandr --output DP-0 --brightness 0.5
 xrandr --listactivemonitors
 xrandr --verbose | grep -i brightness | cut -f2 -d ' ' | head -n1
 fc-match -a
