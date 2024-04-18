@@ -1,12 +1,12 @@
 return {
-  'neovim/nvim-lspconfig',
+  'williamboman/mason.nvim',
   lazy = false,
   dependencies = {
     -- Automatically install LSPs and related tools to stdpath for Neovim
-    'williamboman/mason.nvim',
     'williamboman/mason-lspconfig.nvim',
-    'WhoIsSethDaniel/mason-tool-installer.nvim',
     'jayp0521/mason-nvim-dap.nvim',
+    'WhoIsSethDaniel/mason-tool-installer.nvim',
+    'neovim/nvim-lspconfig',
     -- Useful status updates for LSP.
     -- NOTE: `opts = {}` is the same as calling `require('fidget').setup({})`
     { 'j-hui/fidget.nvim', opts = {} },
