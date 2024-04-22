@@ -11,6 +11,9 @@ CONFIG_PICOM_HOME=$CONFIG_HOME/picom
 
 source ./utils.sh
 
+create_folder $CONFIG_ALACRITTY_HOME
+create_folder $CONFIG_PICOM_HOME
+
 create_file_link $DOTFILES_HOME/.zshrc ~/.zshrc
 create_file_link $DOTFILES_HOME/.xinitrc ~/.xinitrc
 create_file_link $DOTFILES_HOME/.Xdefaults ~/.Xdefaults
