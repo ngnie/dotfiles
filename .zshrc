@@ -116,7 +116,7 @@ zstyle :compinstall filename '/home/nikolaj/.zshrc'
 autoload -Uz compinit
 compinit
 
-bindkey jk vi-cmd-mode
+bindkey Esc vi-cmd-mode
 set -o vi        
 
 yanktoclipboard(){
