@@ -18,3 +18,4 @@ xrandr --verbose | grep -i brightness | cut -f2 -d ' ' | head -n1
 fc-match -a
 fc-list
 sudo netstat -nlp
+scrot -s -l style=solid,width=1,color="red"
