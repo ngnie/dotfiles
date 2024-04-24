@@ -6,12 +6,16 @@ end
 -- If you started neovim within `~/dev/xy/project-1` this would resolve to `project-1`
 local project_name = vim.fn.fnamemodify(vim.fn.getcwd(), ':p:h:t')
 local workspace_dir = '/home/nikolaj/ngr/engineer/repos/' .. project_name
-
 local lombok_path = "/home/nikolaj/.local/share/nvim/mason/packages/jdtls/lombok.jar"
+
+--local config = {
+	--cmd = { vim.fn.expand("/home/nikolaj/.local/share/nvim/mason/bin/jdtls") },
+	--root_dir = vim.fs.dirname(vim.fs.find({ ".gradlew", ".git", "mvnw" }, { upward = true })[1]),
+--}
+
 
 local config = {
 	cmd = {
-    --vim.fn.expand("~/.local/share/nvim/mason/bin/jdtls") },
     'java',
     '-Declipse.application=org.eclipse.jdt.ls.core.id1',
     '-Dosgi.bundles.defaultStartLevel=4',
@@ -29,8 +33,8 @@ local config = {
     '-data', workspace_dir,
   },
 
-	--root_dir = vim.fs.dirname(vim.fs.find({ ".gradlew", ".git", "mvnw" }, { upward = true })[1]),
-  root_dir = require('jdtls.setup').find_root({'.git', 'mvnw', 'gradlew', 'pom.xml', 'build.gradle'}),
+	root_dir = vim.fs.dirname(vim.fs.find({ ".gradlew", ".git", "mvnw" }, { upward = true })[1]),
+  --root_dir = require('jdtls.setup').find_root({'.git', 'mvnw', 'gradlew', 'pom.xml', 'build.gradle'}),
   --root_dir = require('jdtls.setup').find_root({'.git', 'mvnw', 'gradlew' }),
 
   settings = {
