@@ -9,7 +9,7 @@ local workspace_dir = '/home/nikolaj/ngr/engineer/repos/' .. project_name
 local lombok_path = "/home/nikolaj/.local/share/nvim/mason/packages/jdtls/lombok.jar"
 
 --local config = {
-	--cmd = { vim.fn.expand("/home/nikolaj/.local/share/nvim/mason/bin/jdtls") },
+	--cmd = { vim.fn.expand("/home/nikolaj/.local/share/nvim/mason/packages/jdtls/jdtls") },
 	--root_dir = vim.fs.dirname(vim.fs.find({ ".gradlew", ".git", "mvnw" }, { upward = true })[1]),
 --}
 
@@ -49,4 +49,5 @@ local config = {
 }
 
 jdtls.setup_dap({ hotcodereplace = 'auto' })
+
 jdtls.start_or_attach(config)

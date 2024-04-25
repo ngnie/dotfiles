@@ -1,8 +1,8 @@
 return {
-  "mfussenegger/nvim-dap",
+  "mfussenegger/nvim-jdtls",
   lazy = false,
   dependencies = {
-    "mfussenegger/nvim-jdtls",
+    "mfussenegger/nvim-dap",
     "rcarriga/nvim-dap-ui",
     "nvim-neotest/nvim-nio",
     "theHamsta/nvim-dap-virtual-text",
