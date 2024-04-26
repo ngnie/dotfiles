@@ -5,7 +5,7 @@ end
 
 -- If you started neovim within `~/dev/xy/project-1` this would resolve to `project-1`
 local project_name = vim.fn.fnamemodify(vim.fn.getcwd(), ':p:h:t')
-local workspace_dir = '/home/nikolaj/ngr/engineer/repos/' .. project_name
+local workspace_dir = '/home/nikolaj/ngr/engineer/repos/samples/' .. project_name
 local lombok_path = "/home/nikolaj/.local/share/nvim/mason/packages/jdtls/lombok.jar"
 
 --local config = {

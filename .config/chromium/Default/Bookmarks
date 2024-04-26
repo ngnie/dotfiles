@@ -1,5 +1,5 @@
 {
-   "checksum": "9943a67f60ee563aad7eaec574b1457c",
+   "checksum": "0a4331d5dd3b0e9748e7e203164065ca",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -16484,7 +16484,7 @@
             "type": "folder"
          }, {
             "date_added": "13358243275071377",
-            "date_last_used": "13358267567638629",
+            "date_last_used": "13358507238117593",
             "guid": "75518202-e414-4942-a89c-6f058170bc8f",
             "id": "2310",
             "meta_info": {
@@ -16494,20 +16494,20 @@
             "type": "url",
             "url": "https://www.virustotal.com/gui/home/upload"
          }, {
-            "date_added": "13358270530818769",
-            "date_last_used": "0",
-            "guid": "c416f5c4-50f0-4d72-8aeb-c14ff8fcaa59",
-            "id": "2312",
+            "date_added": "13358339582604424",
+            "date_last_used": "13358415492014276",
+            "guid": "fcf114bd-b4fb-42c6-a095-9aff42f5a690",
+            "id": "2315",
             "meta_info": {
                "power_bookmark_meta": ""
             },
-            "name": "GitHub - akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
+            "name": "Login | Saxo Bank",
             "type": "url",
-            "url": "https://github.com/akinsho/toggleterm.nvim"
+            "url": "https://www.home.saxo/da-dk/login"
          } ],
          "date_added": "13352726830528309",
          "date_last_used": "0",
-         "date_modified": "13358270530818769",
+         "date_modified": "13358339582604424",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
