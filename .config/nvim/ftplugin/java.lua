@@ -22,7 +22,7 @@ local config = {
     '-Declipse.product=org.eclipse.jdt.ls.core.product',
     '-Dlog.protocol=true',
     '-Dlog.level=ALL',
-    --'-javaagent:' .. lombok_path,
+    '-javaagent:' .. lombok_path,
     --'-Xbootclasspath/a:' .. lombok_path,
     '-Xmx1g',
     '--add-modules=ALL-SYSTEM',
