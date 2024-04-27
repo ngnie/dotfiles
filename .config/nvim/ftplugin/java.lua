@@ -13,7 +13,6 @@ local lombok_path = "/home/nikolaj/.local/share/nvim/mason/packages/jdtls/lombok
 	--root_dir = vim.fs.dirname(vim.fs.find({ ".gradlew", ".git", "mvnw" }, { upward = true })[1]),
 --}
 
-
 local config = {
 	cmd = {
     'java',
@@ -33,7 +32,7 @@ local config = {
     '-data', workspace_dir,
   },
 
-	root_dir = vim.fs.dirname(vim.fs.find({ ".gradlew", ".git", "mvnw", "pom.xml" }, { upward = true })[1]),
+	root_dir = vim.fs.dirname(vim.fs.find({ ".gradlew", ".git", "pom.xml" }, { upward = true })[1]),
   --root_dir = require('jdtls.setup').find_root({'.git', 'mvnw', 'gradlew', 'pom.xml', 'build.gradle'}),
   --root_dir = require('jdtls.setup').find_root({'.git', 'mvnw', 'gradlew' }),
 
@@ -44,6 +43,10 @@ local config = {
   init_options = {
     bundles = {
       vim.fn.glob("/home/nikolaj/.local/share/nvim/mason/share/java-debug-adapter/com.microsoft.java.debug.plugin.jar", true)
+
+      -- starting on setting up test
+      --/home/nikolaj/.local/share/nvim/mason/packages/java-test/extension/server
+
     }
   },
 }
