@@ -35,6 +35,6 @@ vim.opt.sidescrolloff = 999
 vim.opt.scrolloff = 999
 -- vim.opt.scrolloff = 12
 -- vim.opt.signcolumn = yes
-vim.opt.signcolumn = "number"
+vim.opt.signcolumn = "auto:3"
 
 vim.opt.wrap = true
