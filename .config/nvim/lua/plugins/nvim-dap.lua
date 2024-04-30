@@ -28,6 +28,10 @@ return {
       },
     })
 
+    vim.keymap.set("n", "<leader>tc", ":lua require('jdtls').test_class()<cr>", { desc = "Test class", silent = true  })
+    vim.keymap.set("n", "<leader>tnm", ":lua require('jdtls').test_nearest_method()<cr>", { desc = "Test nearest method", silent = true  })
+    vim.keymap.set("n", "<leader>cf", ":lua require('jdtls').compile('full')<cr>", { desc = "Compile full", silent = true  })
+
     vim.keymap.set("n", "<leader>duio", ":lua require('dapui').open()<cr>", { desc = "Open dapui", silent = true  })
     vim.keymap.set("n", "<leader>duic", ":lua require('dapui').close()<cr>", { desc = "Close dapui", silent = true  })
     vim.keymap.set("n", "<leader>duit", ":lua require('dapui').toggle()<cr>", { desc = "Toggle dapui", silent = true })
