@@ -28,6 +28,9 @@ return {
       },
     })
 
+    vim.keymap.set("n", "<leader>co", ":copen<cr>", { desc = "Open quickfix list", silent = true  })
+    vim.keymap.set("n", "<leader>cc", ":cclose<cr>", { desc = "Close quickfix list", silent = true  })
+
     vim.keymap.set("n", "<leader>tc", ":lua require('jdtls').test_class()<cr>", { desc = "Test class", silent = true  })
     vim.keymap.set("n", "<leader>tnm", ":lua require('jdtls').test_nearest_method()<cr>", { desc = "Test nearest method", silent = true  })
     vim.keymap.set("n", "<leader>cf", ":lua require('jdtls').compile('full')<cr>", { desc = "Compile full", silent = true  })
