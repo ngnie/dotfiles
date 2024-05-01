@@ -1,5 +1,5 @@
 {
-   "checksum": "0a4331d5dd3b0e9748e7e203164065ca",
+   "checksum": "5f8d4edcede2336182f8e20b24b0d49e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -64,10 +64,54 @@
                         "name": "nvim-config-examples/dap-java/init.lua at main · Nawy/nvim-config-examples · GitHub",
                         "type": "url",
                         "url": "https://github.com/Nawy/nvim-config-examples/blob/main/dap-java/init.lua"
+                     }, {
+                        "date_added": "13358592649821967",
+                        "date_last_used": "13358609156818845",
+                        "guid": "a7c46150-8be5-410c-99d7-a8a792580e08",
+                        "id": "2335",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "LunarVim as a Java IDE. Java presents a unique challenge in… | by chris@machine | Medium",
+                        "type": "url",
+                        "url": "https://medium.com/@chrisatmachine/lunarvim-as-a-java-ide-da65c4a77fb4"
+                     }, {
+                        "date_added": "13358594264150541",
+                        "date_last_used": "0",
+                        "guid": "a5845d7d-82d6-4882-863e-678e6fb548bc",
+                        "id": "2337",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Package name not recognized when opening standalone java files · Issue #1764 · eclipse-jdtls/eclipse.jdt.ls · GitHub",
+                        "type": "url",
+                        "url": "https://github.com/eclipse-jdtls/eclipse.jdt.ls/issues/1764"
+                     }, {
+                        "date_added": "13358594268898968",
+                        "date_last_used": "0",
+                        "guid": "40f09926-abec-4eec-b18c-46e8e0f82634",
+                        "id": "2338",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Support to specify source paths for unmanaged folder by jdneo · Pull Request #1658 · eclipse-jdtls/eclipse.jdt.ls · GitHub",
+                        "type": "url",
+                        "url": "https://github.com/eclipse-jdtls/eclipse.jdt.ls/pull/1658"
+                     }, {
+                        "date_added": "13358594273110161",
+                        "date_last_used": "0",
+                        "guid": "f74af0e5-6d99-4ef2-ae55-d33ca1bf56f6",
+                        "id": "2339",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Reference to different java project source in VS Code - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/68616854/reference-to-different-java-project-source-in-vs-code"
                      } ],
                      "date_added": "13356353949403211",
                      "date_last_used": "0",
-                     "date_modified": "0",
+                     "date_modified": "13358758556807338",
                      "guid": "83fcb92c-1a80-48e3-882a-2c552c0073fa",
                      "id": "335",
                      "name": "jdtls",
@@ -887,10 +931,43 @@
                      "name": "GitHub - williamboman/mason.nvim: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
                      "type": "url",
                      "url": "https://github.com/williamboman/mason.nvim"
+                  }, {
+                     "date_added": "13358758556807338",
+                     "date_last_used": "0",
+                     "guid": "7e9621f4-efbc-4ea7-bb03-98866845b216",
+                     "id": "2341",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "nvim-dap — Getting Started - Dave Lage",
+                     "type": "url",
+                     "url": "https://davelage.com/posts/nvim-dap-getting-started/"
+                  }, {
+                     "date_added": "13358758578527313",
+                     "date_last_used": "0",
+                     "guid": "f90d46cd-c055-43fb-97e1-34e0c1b3aa53",
+                     "id": "2342",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Highlight on breakpoint when using nvim-dap (debugger) does not reverse the color with gruvbox theme - Plugins - Neovim Discourse",
+                     "type": "url",
+                     "url": "https://neovim.discourse.group/t/highlight-on-breakpoint-when-using-nvim-dap-debugger-does-not-reverse-the-color-with-gruvbox-theme/4436"
+                  }, {
+                     "date_added": "13358798810725845",
+                     "date_last_used": "0",
+                     "guid": "76867ace-97b8-4240-aa91-dd74c62fad14",
+                     "id": "2343",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "How to debug like a PRO using Neovim 🔥",
+                     "type": "url",
+                     "url": "https://miguelcrespo.co/posts/how-to-debug-like-a-pro-using-neovim/"
                   } ],
                   "date_added": "13356353949406312",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13358798810725845",
                   "guid": "740ba9f0-4f75-4714-9490-1e432a8fc051",
                   "id": "400",
                   "name": "dap",
@@ -16484,7 +16561,7 @@
             "type": "folder"
          }, {
             "date_added": "13358243275071377",
-            "date_last_used": "13358507238117593",
+            "date_last_used": "13359023007874188",
             "guid": "75518202-e414-4942-a89c-6f058170bc8f",
             "id": "2310",
             "meta_info": {
@@ -16495,7 +16572,7 @@
             "url": "https://www.virustotal.com/gui/home/upload"
          }, {
             "date_added": "13358339582604424",
-            "date_last_used": "13358415492014276",
+            "date_last_used": "13358527955589148",
             "guid": "fcf114bd-b4fb-42c6-a095-9aff42f5a690",
             "id": "2315",
             "meta_info": {
@@ -16504,10 +16581,195 @@
             "name": "Login | Saxo Bank",
             "type": "url",
             "url": "https://www.home.saxo/da-dk/login"
+         }, {
+            "children": [ {
+               "date_added": "13358547785451043",
+               "date_last_used": "0",
+               "guid": "02fa68be-99c0-43b3-9fcd-442c53eee280",
+               "id": "2317",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Neumann KH-80 vs Yamaha HS-5 Studio Monitor Review Shootout - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=gYIoEE1vS2I&ab_channel=LearnAudioEngineering"
+            }, {
+               "date_added": "13358547820697560",
+               "date_last_used": "0",
+               "guid": "ac28bd27-a281-4d9d-96a0-d7a646329dfa",
+               "id": "2319",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Neumann KH80 DSP vs Yamaha HS8 || Sound & Frequency Response Comparison - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=LcldXF0mx0I&ab_channel=RickBeato2"
+            }, {
+               "date_added": "13358547823724552",
+               "date_last_used": "0",
+               "guid": "ac200ba0-1cc6-4fe5-af20-da55e0e75c31",
+               "id": "2320",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Sorry Neumann, I Can't Work Like This Anymore... - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=EuiLbrh7P58&ab_channel=EdThorneMusicProduction"
+            }, {
+               "date_added": "13358547827168651",
+               "date_last_used": "0",
+               "guid": "af8fc318-35cb-47eb-80da-6e8ad9b9f3e7",
+               "id": "2321",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Ed Thorne Music Production - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@EdThorne/videos"
+            }, {
+               "date_added": "13358547830047264",
+               "date_last_used": "0",
+               "guid": "bb038543-ae29-4cfe-99d5-d80f18433ec4",
+               "id": "2322",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Present Day Production M.U.M.8 Speakers Interview PART 2 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ePKgkZfsEPg&ab_channel=EdThorneMusicProduction"
+            }, {
+               "date_added": "13358547832470091",
+               "date_last_used": "0",
+               "guid": "76f13979-eca4-4f2a-aa3d-a5dc9587b226",
+               "id": "2323",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "£10k SPEAKER COMPARISON! Which Would YOU Buy? - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=W0Z6UyeAdt4&ab_channel=EdThorneMusicProduction"
+            }, {
+               "date_added": "13358547834685872",
+               "date_last_used": "0",
+               "guid": "2bff6980-adce-4479-88aa-b61e5272415a",
+               "id": "2324",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Neumann KH 80 DSP Monitors - Review - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=IvzCw3G-65M&ab_channel=Riffs%2CBeards%26Gear"
+            }, {
+               "date_added": "13358547839652318",
+               "date_last_used": "0",
+               "guid": "9375cdd7-1f5a-49bd-a37e-ad4326333981",
+               "id": "2325",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Neumann KH 80 DSP Monitors - Perfect For ANY Room? - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=35nSds9icfQ&ab_channel=FabianHolland"
+            }, {
+               "date_added": "13358547842602992",
+               "date_last_used": "0",
+               "guid": "5cdb84b4-44dc-4974-98c4-54a5070a738d",
+               "id": "2326",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The Standard in Studio Monitors: Yamaha HS5 Powered Speaker Review - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=GOu8c54Z3S8&ab_channel=AdamTalksTech"
+            }, {
+               "date_added": "13358547845213967",
+               "date_last_used": "0",
+               "guid": "dc33697c-be0c-44be-9c61-3f6c6847e14c",
+               "id": "2327",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Edward Smith - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@EdwardSmithMusic/videos"
+            }, {
+               "date_added": "13358547847820502",
+               "date_last_used": "0",
+               "guid": "5c09a7db-6b72-471f-b94a-09911442c042",
+               "id": "2328",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "These Studio Monitors are ALMOST PERFECT!! || KRK Rokit 5 G4 Studio Monitor (Unboxing & Review) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=UsUgbL35TkE&ab_channel=EdwardSmith"
+            }, {
+               "date_added": "13358547849706591",
+               "date_last_used": "0",
+               "guid": "135c42c9-5a71-4b5c-82f6-0483d907766b",
+               "id": "2329",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Which Studio Monitors Should You Buy?? || KRK Rokit 5 G4 VS Yamaha HS5 (Studio Monitor Comparison) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=wuPX0rB2ekY&ab_channel=EdwardSmith"
+            }, {
+               "date_added": "13358547851714815",
+               "date_last_used": "0",
+               "guid": "d8c7fd20-5d2a-4f8e-b7c6-76153344df36",
+               "id": "2330",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Which Studio Monitors Should You Buy?? || Yamaha HS5 VS Kali Audio LP6 (Studio Monitor Comparison) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NeNcx2BsqSg&ab_channel=EdwardSmith"
+            }, {
+               "date_added": "13358548663790311",
+               "date_last_used": "0",
+               "guid": "e599c396-0f57-4dfd-99ad-e4b6cc6d582e",
+               "id": "2331",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Best audio interfaces 2024: all the options, tested by experts | MusicRadar",
+               "type": "url",
+               "url": "https://www.musicradar.com/news/the-best-audio-interfaces"
+            }, {
+               "date_added": "13358548668341939",
+               "date_last_used": "0",
+               "guid": "9271ccdf-a32c-477f-91b4-466044e4bc6d",
+               "id": "2332",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "KRK Rokit RP5 G4 review | MusicRadar",
+               "type": "url",
+               "url": "https://www.musicradar.com/reviews/krk-rokit-rp5-g4-review"
+            }, {
+               "date_added": "13358548673270675",
+               "date_last_used": "0",
+               "guid": "b986509d-d26c-42a9-8c3d-f3a23a882ef8",
+               "id": "2333",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Best budget studio monitors 2024: Wallet-friendly speakers | MusicRadar",
+               "type": "url",
+               "url": "https://www.musicradar.com/news/best-budget-studio-monitors"
+            } ],
+            "date_added": "13358547818678407",
+            "date_last_used": "0",
+            "date_modified": "13358592649821967",
+            "guid": "76f2afd4-cb0f-40a1-a96c-61c9afbf9991",
+            "id": "2318",
+            "name": "monitor",
+            "type": "folder"
          } ],
          "date_added": "13352726830528309",
          "date_last_used": "0",
-         "date_modified": "13358339582604424",
+         "date_modified": "13358547785451043",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
