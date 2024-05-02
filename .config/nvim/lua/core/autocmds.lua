@@ -47,4 +47,10 @@ vim.cmd([[
   let g:python3_host_prog = "/usr/bin/python"
 ]])
 
+vim.cmd([[
+  autocmd BufEnter * set cursorline
+  autocmd BufLeave * set nocursorline
+]])
+
+
 --vim.lsp.set_log_level("debug")
