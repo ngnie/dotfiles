@@ -1,4 +1,4 @@
-cmd fzf_jump ${{
+cmd fzf_find ${{
     res="$(find . -maxdepth 10 | fzf --reverse --header='Jump to location')"
     if [ -n "$res" ]; then
         if [ -d "$res" ]; then
@@ -11,7 +11,7 @@ cmd fzf_jump ${{
     fi
 }}
 
-cmd fzf_search ${{
+cmd fzf_rg ${{
     RG_PREFIX="rg --column --line-number --no-heading --color=always --smart-case "
     res="$(
         FZF_DEFAULT_COMMAND="$RG_PREFIX ''" \
@@ -23,5 +23,5 @@ cmd fzf_search ${{
 }}
 
 map . set hidden!
-map gj :fzf_jump
-map gl :fzf_search
+map gj :fzf_find
+map gl :fzf_rg

@@ -13,7 +13,7 @@ vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 
 -- git files
-vim.keymap.set("n", "<leader>gf", ":GitFiles<CR>", { silent = true })
+vim.keymap.set("n", "<leader>g", ":GFiles<CR>", { silent = true })
 
 -- show buffers
 vim.keymap.set("n", "<leader>;", ":Buffers!<CR>")
