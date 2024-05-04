@@ -1,5 +1,5 @@
 {
-   "checksum": "5f8d4edcede2336182f8e20b24b0d49e",
+   "checksum": "b57e6d7ac3fdc71684f69af3218a1cac",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -967,7 +967,7 @@
                   } ],
                   "date_added": "13356353949406312",
                   "date_last_used": "0",
-                  "date_modified": "13358798810725845",
+                  "date_modified": "13359198432229184",
                   "guid": "740ba9f0-4f75-4714-9490-1e432a8fc051",
                   "id": "400",
                   "name": "dap",
@@ -3537,6 +3537,26 @@
                   "guid": "2f24d3ea-cd69-4ae8-99f7-454d0c45c067",
                   "id": "2273",
                   "name": "alacritty",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13359284333169765",
+                     "date_last_used": "0",
+                     "guid": "46cd30bb-ee9c-43f6-ad92-3987cb492913",
+                     "id": "2359",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "GitHub - folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+                     "type": "url",
+                     "url": "https://github.com/folke/lazy.nvim#%EF%B8%8F-lazy-key-mappings"
+                  } ],
+                  "date_added": "13359284386785588",
+                  "date_last_used": "0",
+                  "date_modified": "13359284457922227",
+                  "guid": "2b6b65ad-e9e5-4784-b126-54e55f59757f",
+                  "id": "2360",
+                  "name": "lazy",
                   "type": "folder"
                } ],
                "date_added": "13356353949402259",
@@ -16561,7 +16581,7 @@
             "type": "folder"
          }, {
             "date_added": "13358243275071377",
-            "date_last_used": "13359023007874188",
+            "date_last_used": "13359284470601296",
             "guid": "75518202-e414-4942-a89c-6f058170bc8f",
             "id": "2310",
             "meta_info": {
@@ -16766,10 +16786,206 @@
             "id": "2318",
             "name": "monitor",
             "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13359198432229184",
+               "date_last_used": "0",
+               "guid": "fd6a3acd-7937-4c5a-ba0c-9110f214bb74",
+               "id": "2345",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "FZF + JQ = Interactive JQ (+ a vim bonus) - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/pbnj/fzf-jq-interactive-jq-15no"
+            }, {
+               "date_added": "13359198573804765",
+               "date_last_used": "0",
+               "guid": "4837dcd3-6409-4a9d-a447-dde6781c4447",
+               "id": "2347",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CLI tools you won't be able to live without 🔧 - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6"
+            }, {
+               "date_added": "13359198633978554",
+               "date_last_used": "0",
+               "guid": "f116533f-54bb-47d7-80a3-d43abdf25a4a",
+               "id": "2348",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "This 9 Coolest CLI Tools that i found this week - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/javidjms/this-9-coolest-cli-tools-that-i-found-this-week-a6f"
+            }, {
+               "date_added": "13359198728297449",
+               "date_last_used": "0",
+               "guid": "3c9d92ab-2b97-44b1-8b68-670879f5699b",
+               "id": "2349",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Find pull requests that modify a file path in the terminal - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/bhupesh/find-pull-requests-that-modify-a-file-path-in-the-terminal-3pd7"
+            }, {
+               "date_added": "13359198802242965",
+               "date_last_used": "0",
+               "guid": "4686509c-dea5-4a93-87e9-79e1b7f37bbd",
+               "id": "2350",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Top 10 CLI Tools for DevOps Teams - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/globalping/top-10-cli-tools-for-devops-teams-4fok"
+            }, {
+               "date_added": "13359198856795422",
+               "date_last_used": "0",
+               "guid": "5033ddc2-5131-4121-9d18-e5b2fdcf13a3",
+               "id": "2351",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Useful Command Line Tools in 2023 - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/hackingcpp/useful-command-line-tools-in-2022-441n"
+            }, {
+               "date_added": "13359198914591972",
+               "date_last_used": "0",
+               "guid": "77b35b00-1278-46df-8c53-77406b6eda1f",
+               "id": "2352",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Must have command line tools! - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/flrnd/must-have-command-line-tools-109f"
+            }, {
+               "date_added": "13359199096163468",
+               "date_last_used": "0",
+               "guid": "f7dfddb8-f05a-4c8b-8e60-cc06cbb69696",
+               "id": "2353",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Run jq in fzf preview with arguments - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/56744579/run-jq-in-fzf-preview-with-arguments"
+            }, {
+               "date_added": "13359199481322643",
+               "date_last_used": "0",
+               "guid": "78325a0a-dc76-4eb3-a871-397efecb4237",
+               "id": "2354",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to use FZF, curl & jq together - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KswdZlpzm4c&ab_channel=CodeSmell"
+            }, {
+               "date_added": "13359199688191395",
+               "date_last_used": "0",
+               "guid": "90ec9f93-9ce5-4e0a-9e73-138ec046bdeb",
+               "id": "2355",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Code Smell - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@CodeSmell/videos"
+            }, {
+               "date_added": "13359199755127117",
+               "date_last_used": "0",
+               "guid": "1ec6c093-3ba0-4cd0-87f9-778da7f4a589",
+               "id": "2356",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "More Fuzzy Fun with FZF - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=hUbFkiGaBYc&ab_channel=CodeSmell"
+            }, {
+               "date_added": "13359199758036109",
+               "date_last_used": "0",
+               "guid": "8b31a116-bb78-472a-99db-089cf5e9c833",
+               "id": "2357",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Vim and FZF in 2021 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=SrTYGbhXIjk&ab_channel=CodeSmell"
+            }, {
+               "date_added": "13359284457922227",
+               "date_last_used": "0",
+               "guid": "7f54d541-0545-4695-9a68-e1f42352ed38",
+               "id": "2361",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The perfect Neovim setup for Go - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=i04sSQjd-qo"
+            }, {
+               "date_added": "13359284649707890",
+               "date_last_used": "0",
+               "guid": "61446db5-2b68-4f3c-ba90-c5dc9c25e540",
+               "id": "2362",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How FZF and ripgrep improved my workflow | by Sidney Liebrand | Medium",
+               "type": "url",
+               "url": "https://sidneyliebrand.medium.com/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861"
+            }, {
+               "date_added": "13359287745415439",
+               "date_last_used": "0",
+               "guid": "a03234e3-8596-4792-82b1-cf45ecd0b5f0",
+               "id": "2363",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "E684: list index out of range: 0 · Issue #462 · junegunn/fzf.vim · GitHub",
+               "type": "url",
+               "url": "https://github.com/junegunn/fzf.vim/issues/462"
+            }, {
+               "date_added": "13359287749818794",
+               "date_last_used": "0",
+               "guid": "8785d76e-2491-4e96-b905-93e02ecc0592",
+               "id": "2364",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "neovim - How to create custom find files command using fzf.vim? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/75228392/how-to-create-custom-find-files-command-using-fzf-vim"
+            }, {
+               "date_added": "13359287753440914",
+               "date_last_used": "0",
+               "guid": "b00e5f2d-d522-4a57-ba53-16de0988c5bb",
+               "id": "2365",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How can you get fzf.vim's :Rg command to support passing in rg flags? : r/vim",
+               "type": "url",
+               "url": "https://www.reddit.com/r/vim/comments/cd1df9/how_can_you_get_fzfvims_rg_command_to_support/"
+            } ],
+            "date_added": "13359198473638147",
+            "date_last_used": "0",
+            "date_modified": "13359287753440914",
+            "guid": "f76147a8-0e25-4be7-94bd-b57c3b0b7159",
+            "id": "2346",
+            "name": "tmp",
+            "type": "folder"
          } ],
          "date_added": "13352726830528309",
          "date_last_used": "0",
-         "date_modified": "13358547785451043",
+         "date_modified": "13359198473639482",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
