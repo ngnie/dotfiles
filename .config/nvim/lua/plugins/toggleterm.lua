@@ -1,6 +1,9 @@
 return {
   "akinsho/toggleterm.nvim",
   lazy = false,
+  keys = {
+    {"<c-r>", ":ToggleTerm size=40 direction=float<cr>", mode = "n", desc = "Open toggleterm in float mode" }
+  },
   version = "*",
   config = function()
     require("toggleterm").setup({
@@ -64,9 +67,6 @@ return {
         end
       },
     })
-
-    vim.keymap.set("n", "<c-f>", ":Lf<cr>", { desc = "Open lf filemanager within toggleterm" })
-    vim.keymap.set("n", "<c-r>", ":ToggleTerm size=40 direction=float<cr>", { desc = "Open toggleterm in float mode" })
 
   end,
 }

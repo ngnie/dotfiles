@@ -1,6 +1,8 @@
 return {
   "lmburns/lf.nvim",
-  -- key mapping moved to toggleterm
+  keys = {
+    {"<c-f>", ":Lf<cr>", mode = "n", desc = "Open lf filemanager within toggleterm" }
+  },
   config = function()
     -- This feature will not work if the plugin is lazy-loaded
     vim.g.lf_netrw = 1

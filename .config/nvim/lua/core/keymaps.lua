@@ -12,12 +12,7 @@ vim.keymap.set("n", "<CR>", "o<Esc>k")
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 
--- git files
-vim.keymap.set("n", "<leader>g", ":GFiles<CR>", { silent = true })
-
--- show buffers
-vim.keymap.set("n", "<leader>;", ":Buffers!<CR>")
-
+-- Use "h" for horizontal instead of "s" for "split"
 vim.keymap.set("n", "<C-w>h", "<C-w>s", { silent = true })
 
 -- resize window
