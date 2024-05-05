@@ -67,6 +67,5 @@ return {
         end
       },
     })
-
   end,
 }

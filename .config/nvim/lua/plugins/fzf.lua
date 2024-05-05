@@ -8,6 +8,7 @@ return {
     "junegunn/fzf.vim",
   },
   keys = {
+--rg --max-depth=10 --hidden -e Lf
     {"<leader>g", ":GFiles<cr>", silent = true, desc = "Fuzzy find git files"},
     {"<leader>j", ":Files!<cr>", desc = "Fuzzy find from project root"},
     {"<leader>k", ":Files! ~<cr>", desc = "Fuzzy find from home"},
