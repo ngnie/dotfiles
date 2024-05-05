@@ -3,7 +3,7 @@ return {
   branch = 'v2',
   lazy = true,
   keys = {
-    { "<leader>f", ":HopWord<cr>", desc = "Jump to word", silent = true },
+    { "<leader>f", ":HopWord<cr>", silent = true, desc = "Jump to word" },
   },
   config = function()
     require'hop'.setup {
