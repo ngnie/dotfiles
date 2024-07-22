@@ -1,10 +1,8 @@
 # Dotfiles
-Dotfiles to setup developer workflow on arch linux using dwm, nvim, tmux, zsh, fzf, rg etc. in about 30 minutes.
-
-Some years ago I started my journey with vim and neovim. It has since become an addiction. It is a promise. If starting, not to mention fzf, the infection will start. Or the virus. The mind will be occupied around all the ideas that suddenly start to emerge. Not to mention existing solutions that have to be tweaked, simply because. Why? I can mention a few, but not to get lost (details), everything gets "viminized" and fuzzy. It's about making your own workflows and use your computer. In this case, with linux.
+Files to setup developer workflow on arch linux using dwm, nvim, tmux, zsh, fzf, rg etc. in about 30 minutes.
 
 ## Disclaimer
-If you have a person that you care about - or a dog - then please remember to prioritize them, and also remember to go out, listen to the birds and hug a tree once in a while - or introduce vim to them all.
+If you get viminized in the fuzzy way, it will be like an infection. It will not go away and you will not look back. So, if you have a person(s) that you care about - or a dog - then please remember to prioritize them, and also remember to go out, listen to the birds, hug a tree once in a while - or introduce vim, to all of them.
 
 ## Primary focus
 Java 21, Spring-boot with working debug of application and unit test.
