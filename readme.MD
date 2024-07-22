@@ -1,6 +1,6 @@
 # Dotfiles
 ## Description
-Some dotfiles to setup developer workflow on arch linux using dwm, nvim, tmux, zsh, fzf, rg etc..
+Dotfiles to setup developer workflow on arch linux using dwm, nvim, tmux, zsh, fzf, rg etc..
 
 ## Content
 ## Install
