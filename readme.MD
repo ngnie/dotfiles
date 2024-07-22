@@ -1,7 +1,7 @@
 # Dotfiles
 Dotfiles to setup developer workflow on arch linux using dwm, nvim, tmux, zsh, fzf, rg etc..
 
-Some years ago I started my journey with vim and neovim. It has since become an addiction. I promise, if starting with vim/neovim, not to mention fzf, the infection will start. And the mind will be occupied around all the ideas that suddenly start to emerge. Not to mention all the existing solutions that constantly can be tweaked, simply because of the learning. Why? I can mention a few reasons, but not to get lost in details, everything gets "viminized" and fuzzy. Basically it's about taking control of your workflow and the way you use your computer, in this case, linux.
+Some years ago I started my journey with vim and neovim. It has since become an addiction. I promise, if starting with it, not to mention fzf, the infection will start. And the mind will be occupied around all the ideas that suddenly start to emerge. Not to mention existing solutions that constantly can be tweaked, simply because of the learning. Why? I can mention a few reasons, but not to get lost in details, everything gets "viminized" and fuzzy. Basically it's about taking control of your workflow and the way you use your computer, in this case, linux.
 
 You're most welcome to send an email about errors and/or ideas. Thanks.
 
