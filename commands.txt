@@ -19,3 +19,4 @@ fc-match -a
 fc-list
 sudo netstat -nlp
 scrot -s -l style=solid,width=1,color="red"
+git checkout $(git branch -a | fzf)
