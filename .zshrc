@@ -140,7 +140,15 @@ alias pbselect='xclip -selection primary -o'   # paste from highlight: middle cl
 export DISABLE_FZF_AUTO_COMPLETION="false"
 export DISABLE_FZF_KEY_BINDINGS="false"
 #export FZF_DEFAULT_OPTS="--height=80% --layout=reverse --info=inline --preview 'bat -n --color=always {}'"
-export FZF_DEFAULT_OPTS="--info=inline --preview 'bat -n --color=always {}'"
+export FZF_DEFAULT_OPTS="
+  --info=inline
+  --multi
+  --preview 'bat -n --color=always {}'
+  --prompt='∼ ' --pointer='▶' --marker='✓'
+  --bind 'ctrl-a:select-all'
+  --bind 'ctrl-y:execute-silent(echo {+} | xclip -selection clipboard)'
+  --bind 'ctrl-e:execute(echo {+} | xargs -o $EDITOR)'
+"
 export FZF_DEFAULT_COMMAND='find . -type f ! -path "*git*" ! -path "*cache*"'
 
 export REPOS_HOME=/home/nikolaj/ngr/engineer/repos
