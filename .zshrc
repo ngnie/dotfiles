@@ -153,9 +153,15 @@ export FZF_DEFAULT_COMMAND='find . -type f ! -path "*git*" ! -path "*cache*"'
 
 export REPOS_HOME=/home/nikolaj/ngr/engineer/repos
 export DOTFILES_HOME=$REPOS_HOME/dotfiles
+export NOTES_HOME=$REPOS_HOME/dotfiles
+export TODO_HOME=/home/nikolaj/ngr/todo
 export EDITOR=/usr/bin/nvim
 export LF_HOME=/opt/lf
-export PATH=$PATH:$LF_HOME
+export JAVA_HOME=/home/nikolaj/.sdkman/candidates/java/21.0.2-tem
+export WAVELY_HOME=/home/nikolaj/ngr/work/customer/greenwave
+export WAVELY_REPOS=$WAVELY_HOME/repos/wavely
+export WAVELY_REACT_REPOS=$WAVELY_HOME/repos/wavely-web-react
+export PATH=$PATH:$LF_HOME:$JAVA_HOME
 
 source $DOTFILES_HOME/bin/lfcd.sh
 
@@ -164,9 +170,18 @@ alias lf='lfcd'
 alias pdf='zathura'
 alias lg='lazygit'
 
+
+alias make_package='mvn package -DskipTests'
+alias make_test='mvn test'
+alias make_install='mvn install -DskipTests'
+alias make_dependency_tree='mvn dependency:tree'
+alias make_effective_pom='mvn help:effective-pom -Dverbose=true'
+alias make_dependency_tree_includes='mvn dependency:tree -Dincludes=org.postgresql:postgresql'
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
+# [[ ! -f ~/.sdkmanrc ]] || source ~/.sdkmanrc
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="$HOME/.sdkman"
