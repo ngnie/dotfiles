@@ -22,6 +22,21 @@ cmd fzf_rg ${{
     [ -n "$res" ] && lf -remote "send $id select \"$res\""
 }}
 
+cmd yank_path ${{
+  set -f
+  readlink -f $f | xclip -selection clipboard
+}}
+
+cmd yank_filename ${{
+  set -f
+  basename "$(readlink -f "$f")" | tr -d '\n' | xclip -selection clipboard
+}}
+
 map . set hidden!
 map gj :fzf_find
 map gl :fzf_rg
+
+map y
+map yy copy
+map yp yank_path
+map yfn yank_filename
