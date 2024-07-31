@@ -161,7 +161,8 @@ export JAVA_HOME=/home/nikolaj/.sdkman/candidates/java/21.0.2-tem
 export WAVELY_HOME=/home/nikolaj/ngr/work/customer/greenwave
 export WAVELY_REPOS=$WAVELY_HOME/repos/wavely
 export WAVELY_REACT_REPOS=$WAVELY_HOME/repos/wavely-web-react
-export PATH=$PATH:$LF_HOME:$JAVA_HOME
+export POSTMAN_HOME=/opt/postman 
+export PATH=$PATH:$LF_HOME:$JAVA_HOME:$POSTMAN_HOME
 
 source $DOTFILES_HOME/bin/lfcd.sh
 
