@@ -7,7 +7,7 @@ lsblk
 lspci
 sudo fdisk -l
 sudo mount /dev/sda /mnt -o rw,umask=0
-sudo systemctl --type=service
+sudo systemctl --type=service | fzf --reverse
 sudo pacman -Q
 ~/ngr/engineer/repos/dotfiles/bin/package-dependency.sh
 ~/ngr/engineer/repos/dotfiles/bin/packages-installed.sh
@@ -22,3 +22,4 @@ scrot -s -l style=solid,width=1,color="red"
 git branch -a | fzf
 git checkout $(git branch -a | fzf)
 git log | fzf --reverse
+history | fzf --reverse 
