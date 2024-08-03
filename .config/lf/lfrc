@@ -24,7 +24,7 @@ cmd fzf_rg ${{
 
 cmd yank_path ${{
   set -f
-  readlink -f $f | xclip -selection clipboard
+  readlink -f $f | tr -d '\n' | xclip -selection clipboard
 }}
 
 cmd yank_filename ${{
@@ -39,4 +39,4 @@ map gl :fzf_rg
 map y
 map yy copy
 map yp yank_path
-map yfn yank_filename
+map yn yank_filename
