@@ -35,7 +35,14 @@ end
 vim.cmd('autocmd! TermOpen term://*toggleterm#* lua set_terminal_keymaps()')
 
 vim.cmd([[
-  let g:fzf_action = { "ctrl-h": "split", "ctrl-v": "vsplit" }
+  function! s:copy_results(lines)
+    let joined_lines = join(a:lines, "\n")
+    if len(a:lines) > 1
+      let joined_lines .= "\n"
+    endif
+    let @+ = joined_lines
+  endfunction
+  let g:fzf_action = { "ctrl-h": "split", "ctrl-v": "vsplit", "ctrl-y": function('s:copy_results') }
 ]])
 
 vim.cmd([[
