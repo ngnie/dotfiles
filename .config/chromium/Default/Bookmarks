@@ -1,5 +1,5 @@
 {
-   "checksum": "9a8a8ef24dab05b72826667d5207e09e",
+   "checksum": "5ea3ab82022838b0794aeec152ab2b0d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -66,7 +66,7 @@
                         "url": "https://github.com/Nawy/nvim-config-examples/blob/main/dap-java/init.lua"
                      }, {
                         "date_added": "13358592649821967",
-                        "date_last_used": "13358609156818845",
+                        "date_last_used": "0",
                         "guid": "a7c46150-8be5-410c-99d7-a8a792580e08",
                         "id": "2335",
                         "meta_info": {
@@ -1986,10 +1986,54 @@
                      "name": "GitHub - rothgar/awesome-tmux: A list of awesome resources for tmux",
                      "type": "url",
                      "url": "https://github.com/rothgar/awesome-tmux"
+                  }, {
+                     "date_added": "13365956216347603",
+                     "date_last_used": "0",
+                     "guid": "05b6b40c-69ad-40c2-8515-3d76da710d6d",
+                     "id": "3093",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "A beginner's guide to tmux | Enable Sysadmin",
+                     "type": "url",
+                     "url": "https://www.redhat.com/sysadmin/introduction-tmux-linux"
+                  }, {
+                     "date_added": "13365959540633604",
+                     "date_last_used": "0",
+                     "guid": "e35bed3c-3c3b-418b-9460-240695ceec42",
+                     "id": "3094",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "tmux fzf jumper - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=DkJ9rb85LC0&ab_channel=WaylonWalker"
+                  }, {
+                     "date_added": "13365959561870403",
+                     "date_last_used": "0",
+                     "guid": "583fc911-2d3f-428b-9850-f446922cbaa9",
+                     "id": "3095",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Jump to running tmux sessions with fzf - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/waylonwalker/jump-to-running-tmux-sessions-with-fzf-4p77"
+                  }, {
+                     "date_added": "13365963067790083",
+                     "date_last_used": "0",
+                     "guid": "2ac7c7f2-25fc-4810-9da7-a82aca10e65f",
+                     "id": "3096",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Tmux Cheat Sheet & Quick Reference | Session, window, pane and more",
+                     "type": "url",
+                     "url": "https://tmuxcheatsheet.com/"
                   } ],
                   "date_added": "13356353949411927",
                   "date_last_used": "0",
-                  "date_modified": "13357564809888413",
+                  "date_modified": "13366031392368621",
                   "guid": "63f89f0a-5436-47d2-9cf2-3bd8d0d730d6",
                   "id": "520",
                   "name": "tmux",
@@ -2495,10 +2539,21 @@
                      "name": "Using fzf-lua - aliquote.org",
                      "type": "url",
                      "url": "https://aliquote.org/post/nvim-fzf-lua/"
+                  }, {
+                     "date_added": "13367258709422415",
+                     "date_last_used": "0",
+                     "guid": "2bb26a9d-ee69-41e0-9c35-be76a064071a",
+                     "id": "3281",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Yanking from fzf results · Issue #580 · junegunn/fzf.vim",
+                     "type": "url",
+                     "url": "https://github.com/junegunn/fzf.vim/issues/580"
                   } ],
                   "date_added": "13356353949414011",
                   "date_last_used": "0",
-                  "date_modified": "13357244569311541",
+                  "date_modified": "13367268688659277",
                   "guid": "7936b847-a752-4cb5-b1c7-e89a9f87aadf",
                   "id": "566",
                   "name": "fzf",
@@ -3446,17 +3501,6 @@
                      "name": "xclip - Copy and Paste Text to Clipboard - Linux CLI - YouTube",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=fKP0FLp3uW0&ab_channel=gotbletu"
-                  }, {
-                     "date_added": "13357011493177979",
-                     "date_last_used": "0",
-                     "guid": "21ccc22c-dbd8-4a24-ac12-3d8f7cdfd09a",
-                     "id": "2269",
-                     "meta_info": {
-                        "power_bookmark_meta": ""
-                     },
-                     "name": "linux - How can I copy the output of a command directly into my clipboard? - Stack Overflow",
-                     "type": "url",
-                     "url": "https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard"
                   } ],
                   "date_added": "13357011483678055",
                   "date_last_used": "0",
@@ -3829,7 +3873,7 @@
                "children": [ {
                   "children": [ {
                      "date_added": "13359376318864612",
-                     "date_last_used": "13359386421758704",
+                     "date_last_used": "0",
                      "guid": "7720035d-bffd-4878-bb91-a68f5595e300",
                      "id": "3060",
                      "meta_info": {
@@ -3840,7 +3884,7 @@
                      "url": "https://www.youtube.com/watch?v=3VYKpHP_UrA&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376325098159",
-                     "date_last_used": "13359386421719266",
+                     "date_last_used": "0",
                      "guid": "94f3c1ad-6f31-4b01-93b8-2f56c47fc060",
                      "id": "3061",
                      "meta_info": {
@@ -3851,7 +3895,7 @@
                      "url": "https://www.youtube.com/watch?v=49AqUbcSBAM&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376327697301",
-                     "date_last_used": "13359386421762613",
+                     "date_last_used": "0",
                      "guid": "8132fc71-c2b4-4bc8-903d-4cca0cd62729",
                      "id": "3062",
                      "meta_info": {
@@ -3862,7 +3906,7 @@
                      "url": "https://www.youtube.com/watch?v=zFBO-Eq_jQE&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376330499566",
-                     "date_last_used": "13359386421821493",
+                     "date_last_used": "0",
                      "guid": "0b5b8338-86b0-41a1-bd29-2f9f8beec559",
                      "id": "3063",
                      "meta_info": {
@@ -3873,7 +3917,7 @@
                      "url": "https://www.youtube.com/watch?v=cjU1oOvImYs&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376333161528",
-                     "date_last_used": "13359386421811649",
+                     "date_last_used": "0",
                      "guid": "3658e8b8-38c0-4ea5-a369-0ba0737508bd",
                      "id": "3064",
                      "meta_info": {
@@ -3884,7 +3928,7 @@
                      "url": "https://www.youtube.com/watch?v=CnAAjrHoriw&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376335730056",
-                     "date_last_used": "13359386421797246",
+                     "date_last_used": "0",
                      "guid": "eed1b7cd-d236-4c13-a68d-1e57b1b34f81",
                      "id": "3065",
                      "meta_info": {
@@ -3895,7 +3939,7 @@
                      "url": "https://www.youtube.com/watch?v=VPVirZTfcz0&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376338140964",
-                     "date_last_used": "13359386421831972",
+                     "date_last_used": "0",
                      "guid": "eb65a2f4-a8ee-454b-b639-ea88899bf9f8",
                      "id": "3066",
                      "meta_info": {
@@ -3906,7 +3950,7 @@
                      "url": "https://www.youtube.com/watch?v=8U0ksSGEHtc&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376340837074",
-                     "date_last_used": "13359386421790595",
+                     "date_last_used": "0",
                      "guid": "70606c06-6b22-4914-a466-b7724f8b26e3",
                      "id": "3067",
                      "meta_info": {
@@ -3917,7 +3961,7 @@
                      "url": "https://www.youtube.com/watch?v=4VcSIy9JIUE&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376343793047",
-                     "date_last_used": "13359386421827123",
+                     "date_last_used": "0",
                      "guid": "102f47e7-4d20-449d-a9ae-12280e157e2b",
                      "id": "3068",
                      "meta_info": {
@@ -3928,7 +3972,7 @@
                      "url": "https://www.youtube.com/watch?v=pTnEG_WGd2Q&ab_channel=TheMathSorcerer"
                   }, {
                      "date_added": "13359376347983544",
-                     "date_last_used": "13359386421891888",
+                     "date_last_used": "0",
                      "guid": "bdb5b837-5f99-4230-9e82-c5debb8cb715",
                      "id": "3069",
                      "meta_info": {
@@ -4073,6 +4117,69 @@
                   "url": "https://wiki.archlinux.org/index.php/Chroot"
                }, {
                   "children": [ {
+                     "date_added": "13366649792534201",
+                     "date_last_used": "0",
+                     "guid": "6ada142e-1db2-47e2-ac68-df292bf15170",
+                     "id": "3144",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "zsh - How to write into the actual editing buffer - Unix & Linux Stack Exchange",
+                     "type": "url",
+                     "url": "https://unix.stackexchange.com/questions/569133/how-to-write-into-the-actual-editing-buffer"
+                  } ],
+                  "date_added": "13356353949420206",
+                  "date_last_used": "0",
+                  "date_modified": "13366651570914166",
+                  "guid": "a6faef1b-d06e-4da9-a735-9e30ab934cb2",
+                  "id": "704",
+                  "name": "zsh",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13265235989000000",
+                     "date_last_used": "0",
+                     "guid": "dcdbc774-4655-4cdd-aa46-b5b6c917612f",
+                     "id": "711",
+                     "name": "How to use FZF, curl & jq together - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=KswdZlpzm4c"
+                  }, {
+                     "date_added": "13265236004000000",
+                     "date_last_used": "0",
+                     "guid": "c1e1ac2b-a6a8-44b1-a4d6-7ec19300a47b",
+                     "id": "712",
+                     "name": "How to install and use fzf: the command-line fuzzy finder - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=1a5NiMhqAR0"
+                  }, {
+                     "date_added": "13247750475000000",
+                     "date_last_used": "0",
+                     "guid": "03216e55-66ff-41d9-9ff2-3ace23310db8",
+                     "id": "713",
+                     "name": "GitHub - junegunn/fzf: A command-line fuzzy finder",
+                     "type": "url",
+                     "url": "https://github.com/junegunn/fzf"
+                  }, {
+                     "date_added": "13271985302000000",
+                     "date_last_used": "0",
+                     "guid": "18ebb6b1-1ffe-4bbd-8a0a-6896110c6cac",
+                     "id": "714",
+                     "name": "Boost Your Command-Line Productivity With Fuzzy Finder | by Vinicius De Antoni | Better Programming",
+                     "type": "url",
+                     "url": "https://betterprogramming.pub/boost-your-command-line-productivity-with-fuzzy-finder-985aa162ba5d"
+                  }, {
+                     "date_added": "13366649733988591",
+                     "date_last_used": "0",
+                     "guid": "ac61503b-d093-4824-b1a3-c6ece7f3681d",
+                     "id": "3143",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Its Possible Copy To Clipboard ? · Issue #2323 · junegunn/fzf",
+                     "type": "url",
+                     "url": "https://github.com/junegunn/fzf/issues/2323"
+                  }, {
                      "date_added": "13257391016000000",
                      "date_last_used": "0",
                      "guid": "c82eac11-7d8d-4af0-b7fa-94bd9c562247",
@@ -4112,51 +4219,76 @@
                      "name": "Why you should be using fzf, the command line fuzzy finder",
                      "type": "url",
                      "url": "https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/"
-                  } ],
-                  "date_added": "13356353949420206",
-                  "date_last_used": "0",
-                  "date_modified": "0",
-                  "guid": "a6faef1b-d06e-4da9-a735-9e30ab934cb2",
-                  "id": "704",
-                  "name": "shell",
-                  "type": "folder"
-               }, {
-                  "children": [ {
-                     "date_added": "13265235989000000",
-                     "date_last_used": "0",
-                     "guid": "dcdbc774-4655-4cdd-aa46-b5b6c917612f",
-                     "id": "711",
-                     "name": "How to use FZF, curl & jq together - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=KswdZlpzm4c"
                   }, {
-                     "date_added": "13265236004000000",
+                     "date_added": "13366655035546678",
                      "date_last_used": "0",
-                     "guid": "c1e1ac2b-a6a8-44b1-a4d6-7ec19300a47b",
-                     "id": "712",
-                     "name": "How to install and use fzf: the command-line fuzzy finder - YouTube",
+                     "guid": "e1b50947-95de-4d24-9c0b-23ae2cca090d",
+                     "id": "3148",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "A Practical Guide to fzf: Building a Git Explorer",
                      "type": "url",
-                     "url": "https://www.youtube.com/watch?v=1a5NiMhqAR0"
+                     "url": "https://thevaluable.dev/fzf-git-integration/"
                   }, {
-                     "date_added": "13247750475000000",
+                     "date_added": "13366655135436465",
                      "date_last_used": "0",
-                     "guid": "03216e55-66ff-41d9-9ff2-3ace23310db8",
-                     "id": "713",
-                     "name": "GitHub - junegunn/fzf: A command-line fuzzy finder",
+                     "guid": "11b9e039-bdb4-4b57-89e1-d293ab7c8204",
+                     "id": "3150",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "The Valuable Dev",
                      "type": "url",
-                     "url": "https://github.com/junegunn/fzf"
+                     "url": "https://thevaluable.dev/"
                   }, {
-                     "date_added": "13271985302000000",
+                     "date_added": "13359198432229184",
                      "date_last_used": "0",
-                     "guid": "18ebb6b1-1ffe-4bbd-8a0a-6896110c6cac",
-                     "id": "714",
-                     "name": "Boost Your Command-Line Productivity With Fuzzy Finder | by Vinicius De Antoni | Better Programming",
+                     "guid": "fd6a3acd-7937-4c5a-ba0c-9110f214bb74",
+                     "id": "2345",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "FZF + JQ = Interactive JQ (+ a vim bonus) - DEV Community",
                      "type": "url",
-                     "url": "https://betterprogramming.pub/boost-your-command-line-productivity-with-fuzzy-finder-985aa162ba5d"
+                     "url": "https://dev.to/pbnj/fzf-jq-interactive-jq-15no"
+                  }, {
+                     "date_added": "13366655899152737",
+                     "date_last_used": "0",
+                     "guid": "af48ff36-d454-4a9a-b5d3-58310356fdfd",
+                     "id": "3151",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Using fzf to choose from a list of choices - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/moniquelive/using-fzf-to-choose-from-a-list-of-choices-5d4i"
+                  }, {
+                     "date_added": "13366677038297622",
+                     "date_last_used": "0",
+                     "guid": "cdb6485c-e001-408b-85a2-8f90f4a7cdb8",
+                     "id": "3153",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "How do I bind ctrl+Y to copy the current selected path? · Issue #2033 · junegunn/fzf",
+                     "type": "url",
+                     "url": "https://github.com/junegunn/fzf/issues/2033"
+                  }, {
+                     "date_added": "13367268672888503",
+                     "date_last_used": "0",
+                     "guid": "bd9e1cb2-abca-4051-84cd-27ef233aba57",
+                     "id": "3294",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "fzf/README-VIM.md at master · junegunn/fzf",
+                     "type": "url",
+                     "url": "https://github.com/junegunn/fzf/blob/master/README-VIM.md#fzfrun"
                   } ],
                   "date_added": "13356353949420495",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13367268696323326",
                   "guid": "32d56bb0-b377-4320-a2c9-5df0811c7679",
                   "id": "710",
                   "name": "fzf",
@@ -4210,10 +4342,32 @@
                      "name": "Shift+Insert not working when copying from neovim · Issue #3619 · alacritty/alacritty · GitHub",
                      "type": "url",
                      "url": "https://github.com/alacritty/alacritty/issues/3619"
+                  }, {
+                     "date_added": "13366649716053319",
+                     "date_last_used": "0",
+                     "guid": "5b0a6450-50a4-48ed-ae4c-e48c3888af6e",
+                     "id": "3142",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Introduction to xsel and X system manager | by Siva | Medium",
+                     "type": "url",
+                     "url": "https://byteshiva.medium.com/introduction-to-xsel-and-x-system-manager-1bd23189d947"
+                  }, {
+                     "date_added": "13357011493177979",
+                     "date_last_used": "0",
+                     "guid": "21ccc22c-dbd8-4a24-ac12-3d8f7cdfd09a",
+                     "id": "2269",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "linux - How can I copy the output of a command directly into my clipboard? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard"
                   } ],
                   "date_added": "13356698421155958",
                   "date_last_used": "0",
-                  "date_modified": "13356700053218389",
+                  "date_modified": "13366651541299797",
                   "guid": "8eb42e7c-f2b8-4d60-893d-5ff84d92faa9",
                   "id": "2205",
                   "name": "copyPaste",
@@ -4324,10 +4478,132 @@
                   "id": "2309",
                   "name": "howto",
                   "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366651537342639",
+                     "date_last_used": "0",
+                     "guid": "a5be37de-7461-4ffa-9acd-7d2d5bc6ec08",
+                     "id": "3145",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Bash Special Parameters Explained with 4 Example Shell Scripts",
+                     "type": "url",
+                     "url": "https://www.thegeekstuff.com/2010/05/bash-shell-special-parameters/"
+                  }, {
+                     "date_added": "13366651541299797",
+                     "date_last_used": "0",
+                     "guid": "819c20ae-2cce-41c0-aca1-8af1725d065f",
+                     "id": "3146",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Bash Reference Manual",
+                     "type": "url",
+                     "url": "https://tiswww.case.edu/php/chet/bash/bashref.html#Special-Parameters"
+                  } ],
+                  "date_added": "13366651584953814",
+                  "date_last_used": "0",
+                  "date_modified": "13366655035546678",
+                  "guid": "edcb9a96-5274-4fbc-815a-b3b86a892aec",
+                  "id": "3147",
+                  "name": "bash",
+                  "type": "folder"
+               }, {
+                  "children": [  ],
+                  "date_added": "13366655063608295",
+                  "date_last_used": "0",
+                  "date_modified": "13366655063608770",
+                  "guid": "9f21a4b0-1522-44a7-888e-fe2d91e8ea78",
+                  "id": "3149",
+                  "name": "git",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366741747101126",
+                     "date_last_used": "0",
+                     "guid": "4a644b1d-3aa3-40b5-90d0-d5c779d48fff",
+                     "id": "3240",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "How I navigate tmux in 2021 - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/waylonwalker/how-i-navigate-tmux-in-2021-2ina"
+                  }, {
+                     "date_added": "13366749039083051",
+                     "date_last_used": "0",
+                     "guid": "c134f0c6-e1fd-4177-b362-991eff4ceac6",
+                     "id": "3244",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Scripting A Tmux Work-space Start-up | λ ryan. himmelwright. net",
+                     "type": "url",
+                     "url": "https://ryan.himmelwright.net/post/scripting-tmux-workspaces/"
+                  } ],
+                  "date_added": "13366741774578271",
+                  "date_last_used": "0",
+                  "date_modified": "13366798551853730",
+                  "guid": "b30103af-6c5f-4fca-9e55-4a49aa1c1ba8",
+                  "id": "3241",
+                  "name": "tmux",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13367233537571047",
+                     "date_last_used": "0",
+                     "guid": "fbfa7af6-aef4-449b-8daf-5f5eef0d10ec",
+                     "id": "3276",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Exploring jq: A Guide to Essential Techniques and Tools for Professionals | by Rafał Buczyński | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/@buczynski.rafal/exploring-jq-a-guide-to-essential-techniques-and-tools-for-professionals-b9df9db490de"
+                  }, {
+                     "date_added": "13367241658268507",
+                     "date_last_used": "0",
+                     "guid": "4b549dfd-4939-4e68-8e76-d6d48e71a302",
+                     "id": "3278",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "How to Use JQ to Process JSON on the Command Line | Linode Docs",
+                     "type": "url",
+                     "url": "https://www.linode.com/docs/guides/using-jq-to-process-json-on-the-command-line/"
+                  } ],
+                  "date_added": "13367233552664284",
+                  "date_last_used": "0",
+                  "date_modified": "13367253281221664",
+                  "guid": "44f5369f-b5b2-4fd8-b904-b1141286a053",
+                  "id": "3277",
+                  "name": "jq",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13367253281221664",
+                     "date_last_used": "0",
+                     "guid": "008c6c6f-9105-4de8-afda-333f34604f79",
+                     "id": "3279",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Fuzzy completion not using FZF_DEFAULT_COMMAND? · Issue #1398 · junegunn/fzf",
+                     "type": "url",
+                     "url": "https://github.com/junegunn/fzf/issues/1398"
+                  } ],
+                  "date_added": "13367253291998355",
+                  "date_last_used": "0",
+                  "date_modified": "13367258709422415",
+                  "guid": "fddf984a-c86e-4bb8-be48-599b779e2d26",
+                  "id": "3280",
+                  "name": "fd",
+                  "type": "folder"
                } ],
                "date_added": "13356353949419808",
                "date_last_used": "0",
-               "date_modified": "13357900936109754",
+               "date_modified": "13366651584954239",
                "guid": "c62ec326-323a-43bd-9e6f-d89bcdd002f7",
                "id": "695",
                "name": "linux",
@@ -5727,6 +6003,26 @@
                   "id": "2223",
                   "name": "akka",
                   "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366798551853730",
+                     "date_last_used": "0",
+                     "guid": "53655692-95cd-4860-9fae-a58a81acb58a",
+                     "id": "3246",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Manage Java versions with SDKMan | Opensource.com",
+                     "type": "url",
+                     "url": "https://opensource.com/article/22/3/manage-java-versions-sdkman"
+                  } ],
+                  "date_added": "13366798571804931",
+                  "date_last_used": "0",
+                  "date_modified": "13366824998779935",
+                  "guid": "73e553af-8b8b-412a-a711-890213ce16a3",
+                  "id": "3247",
+                  "name": "sdkman",
+                  "type": "folder"
                } ],
                "date_added": "13356353949426865",
                "date_last_used": "0",
@@ -6334,7 +6630,7 @@
                "children": [ {
                   "children": [ {
                      "date_added": "13286800372000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13366319014878893",
                      "guid": "748f7499-4aad-4da3-a641-4ea16681b6eb",
                      "id": "987",
                      "name": "Tinker Board 2S",
@@ -6367,7 +6663,7 @@
                      "url": "https://www.amazon.co.uk/SunFounder-Raspberry-Ultimate-Detailed-Tutorials/dp/B09D774YWQ?crid=1KXBMHDEK3FJD&keywords=SunFounder+Raspberry+Pi+Ultimate+Starter+Kit&qid=1647241932&sprefix=sunfounder+raspberry+pi+ultimate+starter+kit,aps,547&sr=8-3&linkCode=sl1&tag=sonofthesouth-21&linkId=78ef3921a3aac1ac71bb667df9f0fee2&language=en_GB&ref_=as_li_ss_tl"
                   }, {
                      "date_added": "13336487245000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13366582680793032",
                      "guid": "79748ba8-66f0-4f72-8a4e-867dd5982860",
                      "id": "1009",
                      "name": "SunFounder Raspberry Pi Ultimate Starter Kit for Raspberry Pi 4B 3B+ 400, Python C Java Scratch, Online Detailed Tutorials, 133 Projects, 337 Items (Camera Module, Speaker, I2C LCD, etc): Amazon.co.uk: Computers & Accessories",
@@ -6483,7 +6779,7 @@
                }, {
                   "children": [ {
                      "date_added": "13336576501000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13366582269606867",
                      "guid": "d9ef2cc3-ab3b-40ca-9fa6-865a9064dcd5",
                      "id": "1013",
                      "name": "Radxa ROCK 5B",
@@ -6499,16 +6795,27 @@
                      "url": "https://wiki.radxa.com/Rock5"
                   }, {
                      "date_added": "13338206168000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13366412015795277",
                      "guid": "8b6c898c-fc29-462e-bc6d-33a99005e4c2",
                      "id": "1015",
                      "name": "ITX-3588J 8K AI Mini-ITX Mainboard_Embedded Board_ALL_Firefly Store",
                      "type": "url",
                      "url": "https://www.firefly.store/goods.php?id=161"
+                  }, {
+                     "date_added": "13366582283571455",
+                     "date_last_used": "0",
+                     "guid": "15e11be3-bd32-4087-82a8-13f3f9fca7c2",
+                     "id": "3119",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Radxa ROCK 5B+",
+                     "type": "url",
+                     "url": "https://radxa.com/products/rock5/5bp"
                   } ],
                   "date_added": "13356353949434062",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13366582290254193",
                   "guid": "20f7f793-a47c-4c22-967e-fdaa22b99a5f",
                   "id": "1010",
                   "name": "radxa",
@@ -6516,7 +6823,7 @@
                }, {
                   "children": [ {
                      "date_added": "13336576960000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13366319945326533",
                      "guid": "d980f07c-1455-4960-9d50-e1472ef7e03b",
                      "id": "1017",
                      "name": "Get Started With Jetson Nano Developer Kit | NVIDIA Developer",
@@ -6525,7 +6832,7 @@
                   }, {
                      "children": [ {
                         "date_added": "13336426917000000",
-                        "date_last_used": "0",
+                        "date_last_used": "13366571942976181",
                         "guid": "f9cfbbf3-eb83-44ed-a9e8-c7ca36a8a6b6",
                         "id": "1019",
                         "name": "NVIDIA Jetson AGX Orin Full Review - 2048 GPU Cores - YouTube",
@@ -6533,16 +6840,49 @@
                         "url": "https://www.youtube.com/watch?v=2jwzZ4QKYkM&ab_channel=GaryExplains"
                      }, {
                         "date_added": "13336426924000000",
-                        "date_last_used": "0",
+                        "date_last_used": "13366571942930266",
                         "guid": "0ac53f1c-2000-4c58-8d02-01195cc4f280",
                         "id": "1020",
                         "name": "NVIDIA Jetson AGX Orin Unbox, Setup, Demo - Just Wow - YouTube",
                         "type": "url",
                         "url": "https://www.youtube.com/watch?v=LUxyNyCl4ro&ab_channel=JetsonHacks"
+                     }, {
+                        "date_added": "13366412256713014",
+                        "date_last_used": "13366571942919151",
+                        "guid": "9b3b5845-61ed-43c8-87ba-1d7a6569202c",
+                        "id": "3100",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "NVIDIA Jetson AGX Orin Dev Kit - Unboxing, Overview, and Quick Teardown - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=GLIjOPYSVHw&ab_channel=GaryExplains"
+                     }, {
+                        "date_added": "13366561802986386",
+                        "date_last_used": "13366571943006351",
+                        "guid": "0ae5f745-fa18-4736-bbba-2a3a37f1d7e7",
+                        "id": "3102",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "NVIDIA's Low Power AI Dev Platform on Arm - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=goGsEl7trUA"
+                     }, {
+                        "date_added": "13366563106662963",
+                        "date_last_used": "13366571942948010",
+                        "guid": "990abbf9-9710-42f4-99f8-d28639941ca2",
+                        "id": "3106",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "NVIDIA Jetson Solutions| Jetson AGX Orin | JCO-6000-ORN Series - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Yr-fshLqSW8"
                      } ],
                      "date_added": "13356353949434445",
                      "date_last_used": "0",
-                     "date_modified": "0",
+                     "date_modified": "13366563106662963",
                      "guid": "a651ca77-6a23-4a33-86a4-a09f3505fb39",
                      "id": "1018",
                      "name": "JetsonAgxOrin",
@@ -6572,10 +6912,169 @@
                      "id": "1021",
                      "name": "carrierBoard",
                      "type": "folder"
+                  }, {
+                     "children": [ {
+                        "children": [ {
+                           "date_added": "13366571637838461",
+                           "date_last_used": "13366573156567964",
+                           "guid": "09cba77f-3fd0-48c1-aa74-e846665b8279",
+                           "id": "3110",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Jetson AGX Orin 64GB Module | 900-13701-0050-000",
+                           "type": "url",
+                           "url": "https://www.arrow.com/en/products/900-13701-0050-000/nvidia"
+                        }, {
+                           "date_added": "13366571719216475",
+                           "date_last_used": "13366573157107806",
+                           "guid": "3ff95c8e-182d-4dcd-aa5c-6f3038676e37",
+                           "id": "3112",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "NVIDIA Jetson AGX Orin 64GB- 900-13701-0050-000",
+                           "type": "url",
+                           "url": "https://www.siliconhighwaydirect.com/product-p/900-13701-0050-000.htm"
+                        } ],
+                        "date_added": "13366571613261174",
+                        "date_last_used": "0",
+                        "date_modified": "13366571760604858",
+                        "guid": "4cdbc38c-6a32-4f62-a799-0618b37803fd",
+                        "id": "3108",
+                        "name": "board",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13366571649881646",
+                           "date_last_used": "13366733249452186",
+                           "guid": "ef661fea-0852-43bf-bc73-edb33f372d4d",
+                           "id": "3111",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "NVIDIA Jetson AGX Orin development kit (64GB) - 945-13730-0055-000",
+                           "type": "url",
+                           "url": "https://www.siliconhighwaydirect.com/product-p/945-13730-0055-000.htm"
+                        }, {
+                           "date_added": "13366571760604858",
+                           "date_last_used": "13366733243568913",
+                           "guid": "39d963eb-afa7-4c93-a6bb-0916507845e7",
+                           "id": "3113",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Jetson AGX Orin 64GB Developer Kit | 945-13730-0055-000",
+                           "type": "url",
+                           "url": "https://www.arrow.com/en/products/945-13730-0055-000/nvidia"
+                        }, {
+                           "date_added": "13366563081224759",
+                           "date_last_used": "13366733193579634",
+                           "guid": "7f9fda05-ea85-454b-b8c5-00bb2f62ff18",
+                           "id": "3104",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "945-13730-0055-000 | NVIDIA Udviklingssæt Jetson AGX Orin 64GB | RS",
+                           "type": "url",
+                           "url": "https://dk.rs-online.com/web/p/processor-udvikling/2539662"
+                        }, {
+                           "date_added": "13366563077985699",
+                           "date_last_used": "13366571923872101",
+                           "guid": "23071f61-042e-4993-b491-010d3ab5c10a",
+                           "id": "3103",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Nvidia Jetson AGX Orin Developer Kit | Blue Line",
+                           "type": "url",
+                           "url": "https://blue-line.dk/produkter/gpu-solution/nvidia-jetson-agx-orin-developer-kit"
+                        }, {
+                           "date_added": "13366563100588518",
+                           "date_last_used": "13366571926565081",
+                           "guid": "153377ce-09f4-4a0d-bbe8-83c43eaf28b5",
+                           "id": "3105",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Jetson Orin Series-Product-C&T Solution Inc. | 智愛科技股份有限公司",
+                           "type": "url",
+                           "url": "https://www.candtsolution.com/product/Embedded-Computer/JetsonOrin/JCO-6000-ORN/"
+                        }, {
+                           "date_added": "13366574704608193",
+                           "date_last_used": "13366733249477135",
+                           "guid": "d0dbeb49-7566-465a-b5ae-061ab2b5a629",
+                           "id": "3114",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "NVIDIA Jetson AGX Orin Passive Heat Sink (XHG320)",
+                           "type": "url",
+                           "url": "https://www.siliconhighwaydirect.com/product-p/xhg320.htm"
+                        }, {
+                           "date_added": "13366574710624127",
+                           "date_last_used": "13366733249443379",
+                           "guid": "3397e860-a7c0-4c3e-b0e7-8317ea87c41e",
+                           "id": "3115",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Forge 10G PHY Finned Heatsink for the NVIDIA Jetson AGX Orin modules (XHG321)",
+                           "type": "url",
+                           "url": "https://www.siliconhighwaydirect.com/product-p/xhg321.htm"
+                        }, {
+                           "date_added": "13366576462329862",
+                           "date_last_used": "0",
+                           "guid": "8af34314-477b-4bea-b73a-c9abbd8900af",
+                           "id": "3116",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "NVIDIA Jetson Development - JetsonHacks",
+                           "type": "url",
+                           "url": "https://jetsonhacks.com/"
+                        }, {
+                           "date_added": "13366576465931740",
+                           "date_last_used": "0",
+                           "guid": "8599ba58-a0cb-4b61-885d-5f169f0008f9",
+                           "id": "3117",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Search results for 'arch linux' - NVIDIA Developer Forums",
+                           "type": "url",
+                           "url": "https://forums.developer.nvidia.com/search?q=arch+linux"
+                        }, {
+                           "date_added": "13366576468555512",
+                           "date_last_used": "0",
+                           "guid": "dc872ede-16ec-49d5-8f7d-e3b24add92e5",
+                           "id": "3118",
+                           "meta_info": {
+                              "power_bookmark_meta": ""
+                           },
+                           "name": "Arch Linux ARM",
+                           "type": "url",
+                           "url": "https://archlinuxarm.org/"
+                        } ],
+                        "date_added": "13366571627487990",
+                        "date_last_used": "0",
+                        "date_modified": "13366582283571455",
+                        "guid": "77c924ed-539c-479a-9c37-6daf43814bb9",
+                        "id": "3109",
+                        "name": "devkit",
+                        "type": "folder"
+                     } ],
+                     "date_added": "13366571581884900",
+                     "date_last_used": "0",
+                     "date_modified": "13366571637838461",
+                     "guid": "c71bdc7a-4a24-430a-9c85-e9987408e8ff",
+                     "id": "3107",
+                     "name": "buying",
+                     "type": "folder"
                   } ],
                   "date_added": "13356353949434358",
                   "date_last_used": "0",
-                  "date_modified": "0",
+                  "date_modified": "13366571581885221",
                   "guid": "726848a1-7935-442d-825d-cd8e3e99308a",
                   "id": "1016",
                   "name": "nvidia",
@@ -6583,7 +7082,7 @@
                }, {
                   "children": [ {
                      "date_added": "13336573953000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13366583378340514",
                      "guid": "9859277d-ebb5-45a6-b431-6685343386f8",
                      "id": "1025",
                      "name": "Rock Pi 5 First Look, An All-New ARM-Based SBC With 16GB Ram & The Speed You Need - YouTube",
@@ -6608,7 +7107,7 @@
                }, {
                   "children": [ {
                      "date_added": "13356994129793891",
-                     "date_last_used": "0",
+                     "date_last_used": "13366317311793171",
                      "guid": "4d331cd1-b52b-4479-9900-a91abdf47941",
                      "id": "2226",
                      "meta_info": {
@@ -6672,7 +7171,7 @@
                }, {
                   "children": [ {
                      "date_added": "13356994241806114",
-                     "date_last_used": "0",
+                     "date_last_used": "13366317775327588",
                      "guid": "f0be6e06-ad74-43e1-b5f5-0967f9a511c3",
                      "id": "2228",
                      "meta_info": {
@@ -6683,7 +7182,7 @@
                      "url": "https://www.khadas.com/product-page/edge2"
                   }, {
                      "date_added": "13356995969720854",
-                     "date_last_used": "0",
+                     "date_last_used": "13366583490210064",
                      "guid": "55aab52c-bbb9-4f24-bde2-ff95eb53cd64",
                      "id": "2238",
                      "meta_info": {
@@ -6714,7 +7213,7 @@
                }, {
                   "children": [ {
                      "date_added": "13356994549186409",
-                     "date_last_used": "0",
+                     "date_last_used": "13366317789095277",
                      "guid": "5dd18fbf-5f0a-4a8e-b0d1-889bd8cf72c5",
                      "id": "2231",
                      "meta_info": {
@@ -6725,7 +7224,7 @@
                      "url": "https://www.firefly.store/"
                   }, {
                      "date_added": "13356994614036613",
-                     "date_last_used": "0",
+                     "date_last_used": "13366583968452504",
                      "guid": "c77f8909-e9e5-4d4b-a6f6-f774c93c0932",
                      "id": "2233",
                      "meta_info": {
@@ -6734,18 +7233,26 @@
                      "name": "The Fastest ARM-Based SBC We Ever Tested🔥 Firefly RK3588S First Look! - YouTube",
                      "type": "url",
                      "url": "https://www.youtube.com/watch?v=WlECRxfqWrs&ab_channel=ETAPRIME"
+                  }, {
+                     "date_added": "13336574175000000",
+                     "date_last_used": "13366417875720691",
+                     "guid": "b956eab1-c4cc-461f-be7f-d56f6a2b3332",
+                     "id": "1011",
+                     "name": "The Most Powerful ARM SBC Is Here And It's Crazy Fast! RK3588 SOC Hands-On - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=XrEmmXMXzXU&ab_channel=ETAPRIME"
                   } ],
                   "date_added": "13356994557705618",
                   "date_last_used": "0",
-                  "date_modified": "13356994797628088",
+                  "date_modified": "13366561802986386",
                   "guid": "1d3e9ae4-2e53-412c-8be3-79176051df91",
                   "id": "2232",
-                  "name": "FireFlyRK3588SPCarmBoard",
+                  "name": "Firefly",
                   "type": "folder"
                }, {
                   "children": [ {
                      "date_added": "13356994797628088",
-                     "date_last_used": "0",
+                     "date_last_used": "13366414929639957",
                      "guid": "cae899f5-15d9-4151-93e0-88b1c0190df1",
                      "id": "2234",
                      "meta_info": {
@@ -6765,7 +7272,7 @@
                }, {
                   "children": [ {
                      "date_added": "13356994954352423",
-                     "date_last_used": "0",
+                     "date_last_used": "13366414960270648",
                      "guid": "16aa3158-368c-4f59-96c6-7a4aadbf7671",
                      "id": "2236",
                      "meta_info": {
@@ -6816,7 +7323,7 @@
                }, {
                   "children": [ {
                      "date_added": "13356996442155453",
-                     "date_last_used": "0",
+                     "date_last_used": "13366585293458712",
                      "guid": "c4bf3459-e329-404b-a255-c5bddc097078",
                      "id": "2241",
                      "meta_info": {
@@ -6856,7 +7363,7 @@
                }, {
                   "children": [ {
                      "date_added": "13356998346788098",
-                     "date_last_used": "0",
+                     "date_last_used": "13366417770863795",
                      "guid": "bd450052-c5b0-41bc-803b-9c97e53fc17a",
                      "id": "2252",
                      "meta_info": {
@@ -6871,24 +7378,7 @@
                   "date_modified": "13356998371741194",
                   "guid": "669a74a7-5048-4480-ac37-8b5b6f58eefa",
                   "id": "2253",
-                  "name": "jetson",
-                  "type": "folder"
-               }, {
-                  "children": [ {
-                     "date_added": "13336574175000000",
-                     "date_last_used": "0",
-                     "guid": "b956eab1-c4cc-461f-be7f-d56f6a2b3332",
-                     "id": "1011",
-                     "name": "The Most Powerful ARM SBC Is Here And It's Crazy Fast! RK3588 SOC Hands-On - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=XrEmmXMXzXU&ab_channel=ETAPRIME"
-                  } ],
-                  "date_added": "13356998679802473",
-                  "date_last_used": "0",
-                  "date_modified": "13356998788360079",
-                  "guid": "676d4655-75e1-4c53-b579-2eb112361be6",
-                  "id": "2258",
-                  "name": "firefly",
+                  "name": "jetson-cluster",
                   "type": "folder"
                }, {
                   "children": [ {
@@ -6913,7 +7403,7 @@
                }, {
                   "children": [ {
                      "date_added": "13356999051809250",
-                     "date_last_used": "0",
+                     "date_last_used": "13366318354874784",
                      "guid": "fa9b2b34-659e-496a-8b58-d15b8a4e3445",
                      "id": "2261",
                      "meta_info": {
@@ -7465,7 +7955,7 @@
                   "url": "https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9275"
                }, {
                   "date_added": "13350230660000000",
-                  "date_last_used": "0",
+                  "date_last_used": "13365429329332681",
                   "guid": "c92f2cd1-b979-4902-baac-49b38514574a",
                   "id": "1072",
                   "name": "Cherry MX Switch Comparison - KeyMouse - YouTube",
@@ -7473,7 +7963,7 @@
                   "url": "https://www.youtube.com/watch?v=zlSPH3HvxhQ&ab_channel=KeyMouse"
                }, {
                   "date_added": "13350231655000000",
-                  "date_last_used": "0",
+                  "date_last_used": "13365417583701025",
                   "guid": "396023de-43f8-4bc6-af05-30f35496e76a",
                   "id": "1073",
                   "name": "UK Keychron Q4 60% QMK/VIA RGB Tactile Aluminium Mac/PC Carbon Black Custom Keyboard : Q4-M3-UK : The Keyboard Company",
@@ -7481,16 +7971,60 @@
                   "url": "https://www.keyboardco.com/keyboard/keychron-q4-60percent-qmkvia-rgb-aluminium-macpc-carbon-black-custom-keyboards.asp"
                }, {
                   "date_added": "13350231863000000",
-                  "date_last_used": "0",
+                  "date_last_used": "13365417585683474",
                   "guid": "0a8e0ab5-3009-4174-98a1-0f812777fb09",
                   "id": "1074",
                   "name": "Filco Majestouch Minila-R Convertible 60% Keyboard Q&A | Mechanical Keyboards | Mini Mechanical Keyboards | Drop",
                   "type": "url",
                   "url": "https://drop.com/buy/filco-majestouch-manila-r-convertible-60-keyboard/questions"
+               }, {
+                  "date_added": "13365374805602280",
+                  "date_last_used": "13365437989543045",
+                  "guid": "1a5648a1-a169-434d-9966-b30dc4c05924",
+                  "id": "3087",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "USA Filco Majestouch 3 Tenkeyless MX Brown Tactile Double Shot Keyboard : FKBN87M/EMB3 : The Keyboard Company",
+                  "type": "url",
+                  "url": "https://www.keyboardco.com/keyboard/usa-filco-majestouch-3-tenkeyless-mx-brown-tactile-double-shot-keyboard.asp"
+               }, {
+                  "date_added": "13365419098685922",
+                  "date_last_used": "0",
+                  "guid": "95392aa1-f05c-44c0-92fb-9caa874da9a4",
+                  "id": "3089",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "HHKB Classic Topre 45g 60% PBT Mechanical Keyboard",
+                  "type": "url",
+                  "url": "https://mechanicalkeyboards.com/products/hhkb-classic?_pos=3&_fid=519fa6b30&_ss=c"
+               }, {
+                  "date_added": "13365419957618587",
+                  "date_last_used": "13365428788599769",
+                  "guid": "0a4bea81-9905-46a2-b544-c926ba5672e1",
+                  "id": "3090",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "USA Keychron Q4 60% QMK/VIA RGB Tactile Aluminium Mac/PC Carbon Black Custom Keyboard : Q4-C3-USA : The Keyboard Company",
+                  "type": "url",
+                  "url": "https://www.keyboardco.com/keyboard/usa-keychron-q4-60percent-qmkvia-rgb-tactile-aluminium-macpc-carbon-black-custom-keyboard.asp"
+               }, {
+                  "date_added": "13365429115610059",
+                  "date_last_used": "13365429329364834",
+                  "guid": "46ca27a0-a1dc-4ff2-8359-43818127ac6f",
+                  "id": "3091",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Which Cherry MX Key to use? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=1WYWePNJTo4&ab_channel=BeatTheBush"
                } ],
                "date_added": "13356353949437173",
                "date_last_used": "0",
-               "date_modified": "0",
+               "date_modified": "13365956216347603",
                "guid": "acf2c8f8-4126-4995-836a-32bd08b76ee4",
                "id": "1067",
                "name": "keyboard",
@@ -7721,6 +8255,430 @@
             "guid": "4650af12-4f1c-4038-a8fc-a1a92776c354",
             "id": "317",
             "name": "engineer",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13366716903038751",
+                  "date_last_used": "13366964270711557",
+                  "guid": "72a73226-5cc3-4d98-92d0-650e85a8d37f",
+                  "id": "3197",
+                  "name": "Inbox (3) - ngn@wavely.io - Wavely.io Mail",
+                  "type": "url",
+                  "url": "https://mail.google.com/mail/u/0/#inbox"
+               }, {
+                  "date_added": "13366716903038962",
+                  "date_last_used": "13366964275300880",
+                  "guid": "2f199628-7862-4ea0-8744-312103800efd",
+                  "id": "3198",
+                  "name": "Get started - WAVELY - 2 new items - Slack",
+                  "type": "url",
+                  "url": "https://app.slack.com/client/T6QEKQJMS"
+               }, {
+                  "date_added": "13366716903039110",
+                  "date_last_used": "13366971100248683",
+                  "guid": "e3ee52a6-2ea4-4c25-b936-24e1843cceee",
+                  "id": "3199",
+                  "name": "Wavely Developer Onboarding - Wavely Internal - Confluence",
+                  "type": "url",
+                  "url": "https://wavely.atlassian.net/wiki/spaces/WI/pages/87982081/Wavely+Developer+Onboarding"
+               }, {
+                  "date_added": "13366716903039261",
+                  "date_last_used": "13366964279849761",
+                  "guid": "e0e78ee2-fe0a-4a36-8bc5-bd402960f9fe",
+                  "id": "3200",
+                  "name": "SCRUM Sprint 43 - Wavely SCRUM - Agile Board - Jira",
+                  "type": "url",
+                  "url": "https://wavely.atlassian.net/jira/software/c/projects/WAV/boards/26"
+               }, {
+                  "children": [ {
+                     "date_added": "13366716903039527",
+                     "date_last_used": "0",
+                     "guid": "0ea08db8-890a-4778-8ebb-ac17c09b44c3",
+                     "id": "3202",
+                     "name": "Input file creation - Wavely - Confluence",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/wiki/spaces/WAVELY/pages/476250122/Input+file+creation"
+                  }, {
+                     "date_added": "13366716903039676",
+                     "date_last_used": "0",
+                     "guid": "68698348-ecdc-42da-bf9a-0c9cda8770c1",
+                     "id": "3203",
+                     "name": "VALID SM-DP+ ES2+ - Wavely - Confluence",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/wiki/spaces/WAVELY/pages/556728321/VALID+SM-DP+ES2"
+                  } ],
+                  "date_added": "13366716903039423",
+                  "date_last_used": "0",
+                  "date_modified": "13366716903039677",
+                  "guid": "01f4a56a-eda8-461b-87bd-f9c5313eccb9",
+                  "id": "3201",
+                  "name": "recommended",
+                  "type": "folder"
+               }, {
+                  "date_added": "13366716903039826",
+                  "date_last_used": "13366964283247585",
+                  "guid": "da67a4db-fd58-4fa2-aacb-eb837e486ba9",
+                  "id": "3204",
+                  "name": "Build + Review [Jenkins]",
+                  "type": "url",
+                  "url": "https://jenkins.wavely.io/view/Build%20+%20Review/"
+               }, {
+                  "date_added": "13366716903039953",
+                  "date_last_used": "0",
+                  "guid": "357c14dc-1509-4637-ad11-a78092f770ba",
+                  "id": "3205",
+                  "name": "SonarQube - Google Drive",
+                  "type": "url",
+                  "url": "https://drive.google.com/drive/folders/1aZrMA9-9OoYfeYF9qnCtjB10UHmlD1Cy"
+               }, {
+                  "children": [ {
+                     "date_added": "13366716903040169",
+                     "date_last_used": "0",
+                     "guid": "dc5acc07-a6e2-47cd-a389-a0364e152881",
+                     "id": "3207",
+                     "name": "cassandra - Official Image | Docker Hub",
+                     "type": "url",
+                     "url": "https://hub.docker.com/_/cassandra"
+                  }, {
+                     "date_added": "13366716903040292",
+                     "date_last_used": "0",
+                     "guid": "0373a36f-9f0d-4b9f-af8d-d2f2e16a8d5b",
+                     "id": "3208",
+                     "name": "java - Does cassandra-unit run with JDK 17? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/76146155/does-cassandra-unit-run-with-jdk-17"
+                  }, {
+                     "children": [  ],
+                     "date_added": "13366716903040448",
+                     "date_last_used": "0",
+                     "date_modified": "13366716903040448",
+                     "guid": "23629a82-f108-4bac-8068-6d43c9fab26e",
+                     "id": "3209",
+                     "name": "New folder",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13366716903040075",
+                  "date_last_used": "0",
+                  "date_modified": "13366716903040292",
+                  "guid": "d71f2bef-4fab-44b3-8cf0-03e1a1284919",
+                  "id": "3206",
+                  "name": "cassandra",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366716903040638",
+                     "date_last_used": "0",
+                     "guid": "6dbb1507-3e57-4f52-9624-7846c2713d36",
+                     "id": "3211",
+                     "name": "java - Is there a way to run sonar on projects without using the repository? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/9180861/is-there-a-way-to-run-sonar-on-projects-without-using-the-repository"
+                  } ],
+                  "date_added": "13366716903040546",
+                  "date_last_used": "0",
+                  "date_modified": "13366716903040638",
+                  "guid": "9ab55e84-c957-4ff6-a76a-ac8bf20a9b80",
+                  "id": "3210",
+                  "name": "sonarqube",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366716903040899",
+                     "date_last_used": "0",
+                     "guid": "11442e40-e1a2-4fd7-b65c-f4f0a1ca9c88",
+                     "id": "3213",
+                     "name": "New Relic Explorer \u003C New Relic",
+                     "type": "url",
+                     "url": "https://one.newrelic.com/nr1-core?account=2103162&state=0a61fb2a-12d9-93d5-ea19-20c85db6d5a8"
+                  }, {
+                     "date_added": "13366716903041051",
+                     "date_last_used": "0",
+                     "guid": "61246a40-9188-4b32-a847-62568107b322",
+                     "id": "3214",
+                     "name": "Java agent identified with security vulnerabilities | New Relic Documentation",
+                     "type": "url",
+                     "url": "https://docs.newrelic.com/docs/apm/agents/java-agent/troubleshooting/java-agent-identified-with-security-vulnerabilities/"
+                  }, {
+                     "date_added": "13366716903041204",
+                     "date_last_used": "0",
+                     "guid": "53d0fd12-f023-4ba9-ad4b-4a6e6061ac79",
+                     "id": "3215",
+                     "name": "Java agent release notes | New Relic Documentation",
+                     "type": "url",
+                     "url": "https://docs.newrelic.com/docs/release-notes/agent-release-notes/java-release-notes/"
+                  } ],
+                  "date_added": "13366716903040808",
+                  "date_last_used": "0",
+                  "date_modified": "13366716903041204",
+                  "guid": "adf73b22-cc43-457d-b7b1-39d225e45061",
+                  "id": "3212",
+                  "name": "newrelic",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366716903041413",
+                     "date_last_used": "0",
+                     "guid": "dd169525-558c-4844-8266-aec48be4184f",
+                     "id": "3217",
+                     "name": "Ove's Web App Target (Website Pentest) - Vulnerabilities - VAPT",
+                     "type": "url",
+                     "url": "https://my.getastra.com/vapt/18697b3c-041d-403c-a6cc-3f583b7c9d11/vulnerabilities?audit=c33d6471-808b-4fa0-be8e-7a472693e783"
+                  } ],
+                  "date_added": "13366716903041324",
+                  "date_last_used": "0",
+                  "date_modified": "13366716903041413",
+                  "guid": "6981b80f-7515-4669-b180-ce0a34ab6a09",
+                  "id": "3216",
+                  "name": "astra",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366716903041680",
+                     "date_last_used": "0",
+                     "guid": "797a04e4-b0f8-48e9-aefe-7ad8e3194f30",
+                     "id": "3219",
+                     "name": "CVE Website",
+                     "type": "url",
+                     "url": "https://www.cve.org/"
+                  }, {
+                     "date_added": "13366716903041783",
+                     "date_last_used": "0",
+                     "guid": "9225e2d7-50e4-4972-adca-7b62bdbf44f8",
+                     "id": "3220",
+                     "name": "Dependency Vulnerabilities Check",
+                     "type": "url",
+                     "url": "https://www.jhipster.tech/dependency-vulnerabities-check/"
+                  }, {
+                     "date_added": "13366716903041912",
+                     "date_last_used": "0",
+                     "guid": "f63b326c-567f-4c84-a239-c0c6612711ee",
+                     "id": "3221",
+                     "name": "NVD - Results",
+                     "type": "url",
+                     "url": "https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=jackson-databind&search_type=all&isCpeNameSearch=false"
+                  }, {
+                     "date_added": "13366716903042064",
+                     "date_last_used": "0",
+                     "guid": "d17d6b45-b449-4245-baab-4a952989a2ee",
+                     "id": "3222",
+                     "name": "OWASP Dependency-Check: What It Is and How It Works | by Rebecca Beris | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/@rebeccab_16699/owasp-dependency-check-what-it-is-and-how-it-works-ecee62f285da"
+                  }, {
+                     "date_added": "13366716903042241",
+                     "date_last_used": "0",
+                     "guid": "b27a00ac-d80d-4416-a4b8-d2cade060be4",
+                     "id": "3223",
+                     "name": "Black Duck Knowledgebase matching issues help guide",
+                     "type": "url",
+                     "url": "https://community.synopsys.com/s/article/KB-matching-issues-help-guide"
+                  }, {
+                     "date_added": "13366716903042395",
+                     "date_last_used": "0",
+                     "guid": "7bec55c2-629f-405d-8c1a-e8b048b05942",
+                     "id": "3224",
+                     "name": "How to avoid Rework in Black duck Binary scan for subsequent versions.",
+                     "type": "url",
+                     "url": "https://community.synopsys.com/s/question/0D52H000060b7X0SAI/how-to-avoid-rework-in-black-duck-binary-scan-for-subsequent-versions"
+                  }, {
+                     "date_added": "13366716903042558",
+                     "date_last_used": "0",
+                     "guid": "82368249-21bf-4eca-a54c-4b8c262c6969",
+                     "id": "3225",
+                     "name": "maven - Blackduck scan showing FILE MODIFIED with older version of Jetty Http - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/64802038/blackduck-scan-showing-file-modified-with-older-version-of-jetty-http"
+                  }, {
+                     "date_added": "13366716903042717",
+                     "date_last_used": "0",
+                     "guid": "915e18ba-995a-4651-8997-f0eb36192ff9",
+                     "id": "3226",
+                     "name": "security - Addressing critical vulnerabilities in Maven dependencies - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/76971922/addressing-critical-vulnerabilities-in-maven-dependencies"
+                  }, {
+                     "date_added": "13366716903042859",
+                     "date_last_used": "0",
+                     "guid": "16aedcaf-84a6-4c09-ae63-9da31edb8268",
+                     "id": "3227",
+                     "name": "Snyk Vulnerability Database | Snyk",
+                     "type": "url",
+                     "url": "https://security.snyk.io/"
+                  } ],
+                  "date_added": "13366716903041587",
+                  "date_last_used": "0",
+                  "date_modified": "13366716903042859",
+                  "guid": "96e30916-8dca-426f-8b77-05de38739a24",
+                  "id": "3218",
+                  "name": "vulnerability",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366716903043090",
+                     "date_last_used": "13366909480095340",
+                     "guid": "c24a5c69-feba-44d1-8ff8-6bacfee1ea37",
+                     "id": "3229",
+                     "name": "Overriding Dependency Versions with Spring Boot",
+                     "type": "url",
+                     "url": "https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot"
+                  } ],
+                  "date_added": "13366716903042970",
+                  "date_last_used": "0",
+                  "date_modified": "13366716903043090",
+                  "guid": "4d44122d-b034-41a1-8d0a-62341e931fec",
+                  "id": "3228",
+                  "name": "maven",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366716903043316",
+                     "date_last_used": "0",
+                     "guid": "0dd2ffa5-b94c-4a6e-a299-660cc7359e85",
+                     "id": "3231",
+                     "name": "How FZF and ripgrep improved my workflow | by Sidney Liebrand | Medium",
+                     "type": "url",
+                     "url": "https://sidneyliebrand.medium.com/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861"
+                  } ],
+                  "date_added": "13366716903043228",
+                  "date_last_used": "0",
+                  "date_modified": "13366716903043316",
+                  "guid": "103ce554-889b-47d1-9fff-f2e55ab9fd39",
+                  "id": "3230",
+                  "name": "medium",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366719096087330",
+                     "date_last_used": "13366719284755175",
+                     "guid": "4513c2f2-fda3-4834-9394-6b61bb0583b2",
+                     "id": "3232",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "SCRUM Sprint 43 - Wavely SCRUM - Agile Board - Jira",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/jira/software/c/projects/WAV/boards/26?selectedIssue=WAV-3386"
+                  }, {
+                     "date_added": "13366719135567058",
+                     "date_last_used": "13366719284701564",
+                     "guid": "22476a85-3810-4b22-bb22-465e6440bf0b",
+                     "id": "3234",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "SCRUM Sprint 43 - Wavely SCRUM - Agile Board - Jira",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/jira/software/c/projects/WAV/boards/26?selectedIssue=WAV-3352"
+                  }, {
+                     "date_added": "13366719144203518",
+                     "date_last_used": "13366719284696500",
+                     "guid": "b82b1a23-acf8-4644-a9e0-52fc5e51def9",
+                     "id": "3235",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "SCRUM Sprint 43 - Wavely SCRUM - Agile Board - Jira",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/jira/software/c/projects/WAV/boards/26?selectedIssue=WAV-3353"
+                  }, {
+                     "date_added": "13366719150230935",
+                     "date_last_used": "13366719284670874",
+                     "guid": "e9877a7c-2826-4df4-8d85-f3b41f474602",
+                     "id": "3236",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "SCRUM Sprint 43 - Wavely SCRUM - Agile Board - Jira",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/jira/software/c/projects/WAV/boards/26?selectedIssue=WAV-3356"
+                  }, {
+                     "date_added": "13366719157753699",
+                     "date_last_used": "13366719284689905",
+                     "guid": "d034a2ed-339c-4b17-9e1d-76a13bdbb0c9",
+                     "id": "3237",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "SCRUM Sprint 43 - Wavely SCRUM - Agile Board - Jira",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/jira/software/c/projects/WAV/boards/26?selectedIssue=WAV-3358"
+                  }, {
+                     "date_added": "13366719166409434",
+                     "date_last_used": "13366719284684184",
+                     "guid": "1a4c8882-c867-477e-b971-8714917933cb",
+                     "id": "3238",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "SCRUM Sprint 43 - Wavely SCRUM - Agile Board - Jira",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/jira/software/c/projects/WAV/boards/26?selectedIssue=WAV-3359"
+                  }, {
+                     "date_added": "13366719173029973",
+                     "date_last_used": "13366719284678382",
+                     "guid": "9fa30875-0a17-4974-80dc-5b3b5cc06816",
+                     "id": "3239",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "SCRUM Sprint 43 - Wavely SCRUM - Agile Board - Jira",
+                     "type": "url",
+                     "url": "https://wavely.atlassian.net/jira/software/c/projects/WAV/boards/26?selectedIssue=WAV-3361"
+                  } ],
+                  "date_added": "13366719109981435",
+                  "date_last_used": "0",
+                  "date_modified": "13366741747101126",
+                  "guid": "4a7b8c36-1682-4558-81ca-ed05c41d28d0",
+                  "id": "3233",
+                  "name": "tasks",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366824998779935",
+                     "date_last_used": "13366916955019629",
+                     "guid": "c98f66ca-ee58-4a1b-856d-4d705b5116f6",
+                     "id": "3249",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "1Password",
+                     "type": "url",
+                     "url": "https://wavely.1password.com/app#/32f6qrem2mgg5d7dyo3zpwtrri/Search/32f6qrem2mgg5d7dyo3zpwtrrioldpe64wqfa2jmpjfr7vkyr6hu?itemListId=sonar"
+                  }, {
+                     "date_added": "13367195568926106",
+                     "date_last_used": "0",
+                     "guid": "c846e130-6933-469d-9e00-fa56c708ac8b",
+                     "id": "3252",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Bookmarks",
+                     "type": "url",
+                     "url": "chrome://bookmarks/?id=2346"
+                  } ],
+                  "date_added": "13366825016332753",
+                  "date_last_used": "0",
+                  "date_modified": "13367195568926106",
+                  "guid": "2e29de20-6162-479a-a73f-a461940605b0",
+                  "id": "3250",
+                  "name": "1password",
+                  "type": "folder"
+               } ],
+               "date_added": "13366716903038639",
+               "date_last_used": "0",
+               "date_modified": "13366716903039953",
+               "guid": "05c8ef7a-863a-466e-b770-68a866ff5d88",
+               "id": "3196",
+               "name": "greenwave",
+               "type": "folder"
+            } ],
+            "date_added": "13366716903038375",
+            "date_last_used": "0",
+            "date_modified": "13366716903038375",
+            "guid": "d33b8773-0f9e-49c2-ba61-d8f0f3b5c9e5",
+            "id": "3195",
+            "name": "work",
             "type": "folder"
          }, {
             "children": [ {
@@ -9901,7 +10859,7 @@
             "children": [ {
                "children": [ {
                   "date_added": "13359403595866573",
-                  "date_last_used": "13359406104668764",
+                  "date_last_used": "0",
                   "guid": "839eae87-aede-4a18-af86-c52ef545801b",
                   "id": "3075",
                   "meta_info": {
@@ -10049,10 +11007,21 @@
                "id": "2619",
                "name": "cap",
                "type": "folder"
+            }, {
+               "date_added": "13363186364510741",
+               "date_last_used": "0",
+               "guid": "92cb3d09-f9a2-4ca3-8af1-447fbf08eab9",
+               "id": "3079",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Appendix_Asbestos_EUAA59-24015552-1_DA.pdf",
+               "type": "url",
+               "url": "file:///home/nikolaj/ngr/lejlighed/asbest/samlet/AR-24-VL-01015552-01/Appendix_Asbestos_EUAA59-24015552-1_DA.pdf"
             } ],
             "date_added": "13359375877182153",
             "date_last_used": "0",
-            "date_modified": "13359406124184201",
+            "date_modified": "13364124392015336",
             "guid": "be1c7ac5-e9f0-4f93-a3c2-acf0670ad95f",
             "id": "2609",
             "name": "invest",
@@ -19495,6 +20464,48 @@
                "id": "1529",
                "name": "audi",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13364124392015336",
+                  "date_last_used": "0",
+                  "guid": "33d4992f-3ff6-453d-aeb5-4177efc66914",
+                  "id": "3081",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Udvendige lejer | Din foretrukne online cykelbutik - Cykelgear",
+                  "type": "url",
+                  "url": "https://www.cykelgear.dk/reservedele/krankbokse-og-kranklejer/udvendige-lejer?page=1&products_per_page=90&sorting=bestsellers"
+               }, {
+                  "date_added": "13364124417366486",
+                  "date_last_used": "0",
+                  "guid": "15e11af0-cdba-46e0-a3cc-484c6a19c85a",
+                  "id": "3083",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Shimano Ultegra SM-BBR60 BSA Krankboks, 68mm",
+                  "type": "url",
+                  "url": "https://cykelshoppen.dk/p/shimano-sm-bbr60-krankboks-bsa-68mm-ultegra"
+               }, {
+                  "date_added": "13365214277200390",
+                  "date_last_used": "0",
+                  "guid": "d385763a-013c-4c90-850a-cce081610e86",
+                  "id": "3085",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "GitHub - akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
+                  "type": "url",
+                  "url": "https://github.com/akinsho/toggleterm.nvim"
+               } ],
+               "date_added": "13364124415494891",
+               "date_last_used": "0",
+               "date_modified": "13365374805602280",
+               "guid": "72d93dae-63ee-4686-8eb3-3dbf864c9b18",
+               "id": "3082",
+               "name": "cykel",
+               "type": "folder"
             } ],
             "date_added": "13359375960944087",
             "date_last_used": "0",
@@ -19505,17 +20516,6 @@
             "type": "folder"
          }, {
             "children": [ {
-               "date_added": "13359198432229184",
-               "date_last_used": "0",
-               "guid": "fd6a3acd-7937-4c5a-ba0c-9110f214bb74",
-               "id": "2345",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "FZF + JQ = Interactive JQ (+ a vim bonus) - DEV Community",
-               "type": "url",
-               "url": "https://dev.to/pbnj/fzf-jq-interactive-jq-15no"
-            }, {
                "date_added": "13359198573804765",
                "date_last_used": "0",
                "guid": "4837dcd3-6409-4a9d-a447-dde6781c4447",
@@ -19594,7 +20594,7 @@
                "url": "https://stackoverflow.com/questions/56744579/run-jq-in-fzf-preview-with-arguments"
             }, {
                "date_added": "13359199481322643",
-               "date_last_used": "0",
+               "date_last_used": "13367230969242123",
                "guid": "78325a0a-dc76-4eb3-a871-397efecb4237",
                "id": "2354",
                "meta_info": {
@@ -19795,17 +20795,275 @@
                "name": "nvim-lspconfig/doc/server_configurations.md at master · neovim/nvim-lspconfig · GitHub",
                "type": "url",
                "url": "https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#jdtls"
+            }, {
+               "children": [ {
+                  "date_added": "13367195653205195",
+                  "date_last_used": "0",
+                  "guid": "b98c0903-0398-44b6-a618-673abd9742fb",
+                  "id": "3254",
+                  "name": "nvim lua pop window with fzf execute command - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=nvim+lua+pop+window+with+fzf+execute+command&sca_esv=8bfd042df153f1d7&sca_upv=1&sxsrf=ADLYWIIJd3cnINWlaFQyTBq1AgtVvAymUA%3A1722703049426&ei=yVyuZrfeGceF1fIPu8WCyQ8&ved=0ahUKEwj35sH6oNmHAxXHQlUIHbuiIPkQ4dUDCBA&uact=5&oq=nvim+lua+pop+window+with+fzf+execute+command&gs_lp=Egxnd3Mtd2l6LXNlcnAiLG52aW0gbHVhIHBvcCB3aW5kb3cgd2l0aCBmemYgZXhlY3V0ZSBjb21tYW5kMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEifKlD0EVjOJnABeAGQAQCYAc4BoAGWDKoBBjEuMTAuMbgBA8gBAPgBAZgCDKACwQvCAgoQABiwAxjWBBhHwgIIECEYoAEYwwTCAgoQIRigARjDBBgKmAMAiAYBkAYIkgcGMS4xMC4xoAeOIg&sclient=gws-wiz-serp"
+               }, {
+                  "date_added": "13367195653205692",
+                  "date_last_used": "0",
+                  "guid": "7222c48c-eafe-4381-8c61-2ea608c6ac25",
+                  "id": "3255",
+                  "name": "Neovim Lua: how to run a command on a visual selection? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/76009517/neovim-lua-how-to-run-a-command-on-a-visual-selection"
+               }, {
+                  "date_added": "13367195653205963",
+                  "date_last_used": "0",
+                  "guid": "54714b23-6afa-4e95-9b71-b361d1c7b728",
+                  "id": "3256",
+                  "name": "ibhagwan/fzf-lua: Improved fzf.vim written in lua",
+                  "type": "url",
+                  "url": "https://github.com/ibhagwan/fzf-lua"
+               }, {
+                  "date_added": "13367195653206168",
+                  "date_last_used": "0",
+                  "guid": "48a4a475-93f6-49a0-b6a8-e3a1876e3592",
+                  "id": "3257",
+                  "name": "vijaymarupudi/nvim-fzf: A Lua API for using fzf in neovim.",
+                  "type": "url",
+                  "url": "https://github.com/vijaymarupudi/nvim-fzf"
+               }, {
+                  "date_added": "13367195653206373",
+                  "date_last_used": "0",
+                  "guid": "2ecbd5d4-0b52-491b-8530-718b3204386f",
+                  "id": "3258",
+                  "name": "Call FZF from vim for specific file types only : r/vim",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/vim/comments/az5go1/call_fzf_from_vim_for_specific_file_types_only/"
+               }, {
+                  "date_added": "13367195653206648",
+                  "date_last_used": "0",
+                  "guid": "871abb3f-ca7d-4eb0-b4a9-6a8a93e06fd6",
+                  "id": "3259",
+                  "name": "Using Ripgrep with flags in fzf.vim - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/65336054/using-ripgrep-with-flags-in-fzf-vim"
+               }, {
+                  "date_added": "13367195653206861",
+                  "date_last_used": "0",
+                  "guid": "39e71590-009d-4023-a17e-cb4e2604b2f5",
+                  "id": "3260",
+                  "name": "nvim how to let fzf use FZF_DEFAULT_COMMAND - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=nvim+how+to+let+fzf+use+FZF_DEFAULT_COMMAND&sca_esv=118346d2450869ab&sca_upv=1&sxsrf=ADLYWIK6mrRdQ8D0gorbYNVyN4w0uyTXgg%3A1722717523076&ei=U5WuZpOkBM7KwPAPxPuFuAs&ved=0ahUKEwjTmYvw1tmHAxVOJRAIHcR9AbcQ4dUDCBA&uact=5&oq=nvim+how+to+let+fzf+use+FZF_DEFAULT_COMMAND&gs_lp=Egxnd3Mtd2l6LXNlcnAiK252aW0gaG93IHRvIGxldCBmemYgdXNlIEZaRl9ERUZBVUxUX0NPTU1BTkQyBRAhGKABSJH7AVDODViH-AFwAngBkAEAmAHBBKABsCKqAQwzLjE3LjIuMS4xLjG4AQPIAQD4AQH4AQKYAhugArQkqAIUwgIKEAAYsAMY1gQYR8ICBxAjGCcY6gLCAhQQABiABBiRAhi0AhiKBRjqAtgBAcICFBAAGIAEGOMEGLQCGOkEGOoC2AEBwgIWEAAYgAQY4wQYtAIY6QQY6gIYCtgBAcICChAjGIAEGCcYigXCAgQQIxgnwgILEAAYgAQYkQIYigXCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIKEAAYgAQYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAgwQABiABBhDGIoFGArCAgoQABiABBgUGIcCwgIHEAAYgAQYCsICBxAuGIAEGArCAgYQABgWGB7CAggQABgWGB4YD8ICCBAAGBYYChgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICBxAhGKABGArCAgQQIRgVwgIFECEYnwWYAxuIBgGQBgi6BgYIARABGAGSBwoyLjIwLjIuMS4yoAf0tAE&sclient=gws-wiz-serp"
+               }, {
+                  "date_added": "13367195653207236",
+                  "date_last_used": "0",
+                  "guid": "baead2d2-d5e9-4caa-aa04-c3dc69864065",
+                  "id": "3261",
+                  "name": "Question: how to use FZF_DEFAULT_COMMAND in .vimrc · Issue #583 · junegunn/fzf.vim",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/fzf.vim/issues/583"
+               }, {
+                  "date_added": "13367195653207456",
+                  "date_last_used": "0",
+                  "guid": "5530cdcd-7c97-497c-a807-5dc313cb0e8d",
+                  "id": "3262",
+                  "name": "A Practical Guide to fzf: Vim Integration",
+                  "type": "url",
+                  "url": "https://thevaluable.dev/fzf-vim-integration/"
+               }, {
+                  "date_added": "13367195653207647",
+                  "date_last_used": "0",
+                  "guid": "af7b00b6-43ee-4964-bea9-d11766b97074",
+                  "id": "3263",
+                  "name": "How to search faster in Vim with FZF.vim - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/iggredible/how-to-search-faster-in-vim-with-fzf-vim-36ko"
+               }, {
+                  "date_added": "13367195653207854",
+                  "date_last_used": "0",
+                  "guid": "5bc1e7b3-6302-4bd9-a0d9-6b32f1bd4115",
+                  "id": "3264",
+                  "name": "Adding FZF options to fzf#vim#grep() · Issue #732 · junegunn/fzf.vim",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/fzf.vim/issues/732"
+               }, {
+                  "date_added": "13367195653208064",
+                  "date_last_used": "0",
+                  "guid": "90dbb168-6e24-44d4-b683-02e60f72b595",
+                  "id": "3265",
+                  "name": "optimizing your workflow with fzf & ripgrep - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/hayden/optimizing-your-workflow-with-fzf-ripgrep-2eai"
+               }, {
+                  "date_added": "13367195653208276",
+                  "date_last_used": "0",
+                  "guid": "6f14ebd1-11d7-4fbc-95ad-366194e07dc6",
+                  "id": "3266",
+                  "name": "junegunn/fzf.vim: fzf vim",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/fzf.vim"
+               }, {
+                  "date_added": "13367195653208435",
+                  "date_last_used": "0",
+                  "guid": "e4d1806d-a4d7-41ea-9245-f55f3c9ed4bb",
+                  "id": "3267",
+                  "name": "BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+                  "type": "url",
+                  "url": "https://github.com/BurntSushi/ripgrep"
+               }, {
+                  "date_added": "13367195653208665",
+                  "date_last_used": "13367247511002725",
+                  "guid": "d96994d2-19f4-4e35-9b4e-c412060c37b7",
+                  "id": "3268",
+                  "name": "How FZF and ripgrep improved my workflow | by Sidney Liebrand | Medium",
+                  "type": "url",
+                  "url": "https://sidneyliebrand.medium.com/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861"
+               }, {
+                  "date_added": "13367195653208892",
+                  "date_last_used": "0",
+                  "guid": "d2073c10-ba02-4fc9-9402-f5da2f73474f",
+                  "id": "3269",
+                  "name": "tpope/vim-fugitive: fugitive.vim: A Git wrapper so awesome, it should be illegal",
+                  "type": "url",
+                  "url": "https://github.com/tpope/vim-fugitive"
+               }, {
+                  "date_added": "13367195653209118",
+                  "date_last_used": "0",
+                  "guid": "cff28af2-3e51-4a92-bc08-1eaebe292f1d",
+                  "id": "3270",
+                  "name": "A Practical Guide to fzf: Building a Git Explorer",
+                  "type": "url",
+                  "url": "https://thevaluable.dev/fzf-git-integration/"
+               }, {
+                  "date_added": "13367195653209301",
+                  "date_last_used": "0",
+                  "guid": "464e19a3-19a5-43f9-ab72-8ad863789de4",
+                  "id": "3271",
+                  "name": "vim fzf rg specific file type - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?sca_esv=7f5c27a2a1164acd&sca_upv=1&sxsrf=ADLYWIJy_axJDbd0O_CBRZLixAzXOtc80A:1722721002573&q=vim+fzf+rg+specific+file+type&sa=X&ved=2ahUKEwjM8p7r49mHAxVKFBAIHaz8OYAQ7xYoAHoECAoQAQ&biw=1918&bih=941&dpr=1"
+               }, {
+                  "date_added": "13367195653209581",
+                  "date_last_used": "0",
+                  "guid": "1199d515-b8f0-47b1-a8ea-c131c8e983e6",
+                  "id": "3272",
+                  "name": "How FZF and ripgrep improved my workflow | by Sidney Liebrand | Medium",
+                  "type": "url",
+                  "url": "https://sidneyliebrand.medium.com/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861"
+               }, {
+                  "date_added": "13367195653209804",
+                  "date_last_used": "0",
+                  "guid": "c3a024d5-5327-49c5-a0ed-b934f9a14b91",
+                  "id": "3273",
+                  "name": "How to call Rg to search for a pattern in a specific file · Issue #1049 · junegunn/fzf.vim",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/fzf.vim/issues/1049"
+               }, {
+                  "date_added": "13367195653210016",
+                  "date_last_used": "0",
+                  "guid": "cf0af99c-ab2b-4793-a4e1-744b7784f5b3",
+                  "id": "3274",
+                  "name": "Bookmarks",
+                  "type": "url",
+                  "url": "chrome://bookmarks/?id=2346"
+               } ],
+               "date_added": "13367195653204868",
+               "date_last_used": "0",
+               "date_modified": "13367195653210016",
+               "guid": "80173c83-9b4f-4a7a-9307-09ef4a0678c4",
+               "id": "3253",
+               "name": "ripgrep1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13367261679911986",
+                  "date_last_used": "0",
+                  "guid": "c8b16267-0f63-451f-a665-064f3519d0c1",
+                  "id": "3285",
+                  "name": "vim fzf ctrl+y yank nothing in register - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=vim+fzf+ctrl%2By+yank+nothing+in+register&sca_esv=0535bd5c4ba7e759&sca_upv=1&biw=1918&bih=941&sxsrf=ADLYWIJvR4n_-f24SF1UU3UW34wI4n0QhA%3A1722784115754&ei=c5mvZvLaLfuOwPAPt-DjuAs&ved=0ahUKEwiy4Pn5ztuHAxV7BxAIHTfwGLcQ4dUDCBA&uact=5&oq=vim+fzf+ctrl%2By+yank+nothing+in+register&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ3ZpbSBmemYgY3RybCt5IHlhbmsgbm90aGluZyBpbiByZWdpc3RlcjIIEAAYgAQYogQyCBAAGIAEGKIESIkcUPsVWKEacAF4AZABAJgB0QGgAZwFqgEFMC4zLjG4AQPIAQD4AQGYAgOgApQDwgIKEAAYsAMY1gQYR8ICBxAjGLACGCeYAwCIBgGQBgiSBwUxLjEuMaAHqg8&sclient=gws-wiz-serp"
+               }, {
+                  "date_added": "13367261679912471",
+                  "date_last_used": "0",
+                  "guid": "78ac8c8b-c79f-489e-b90f-388c71f1addb",
+                  "id": "3286",
+                  "name": "vim - how to exclude file name from fzf filtering after ripgrep search results? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/59885329/how-to-exclude-file-name-from-fzf-filtering-after-ripgrep-search-results"
+               }, {
+                  "date_added": "13367261679912709",
+                  "date_last_used": "0",
+                  "guid": "b3d44a30-a4b9-430d-8c61-6f257a6b3ee5",
+                  "id": "3287",
+                  "name": "Make :Ag not match file names, only the file content · Issue #346 · junegunn/fzf.vim",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/fzf.vim/issues/346"
+               }, {
+                  "date_added": "13367261679912920",
+                  "date_last_used": "13367265536905468",
+                  "guid": "1a6b716b-4146-405d-90cf-5dc8fc80dc2b",
+                  "id": "3288",
+                  "name": "How to search faster in Vim with FZF.vim - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/iggredible/how-to-search-faster-in-vim-with-fzf-vim-36ko"
+               }, {
+                  "date_added": "13367261679913120",
+                  "date_last_used": "0",
+                  "guid": "b5bf1cef-80cf-4312-94ef-ab4cf5982889",
+                  "id": "3289",
+                  "name": "Make :Ag not match file names, only the file content · Issue #346 · junegunn/fzf.vim",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/fzf.vim/issues/346"
+               }, {
+                  "date_added": "13367261679913285",
+                  "date_last_used": "13367265536956589",
+                  "guid": "5b81cc41-12cc-4845-a6b4-6698ea29fb30",
+                  "id": "3290",
+                  "name": "Nvim + FZF from Terminal - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/manofthelionarmy/nvim-fzf-from-terminal-24p3"
+               }, {
+                  "date_added": "13367261679913450",
+                  "date_last_used": "0",
+                  "guid": "8d7dfb4f-5f8a-4783-ad18-04263c3f89cd",
+                  "id": "3291",
+                  "name": "junegunn/fzf.vim: fzf vim",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/fzf.vim#commands"
+               }, {
+                  "date_added": "13367261679913599",
+                  "date_last_used": "0",
+                  "guid": "945d05b4-9f66-410d-a15b-ce739da2f1c8",
+                  "id": "3292",
+                  "name": "neovim - How to create custom find files command using fzf.vim? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/75228392/how-to-create-custom-find-files-command-using-fzf-vim"
+               }, {
+                  "date_added": "13367261679913823",
+                  "date_last_used": "0",
+                  "guid": "b7c4c129-8b03-4bba-9edb-32e029e946e1",
+                  "id": "3293",
+                  "name": "E684: list index out of range: 0 · Issue #462 · junegunn/fzf.vim",
+                  "type": "url",
+                  "url": "https://github.com/junegunn/fzf.vim/issues/462"
+               } ],
+               "date_added": "13367261614810579",
+               "date_last_used": "0",
+               "date_modified": "13367268773807644",
+               "guid": "3f88ce48-c861-4030-96c6-4bc2b6ce2def",
+               "id": "3282",
+               "name": "ripgrep2",
+               "type": "folder"
             } ],
             "date_added": "13359198473638147",
             "date_last_used": "0",
-            "date_modified": "13359374881472650",
+            "date_modified": "13367261614810852",
             "guid": "f76147a8-0e25-4be7-94bd-b57c3b0b7159",
             "id": "2346",
             "name": "tmp",
             "type": "folder"
          }, {
             "date_added": "13358243275071377",
-            "date_last_used": "13359284470601296",
+            "date_last_used": "13367239938713661",
             "guid": "75518202-e414-4942-a89c-6f058170bc8f",
             "id": "2310",
             "meta_info": {
@@ -19816,7 +21074,7 @@
             "url": "https://www.virustotal.com/gui/home/upload"
          }, {
             "date_added": "13358339582604424",
-            "date_last_used": "13358527955589148",
+            "date_last_used": "0",
             "guid": "fcf114bd-b4fb-42c6-a095-9aff42f5a690",
             "id": "2315",
             "meta_info": {
@@ -19825,26 +21083,198 @@
             "name": "Login | Saxo Bank",
             "type": "url",
             "url": "https://www.home.saxo/da-dk/login"
+         }, {
+            "date_added": "13366031392368621",
+            "date_last_used": "0",
+            "guid": "cec00dcb-0fb2-4997-b8c4-90ac101b053a",
+            "id": "3098",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Navigate Sessions & Windows with FZF : r/tmux",
+            "type": "url",
+            "url": "https://www.reddit.com/r/tmux/comments/rfae7o/navigate_sessions_windows_with_fzf/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13366587292693773",
+                  "date_last_used": "0",
+                  "guid": "6019213d-e908-4519-9730-36cc8823919e",
+                  "id": "3122",
+                  "name": "nvidia jetson orin ubuntu - Google-søgning",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=nvidia+jetson+orin+ubuntu&sca_esv=f5d76052eac9eedd&ei=CFelZoufCdeE1fIPpN6AyQ0&ved=0ahUKEwiLw4CahsiHAxVXQlUIHSQvINkQ4dUDCBA&uact=5&oq=nvidia+jetson+orin+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAiGW52aWRpYSBqZXRzb24gb3JpbiB1YnVudHUyBxAAGIAEGBMyCBAAGBMYFhgeMggQABgTGBYYHjIIEAAYExgWGB4yCBAAGBMYFhgeMggQABgTGBYYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIqaUBUM4OWKKhAXAJeAGQAQCYAcUBoAH6HaoBBTEzLjIyuAEDyAEA-AEBmAIsoAKyIcICChAAGLADGNYEGEfCAgsQABiABBixAxiDAcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICCxAuGIAEGNEDGMcBwgIOEC4YgAQYsQMYgwEYigXCAgsQLhiABBjHARivAcICCBAAGIAEGLEDwgIKEAAYgAQYQxiKBcICBRAAGIAEwgINEAAYgAQYsQMYRhj6AcICGRAAGIAEGLEDGEYY-gEYlwUYjAUY3QTYAQHCAg8QABiABBixAxgKGEYY-gHCAhAQLhiABBixAxjRAxjHARgKwgIKEAAYgAQYsQMYCsICBxAAGIAEGArCAhsQABiABBixAxgKGEYY-gEYlwUYjAUY3QTYAQHCAgUQLhiABMICBRAhGKABwgIHECEYoAEYCsICBhAAGBYYHpgDAIgGAZAGCLoGBggBEAEYE5IHBzE1LjI4LjGgB-D2AQ&sclient=gws-wiz-serp"
+               }, {
+                  "date_added": "13366587292694164",
+                  "date_last_used": "0",
+                  "guid": "aa2f5fa0-65d6-4274-99d4-e5adfce543eb",
+                  "id": "3123",
+                  "name": "Linux Kernel Development (Developer's Library) : Love, Robert: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Robert-Love/dp/0672329468/ref=sr_1_4?crid=ISP9MLZXR3X1&dib=eyJ2IjoiMSJ9.oSwsJHdDVBliSw4O6MyFuZxBxfRAt1ev48i0D8vuTzOJjqEbfN2npo2ALdjpQTD09sAazfWsQTLcVm0qn80kc6nvgdBBfwZgRaVumDVZjOLkMJHHjsTq0snLoEtzPmXrQyKhmnKMOXJAHt2s1Pt5AOHJlO6hN7OtJEqz4uwr7mx_lgReDnaevobldcu_fm5WwlupR-wRSmY4nFqP-ft-jJnTc_EPfQd8ER3UMo4ynzU.B7QU3TlFTJgMflDHAPEGn9LDYzLjHVs5xxEz61HrR3E&dib_tag=se&keywords=linux+kernel&qid=1722112074&s=books&sprefix=linux+kernel%2Cstripbooks%2C209&sr=1-4"
+               }, {
+                  "date_added": "13366587292694586",
+                  "date_last_used": "0",
+                  "guid": "2a2d9fdd-7110-475e-938f-d939e0af9718",
+                  "id": "3124",
+                  "name": "Linux Kernel Programming - Second Edition: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization : Billimoria, Kaiwan N: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Kaiwan-N-Billimoria-dp-1803232226/dp/1803232226/ref=dp_ob_image_bk"
+               }, {
+                  "date_added": "13366587292694845",
+                  "date_last_used": "0",
+                  "guid": "58e490f9-0b85-4d2d-b18f-c914288ffee3",
+                  "id": "3125",
+                  "name": "Linux Kernel Debugging: Leverage proven tools and advanced techniques to effectively debug Linux kernels and kernel modules : Kaiwan N Billimoria: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Kaiwan-N-Billimoria/dp/1801075034/ref=pd_bxgy_thbs_d_sccl_1/258-9136073-0136722?pd_rd_w=QhyKd&content-id=amzn1.sym.d6531279-1f86-4ae1-b1f7-8ab9db04b1a0&pf_rd_p=d6531279-1f86-4ae1-b1f7-8ab9db04b1a0&pf_rd_r=MPZGR3429T1K02S72062&pd_rd_wg=SF4VU&pd_rd_r=da1a7f4b-2103-4fbf-9e2a-5386fd94fb1a&pd_rd_i=1801075034&psc=1"
+               }, {
+                  "date_added": "13366587292695255",
+                  "date_last_used": "0",
+                  "guid": "16c81c57-ba9b-4c85-a269-5fa8211d936b",
+                  "id": "3126",
+                  "name": "UNIX and Linux System Administration Handbook : Nemeth, Evi, Snyder, Garth, Hein, Trent R., Whaley, Ben, Mackin, Dan: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Evi-Nemeth/dp/0134277554/ref=pd_sbs_d_sccl_3_6/258-9136073-0136722?pd_rd_w=2prpV&content-id=amzn1.sym.f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_p=f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_r=CHZ775KC7BQ3KXTDDEFS&pd_rd_wg=TwkE4&pd_rd_r=8c45acf0-811c-4bd8-8954-c05cc5dc4918&pd_rd_i=0134277554&psc=1"
+               }, {
+                  "date_added": "13366587292695584",
+                  "date_last_used": "0",
+                  "guid": "3caa2f2a-55eb-427d-9feb-decd310c988c",
+                  "id": "3127",
+                  "name": "Mastering Linux Security and Hardening: A practical guide to protecting your Linux system from cyber attacks, 3rd Edition : Tevault, Donald A.: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/dp/1837630518/ref=sspa_dk_detail_6?psc=1&pd_rd_i=1837630518&pd_rd_w=BKC4e&content-id=amzn1.sym.8e111585-a10f-40a4-b92c-c1e3c49654ce&pf_rd_p=8e111585-a10f-40a4-b92c-c1e3c49654ce&pf_rd_r=ZVP1M4V79N21EMBEBEV9&pd_rd_wg=9la1C&pd_rd_r=55c927c4-7bf4-4686-801e-27af84c509ed&s=books-intl-de&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy"
+               }, {
+                  "date_added": "13366587292695885",
+                  "date_last_used": "0",
+                  "guid": "47c923da-6f22-4078-beb6-e78b8f8c060f",
+                  "id": "3128",
+                  "name": "Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali : OccupyTheWeb: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/OccupyTheWeb/dp/1593278551/ref=cm_cr_arp_d_product_top?ie=UTF8"
+               }, {
+                  "date_added": "13366587292696059",
+                  "date_last_used": "0",
+                  "guid": "2e679fd8-c302-40a3-b5ac-a53d374c6f7a",
+                  "id": "3129",
+                  "name": "Network Basics for Hackers: How Networks Work and How They Break : OccupytheWeb, Master: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Master-OccupytheWeb/dp/B0BS3GZ1R9/ref=bmx_dp_rfc8jujo_d_sccl_3_2/258-9136073-0136722?pd_rd_w=lQDlB&content-id=amzn1.sym.744c8eeb-2fd6-418e-b756-dbd0058faf03&pf_rd_p=744c8eeb-2fd6-418e-b756-dbd0058faf03&pf_rd_r=3AWHRZ4QF898785CQBT5&pd_rd_wg=aFYeE&pd_rd_r=2569da0b-d823-4e8e-84be-881dcaa7d04d&pd_rd_i=B0BS3GZ1R9&psc=1"
+               }, {
+                  "date_added": "13366587292696293",
+                  "date_last_used": "0",
+                  "guid": "374a21b0-6e9d-42d3-b644-b4461133ca96",
+                  "id": "3130",
+                  "name": "Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century! (Linux Basics for Hackers, Band 2) : Occupytheweb: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Occupytheweb/dp/1711729299/ref=pd_bxgy_thbs_d_sccl_1/258-9136073-0136722?pd_rd_w=MZOCC&content-id=amzn1.sym.d6531279-1f86-4ae1-b1f7-8ab9db04b1a0&pf_rd_p=d6531279-1f86-4ae1-b1f7-8ab9db04b1a0&pf_rd_r=BRD0NDXSV4N49KW5B1K4&pd_rd_wg=tEOm2&pd_rd_r=34f91d61-f35a-4603-a2a0-44219578229a&pd_rd_i=1711729299&psc=1"
+               }, {
+                  "date_added": "13366587292696562",
+                  "date_last_used": "0",
+                  "guid": "eb5765c1-4ac9-4561-aac0-31dcc041ccb6",
+                  "id": "3131",
+                  "name": "Hacking: The Art of Exploitation : Erickson, Jon: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Jon-Erickson/dp/1593271441/ref=bmx_dp_rj5uv6qn_d_sccl_2_5/258-9136073-0136722?pd_rd_w=9VgOq&content-id=amzn1.sym.744c8eeb-2fd6-418e-b756-dbd0058faf03&pf_rd_p=744c8eeb-2fd6-418e-b756-dbd0058faf03&pf_rd_r=V9DG0VYPJCV118Z58937&pd_rd_wg=5nHjE&pd_rd_r=c9a820d7-460a-415d-9c8f-9b29bc247ca0&pd_rd_i=1593271441&psc=1"
+               }, {
+                  "date_added": "13366587292696799",
+                  "date_last_used": "0",
+                  "guid": "d4518be6-51e3-4ee0-8107-f244521397db",
+                  "id": "3132",
+                  "name": "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws : Stuttard, Dafydd, Pinto, Marcus: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Dafydd-Stuttard/dp/1118026470/ref=pd_bxgy_thbs_d_sccl_1/258-9136073-0136722?pd_rd_w=5zgvY&content-id=amzn1.sym.d6531279-1f86-4ae1-b1f7-8ab9db04b1a0&pf_rd_p=d6531279-1f86-4ae1-b1f7-8ab9db04b1a0&pf_rd_r=XFFV4WPHK3J66DJDTE1G&pd_rd_wg=Pr0Ud&pd_rd_r=27077808-408f-4d27-9f01-337486bb6acc&pd_rd_i=1118026470&psc=1"
+               }, {
+                  "date_added": "13366587292697071",
+                  "date_last_used": "0",
+                  "guid": "9e0d2389-e721-4d6b-a1e9-1f8d74982c80",
+                  "id": "3133",
+                  "name": "The Hacker Playbook 3: Practical Guide To Penetration Testing : Kim, Peter: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Peter-Kim/dp/1980901759/ref=pd_sbs_d_sccl_3_1/258-9136073-0136722?pd_rd_w=R3XKG&content-id=amzn1.sym.f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_p=f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_r=XFFV4WPHK3J66DJDTE1G&pd_rd_wg=Pr0Ud&pd_rd_r=27077808-408f-4d27-9f01-337486bb6acc&pd_rd_i=1980901759&psc=1"
+               }, {
+                  "date_added": "13366587292697292",
+                  "date_last_used": "0",
+                  "guid": "1b58c617-c49b-41f3-8dd7-cdb480a966d9",
+                  "id": "3134",
+                  "name": "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws : Stuttard, Dafydd, Pinto, Marcus: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Dafydd-Stuttard/dp/1118026470/ref=pd_sbs_d_sccl_3_6/258-9136073-0136722?pd_rd_w=R3XKG&content-id=amzn1.sym.f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_p=f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_r=XFFV4WPHK3J66DJDTE1G&pd_rd_wg=Pr0Ud&pd_rd_r=27077808-408f-4d27-9f01-337486bb6acc&pd_rd_i=1118026470&psc=1"
+               }, {
+                  "date_added": "13366587292697510",
+                  "date_last_used": "0",
+                  "guid": "d52b4498-4ea7-4f85-a48e-9fac08bf2467",
+                  "id": "3135",
+                  "name": "Hacking Exposed 7: Network Security Secrets & Solutions : Kurtz, George, Scambray, Joel, McClure, Stuart: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/George-Kurtz/dp/0071780289/ref=pd_bxgy_thbs_d_sccl_1/258-9136073-0136722?pd_rd_w=FlboC&content-id=amzn1.sym.d6531279-1f86-4ae1-b1f7-8ab9db04b1a0&pf_rd_p=d6531279-1f86-4ae1-b1f7-8ab9db04b1a0&pf_rd_r=9EZT5WWACA3D6DQDQ8KM&pd_rd_wg=9UZP7&pd_rd_r=b709119a-52da-4ca1-9d60-9ee2894302d0&pd_rd_i=0071780289&psc=1"
+               }, {
+                  "date_added": "13366587292697743",
+                  "date_last_used": "0",
+                  "guid": "be59f15d-6b82-4a92-8b16-89331708579f",
+                  "id": "3136",
+                  "name": "Ultimate Penetration Testing with Nmap: Master Cybersecurity Assessments for Network Security, Monitoring, and Scanning Using Nmap (English Edition) : DeForge, Travis: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/dp/8197081867/ref=sspa_dk_detail_6?psc=1&pd_rd_i=8197081867&pd_rd_w=wl3rd&content-id=amzn1.sym.6ffc9ff7-fa31-49da-8594-196e74bcf61e&pf_rd_p=6ffc9ff7-fa31-49da-8594-196e74bcf61e&pf_rd_r=P2W9BSAJ03PWV68AS9XX&pd_rd_wg=zy3NW&pd_rd_r=f5ce2ee0-74d5-40b4-b059-b5c8746519a3&s=books-intl-de&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw"
+               }, {
+                  "date_added": "13366587292697989",
+                  "date_last_used": "0",
+                  "guid": "6680ef94-3eac-4ca2-a844-00af5d59992e",
+                  "id": "3137",
+                  "name": "Hacking APIs: Breaking Web Application Programming Interfaces : Ball, Corey J.: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Corey-J-Ball/dp/1718502443/ref=pd_sbs_d_sccl_2_4/258-9136073-0136722?pd_rd_w=M7F2Z&content-id=amzn1.sym.f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_p=f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_r=P2W9BSAJ03PWV68AS9XX&pd_rd_wg=zy3NW&pd_rd_r=f5ce2ee0-74d5-40b4-b059-b5c8746519a3&pd_rd_i=1718502443&psc=1"
+               }, {
+                  "date_added": "13366587292698214",
+                  "date_last_used": "0",
+                  "guid": "d8b39c3b-0f51-47de-85c0-d6b69e28811e",
+                  "id": "3138",
+                  "name": "The Hacker Playbook: Practical Guide To Penetration Testing : Kim, Peter: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Peter-Kim/dp/1494932636/ref=pd_vtp_h_pd_vtp_h_d_sccl_3/258-9136073-0136722?pd_rd_w=4u0uT&content-id=amzn1.sym.09878bf4-d830-4bd8-80b8-f712ac9b230b&pf_rd_p=09878bf4-d830-4bd8-80b8-f712ac9b230b&pf_rd_r=66QR56SDQXRWB61FS9B3&pd_rd_wg=intNj&pd_rd_r=a2bf0869-93db-41b0-b411-3960a91099fc&pd_rd_i=1494932636&psc=1"
+               }, {
+                  "date_added": "13366587292698452",
+                  "date_last_used": "0",
+                  "guid": "e3cacd45-20f3-434b-98d4-a3f4a3f6812b",
+                  "id": "3139",
+                  "name": "Hacking: The Art of Exploitation : Erickson, Jon: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Jon-Erickson/dp/1593271441/ref=pd_sbs_d_sccl_2_3/258-9136073-0136722?pd_rd_w=M7F2Z&content-id=amzn1.sym.f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_p=f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_r=P2W9BSAJ03PWV68AS9XX&pd_rd_wg=zy3NW&pd_rd_r=f5ce2ee0-74d5-40b4-b059-b5c8746519a3&pd_rd_i=1593271441&psc=1"
+               }, {
+                  "date_added": "13366587292698652",
+                  "date_last_used": "0",
+                  "guid": "7b5f3285-242c-4db9-b3bf-fb18f0671762",
+                  "id": "3140",
+                  "name": "The TCP/IP-Guide: A Comprehensive, Illustrated Internet Protocols Reference : Kozierok, Charles M: Amazon.de: Books",
+                  "type": "url",
+                  "url": "https://www.amazon.de/-/en/Charles-M-Kozierok/dp/159327047X/ref=pd_sbs_d_sccl_3_25/258-9136073-0136722?pd_rd_w=c3Y2p&content-id=amzn1.sym.f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_p=f21ac083-61df-454e-aa6b-f34c98eb37f2&pf_rd_r=2Z11ZMTVP0YRRW0WZN5X&pd_rd_wg=WlKEX&pd_rd_r=c488eceb-380b-483e-baa9-ecd004cda9e4&pd_rd_i=159327047X&psc=1"
+               } ],
+               "date_added": "13366587292693543",
+               "date_last_used": "0",
+               "date_modified": "13366587292698652",
+               "guid": "508cf778-2a16-4614-85bf-fbf261fb5078",
+               "id": "3121",
+               "name": "New folder",
+               "type": "folder"
+            } ],
+            "date_added": "13366587267680180",
+            "date_last_used": "0",
+            "date_modified": "13366649716053319",
+            "guid": "3d96755e-5a7a-420e-9ee4-856ff08b45dc",
+            "id": "3120",
+            "name": "linux-kernel-security-hacking-books",
+            "type": "folder"
          } ],
          "date_added": "13352726830528309",
          "date_last_used": "0",
-         "date_modified": "13359376152155425",
+         "date_modified": "13366719096087330",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
       },
       "other": {
-         "children": [ {
-            "children": [  ],
-            "date_added": "13355490474024228",
-            "date_last_used": "0",
-            "date_modified": "13355658863974741",
-            "guid": "28f27dc8-4f74-4b80-b739-72849bc2e401",
-            "id": "265",
-            "name": "bookmark-after-malicious-site-from-freebsd-forum-test",
-            "type": "folder"
-         } ],
+         "children": [  ],
          "date_added": "13352726830528311",
          "date_last_used": "0",
          "date_modified": "13356687368485557",
