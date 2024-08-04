@@ -24,3 +24,5 @@ git checkout $(git branch -a | fzf)
 git log | fzf --reverse
 history | fzf --reverse 
 slock
+$DOTFILES_HOME/bin/tmux/tmux-ngr-home.sh
+$WAVELY_HOME/bin/tmux-setup.sh
