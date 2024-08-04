@@ -23,3 +23,4 @@ git branch -a | fzf
 git checkout $(git branch -a | fzf)
 git log | fzf --reverse
 history | fzf --reverse 
+slock
