@@ -1,5 +1,5 @@
 {
-   "checksum": "5ea3ab82022838b0794aeec152ab2b0d",
+   "checksum": "1d05c304c61c66fa57ee0cd9bfdba60d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4288,7 +4288,7 @@
                   } ],
                   "date_added": "13356353949420495",
                   "date_last_used": "0",
-                  "date_modified": "13367268696323326",
+                  "date_modified": "13367275455025884",
                   "guid": "32d56bb0-b377-4320-a2c9-5df0811c7679",
                   "id": "710",
                   "name": "fzf",
@@ -4599,6 +4599,15 @@
                   "guid": "fddf984a-c86e-4bb8-be48-599b779e2d26",
                   "id": "3280",
                   "name": "fd",
+                  "type": "folder"
+               }, {
+                  "children": [  ],
+                  "date_added": "13367275472818570",
+                  "date_last_used": "0",
+                  "date_modified": "13367276146781147",
+                  "guid": "d13c7f0e-a26a-4311-894e-0d70f419dd51",
+                  "id": "3296",
+                  "name": "git",
                   "type": "folder"
                } ],
                "date_added": "13356353949419808",
@@ -20999,7 +21008,7 @@
                   "url": "https://github.com/junegunn/fzf.vim/issues/346"
                }, {
                   "date_added": "13367261679912920",
-                  "date_last_used": "13367265536905468",
+                  "date_last_used": "13367276271092537",
                   "guid": "1a6b716b-4146-405d-90cf-5dc8fc80dc2b",
                   "id": "3288",
                   "name": "How to search faster in Vim with FZF.vim - DEV Community",
@@ -21015,7 +21024,7 @@
                   "url": "https://github.com/junegunn/fzf.vim/issues/346"
                }, {
                   "date_added": "13367261679913285",
-                  "date_last_used": "13367265536956589",
+                  "date_last_used": "13367276287391863",
                   "guid": "5b81cc41-12cc-4845-a6b4-6698ea29fb30",
                   "id": "3290",
                   "name": "Nvim + FZF from Terminal - DEV Community",
@@ -21045,10 +21054,43 @@
                   "name": "E684: list index out of range: 0 · Issue #462 · junegunn/fzf.vim",
                   "type": "url",
                   "url": "https://github.com/junegunn/fzf.vim/issues/462"
+               }, {
+                  "date_added": "13367276146781147",
+                  "date_last_used": "13367276299620564",
+                  "guid": "49297fb9-5e06-424d-9bed-8411764ec4c3",
+                  "id": "3298",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "vimFzf-Rg/myfunctions.sh at master · manofthelionarmy/vimFzf-Rg",
+                  "type": "url",
+                  "url": "https://github.com/manofthelionarmy/vimFzf-Rg/blob/master/myfunctions.sh"
+               }, {
+                  "date_added": "13367275762304857",
+                  "date_last_used": "13367276271961104",
+                  "guid": "4ac7184b-e7d2-44f5-9641-0f7e8ead64fc",
+                  "id": "3297",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "dotfiles/scripts at main · exosyphon/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/exosyphon/dotfiles/tree/main/scripts"
+               }, {
+                  "date_added": "13367275439209320",
+                  "date_last_used": "13367276425361564",
+                  "guid": "d1c03735-b347-4072-803e-96a543c0588b",
+                  "id": "3295",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Search Git Branches and Commits Using fzf - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=-B5MTJXW-vA"
                } ],
                "date_added": "13367261614810579",
                "date_last_used": "0",
-               "date_modified": "13367268773807644",
+               "date_modified": "13367276171322902",
                "guid": "3f88ce48-c861-4030-96c6-4bc2b6ce2def",
                "id": "3282",
                "name": "ripgrep2",
