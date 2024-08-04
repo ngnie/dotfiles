@@ -144,7 +144,7 @@ export DISABLE_FZF_KEY_BINDINGS="false"
 #
 # Trying out fd with fzf: https://github.com/junegunn/fzf/issues/1398
 #
-FD_OPTIONS="--follow --exclude .git --exclude target --exclude node_modules --exclude .settings --exclude .classpath --exclude .project --exclude cache "
+export FD_OPTIONS="--follow --exclude .git --exclude target --exclude node_modules --exclude .settings --exclude .classpath --exclude .project --exclude cache "
 export FZF_DEFAULT_COMMAND="fd --type f --type l --strip-cwd-prefix --hidden $FD_OPTIONS"
 export FZF_CTRL_T_COMMAND="fd $FD_OPTIONS"
 export FZF_ALT_C_COMMAND="fd --type d $FD_OPTIONS"
@@ -152,7 +152,7 @@ export FZF_ALT_C_COMMAND="fd --type d $FD_OPTIONS"
 #export FZF_DEFAULT_OPTS="--height=80% --layout=reverse --info=inline --preview 'bat -n --color=always {}'"
 export FZF_DEFAULT_OPTS="
   --layout=reverse
-  --height=80%
+  --height=90%
   --info=inline
   --multi
   --preview 'bat -n --color=always {}'
