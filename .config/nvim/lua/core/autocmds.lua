@@ -89,16 +89,8 @@ vim.cmd([[
 
 vim.cmd([[
   "command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
-  command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
+  "command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
+  command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, fzf#vim#with_preview(), <bang>0)
 ]])
-
-
-
-
-
-
-
-
-
 
 --vim.lsp.set_log_level("debug")

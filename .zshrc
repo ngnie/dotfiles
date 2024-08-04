@@ -151,6 +151,8 @@ export FZF_ALT_C_COMMAND="fd --type d $FD_OPTIONS"
 #
 #export FZF_DEFAULT_OPTS="--height=80% --layout=reverse --info=inline --preview 'bat -n --color=always {}'"
 export FZF_DEFAULT_OPTS="
+  --layout=reverse
+  --height=80%
   --info=inline
   --multi
   --preview 'bat -n --color=always {}'
