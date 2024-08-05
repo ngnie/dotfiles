@@ -139,8 +139,20 @@ alias pbselect='xclip -selection primary -o'   # paste from highlight: middle cl
 
 export DISABLE_FZF_AUTO_COMPLETION="false"
 export DISABLE_FZF_KEY_BINDINGS="false"
+#export FZF_DEFAULT_COMMAND='find . -type f ! -path "*git*" ! -path "*cache*"'
+#export FZF_DEFAULT_COMMAND='rg --files --no-ignore-vcs --hidden'
+#
+# Trying out fd with fzf: https://github.com/junegunn/fzf/issues/1398
+#
+export FD_OPTIONS="--follow --exclude .git --exclude target --exclude node_modules --exclude .settings --exclude .classpath --exclude .project --exclude cache "
+export FZF_DEFAULT_COMMAND="fd --type f --type l --strip-cwd-prefix --hidden $FD_OPTIONS"
+export FZF_CTRL_T_COMMAND="fd $FD_OPTIONS"
+export FZF_ALT_C_COMMAND="fd --type d $FD_OPTIONS"
+#
 #export FZF_DEFAULT_OPTS="--height=80% --layout=reverse --info=inline --preview 'bat -n --color=always {}'"
 export FZF_DEFAULT_OPTS="
+  --layout=reverse
+  --height=90%
   --info=inline
   --multi
   --preview 'bat -n --color=always {}'
@@ -149,11 +161,10 @@ export FZF_DEFAULT_OPTS="
   --bind 'ctrl-y:execute-silent(cat {+f} | xclip -selection clipboard)'
   --bind 'ctrl-e:execute(echo {+} | xargs -o $EDITOR)'
 "
-export FZF_DEFAULT_COMMAND='find . -type f ! -path "*git*" ! -path "*cache*"'
 
 export REPOS_HOME=/home/nikolaj/ngr/engineer/repos
 export DOTFILES_HOME=$REPOS_HOME/dotfiles
-export NOTES_HOME=$REPOS_HOME/dotfiles
+export NOTES_HOME=$REPOS_HOME/notes
 export TODO_HOME=/home/nikolaj/ngr/todo
 export EDITOR=/usr/bin/nvim
 #export LF_HOME=/opt/lf
@@ -171,7 +182,6 @@ alias cmd='print -z $(cat $DOTFILES_HOME/commands.txt | fzf)'
 alias lf='lfcd'
 alias pdf='zathura'
 alias lg='lazygit'
-
 
 alias make_package='mvn package -DskipTests'
 alias make_test='mvn test'

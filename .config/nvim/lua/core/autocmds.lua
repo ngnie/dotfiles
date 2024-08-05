@@ -22,7 +22,7 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 
 function _G.set_terminal_keymaps()
   local opts = {buffer = 0}
-  vim.keymap.set('t', '<s-esc>', [[<C-\><C-n>]], opts)
+  vim.keymap.set('t', '<S-Esc>', [[<C-\><C-n>]], opts)
   vim.keymap.set('t', '<C-h>', [[<Cmd>wincmd h<CR>]], opts)
   vim.keymap.set('t', '<C-j>', [[<Cmd>wincmd j<CR>]], opts)
   vim.keymap.set('t', '<C-k>', [[<Cmd>wincmd k<CR>]], opts)
@@ -35,7 +35,14 @@ end
 vim.cmd('autocmd! TermOpen term://*toggleterm#* lua set_terminal_keymaps()')
 
 vim.cmd([[
-  let g:fzf_action = { "ctrl-h": "split", "ctrl-v": "vsplit" }
+  function! s:copy_results(lines)
+    let joined_lines = join(a:lines, "\n")
+    if len(a:lines) > 1
+      let joined_lines .= "\n"
+    endif
+    let @+ = joined_lines
+  endfunction
+  let g:fzf_action = { "ctrl-h": "split", "ctrl-v": "vsplit", "ctrl-y": function('s:copy_results') }
 ]])
 
 vim.cmd([[
@@ -52,5 +59,56 @@ vim.cmd([[
   autocmd BufLeave * set nocursorline
 ]])
 
+vim.cmd([[
+  command! -bang -nargs=? -complete=dir Files2 call fzf#vim#files(<q-args>, <bang>0)
+]])
+
+vim.cmd([[
+
+  " Please note, this is beta...
+
+  "let $FZF_DEFAULT_COMMAND='rg --files'
+  "let $FZF_DEFAULT_OPTS='-m --height 50% --border'
+
+  "let $FZF_DEFAULT_COMMAND = 'rg --files --hidden' " use ripgrep as the default searcher
+  "let $FZF_DEFAULT_COMMAND = 'find . -type f -name "*.java"' " use ripgrep as the default searcher
+  "nmap <Leader>pf :FZF<CR>
+  "echo $FZF_DEFAULT_COMMAND
+]])
+
+vim.cmd([[
+
+  " Please note, this is beta...
+
+  command! -bang -nargs=* Rg2
+    \ call fzf#vim#grep('rg --column --no-heading --line-number --color=always '.shellescape(<q-args>),
+    \ 1,
+    \ fzf#vim#with_preview(),
+    \ <bang>0)
+]])
+
+vim.cmd([[
+
+  " Please note, this is beta...
+
+  " A rg that works with preview. Note that filenames that match the search are also in the result (annoying)
+  let g:files_command = 'rg --column --line-number --fixed-strings --ignore-case --hidden --follow --color "always" --glob "!.git/" --glob "!target" --glob "!node_modules" --glob "!.settings" --glob "!.classpath" --glob "!.project" --glob "!cache" '
+  "working: command! -bang -nargs=* Rg3 call fzf#vim#grep(g:files_command .shellescape(<q-args>), 1, <bang>0 ? fzf#vim#with_preview('up:80%') : fzf#vim#with_preview('right:50%', '?'), <bang>0)
+  let g:fzf_layout = { 'window': { 'width': 0.9, 'height': 0.9 } }
+  command! -bang -nargs=* Rg3 call fzf#vim#grep(g:files_command .shellescape(<q-args>), 1, fzf#vim#with_preview(), <bang>0)
+]])
+
+vim.cmd([[
+
+  " Please note, this is beta...
+
+  " A version to remove filenames that has rg match.
+  "original command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
+  "adding filters  command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
+  " Trying to add previw:
+
+  command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, fzf#vim#with_preview(), <bang>0)
+  " note that for this to work, use let $FZF_DEFAULT_COMMAND='rg --files'
+]])
 
 --vim.lsp.set_log_level("debug")

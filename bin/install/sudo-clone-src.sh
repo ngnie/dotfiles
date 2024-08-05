@@ -3,6 +3,7 @@
 DWM_HOME=/usr/local/src/dwm
 SLSTATUS_HOME=/usr/local/src/slstatus
 DMENU_HOME=/usr/local/src/dmenu
+SLOCK_HOME=/usr/local/src/slock
 
 if [ -d $DWM_HOME ]; then
   echo "Folder $DWM_HOME already exist."
@@ -26,4 +27,12 @@ else
   mkdir -p $DMENU_HOME
   cd $DMENU_HOME
   git clone git://git.suckless.org/dmenu .
+fi
+
+if [ -d $SLOCK_HOME ]; then
+  echo "Folder $SLOCK_HOME already exist."
+else
+  mkdir -p $SLOCK_HOME
+  cd $SLOCK_HOME
+  git clone git://git.suckless.org/slock .
 fi

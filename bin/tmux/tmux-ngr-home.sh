@@ -17,4 +17,4 @@ tmux send-keys -t $session:2 '$NOTES_HOME' C-m
 
 # make notes windows
 tmux new-window -t $session:3 -n 'todo'
-tmux send-keys -t $session:3 'cd $NOTES_HOME' C-m
+tmux send-keys -t $session:3 'cd $TODO_HOME' C-m
