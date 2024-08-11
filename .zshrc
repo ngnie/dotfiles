@@ -188,6 +188,7 @@ alias make_install='mvn install -DskipTests'
 alias make_dependency_tree='mvn dependency:tree'
 alias make_effective_pom='mvn help:effective-pom -Dverbose=true'
 alias make_dependency_tree_includes='mvn dependency:tree -Dincludes=org.postgresql:postgresql'
+alias lfsplit='tmux split -h lf; lf'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
