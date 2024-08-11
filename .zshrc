@@ -167,13 +167,14 @@ export DOTFILES_HOME=$REPOS_HOME/dotfiles
 export NOTES_HOME=$REPOS_HOME/notes
 export TODO_HOME=/home/nikolaj/ngr/todo
 export EDITOR=/usr/bin/nvim
-export LF_HOME=/opt/lf
-export JAVA_HOME=/home/nikolaj/.sdkman/candidates/java/21.0.2-tem
+#export LF_HOME=/opt/lf
+#export JAVA_HOME=/home/nikolaj/.sdkman/candidates/java/21.0.2-tem
 export WAVELY_HOME=/home/nikolaj/ngr/work/customer/greenwave
 export WAVELY_REPOS=$WAVELY_HOME/repos/wavely
 export WAVELY_REACT_REPOS=$WAVELY_HOME/repos/wavely-web-react
 export POSTMAN_HOME=/opt/postman 
-export PATH=$PATH:$LF_HOME:$JAVA_HOME:$POSTMAN_HOME
+#export PATH=$PATH:$LF_HOME:$JAVA_HOME:$POSTMAN_HOME
+export PATH=$PATH:$POSTMAN_HOME
 
 source $DOTFILES_HOME/bin/lfcd.sh
 
