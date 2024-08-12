@@ -26,3 +26,12 @@ history | fzf --reverse
 slock
 $DOTFILES_HOME/bin/tmux/tmux-ngr-home.sh
 $WAVELY_HOME/bin/tmux-setup.sh
+sudo dpkg -i name
+sudo docker exec -it name sh
+sudo docker container ls
+sudo docker exec -it $(sudo docker ps --format '{{.Names}}' | fzf) sh
+sudo docker ps -a --format '{{.Names}}' | fzf
+sudo docker ps -a
+sudo docker rm -f $(sudo docker ps -a --format '{{.Names}}' | fzf)
+sudo docker logs -tf $(sudo docker ps -a --format '{{.Names}}' | fzf)
+sudo docker logs -t $(sudo docker ps -a --format '{{.Names}}' | fzf)
