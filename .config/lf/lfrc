@@ -22,15 +22,21 @@ cmd fzf_rg ${{
     [ -n "$res" ] && lf -remote "send $id select \"$res\""
 }}
 
-cmd yank_path ${{
+cmd yank_path2 ${{
   set -f
   readlink -f $f | tr -d '\n' | xclip -selection clipboard
 }}
 
-cmd yank_filename ${{
+cmd yank_filename2 ${{
   set -f
   basename "$(readlink -f "$f")" | tr -d '\n' | xclip -selection clipboard
 }}
+
+cmd yank_path $printf '%s' "$f" | xclip -i -selection clipboard
+cmd yank_selections $printf '%s' "$fx" | xclip -i -selection clipboard
+cmd yank_pwd &printf '%s' "$PWD" | xclip -i -selection clipboard
+cmd yank_name &basename -a -- $fx | head -c-1 | xclip -i -selection clipboard
+cmd yank-basename-without-extension &basename -a -- $fx | sed -E 's/\.[^.]+$//' | head -c-1 | xclip -i -selection clipboard
 
 map . set hidden!
 map gj :fzf_find
@@ -38,5 +44,9 @@ map gl :fzf_rg
 
 map y
 map yy copy
+
 map yp yank_path
-map yn yank_filename
+map ysel yank_selections
+map ypwd yank_pwd
+map yfn yank_name
+map ybn yank-basename-without-extension
