@@ -64,6 +64,13 @@ local function attach_to_debug()
 
 end
 
+local function bufOnly()
+  vim.cmd [[%bdelete|edit #|normal`"]]
+end
+
+vim.keymap.set('n', '<leader>bo', function() bufOnly() end, { desc = 'Delete other buffers but current' })
+
+
 vim.keymap.set('n', '<leader>db', ':lua require"dap".toggle_breakpoint()<cr>', { desc = 'Debug toggle breakpoint' })
 vim.keymap.set('n', '<leader>da', function() attach_to_debug() end, { desc = 'Debug attach' })
 vim.keymap.set('n', '<leader>ds', function() debug_open_centered_scopes() end, { desc = 'Debug centered scopes' })

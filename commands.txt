@@ -35,3 +35,4 @@ sudo docker ps -a
 sudo docker rm -f $(sudo docker ps -a --format '{{.Names}}' | fzf)
 sudo docker logs -tf $(sudo docker ps -a --format '{{.Names}}' | fzf)
 sudo docker logs -t $(sudo docker ps -a --format '{{.Names}}' | fzf)
+/opt/idea-IU-242.20224.387/bin/idea.sh
