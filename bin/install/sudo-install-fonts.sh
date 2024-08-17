@@ -1,7 +1,7 @@
 #!/bin/sh
 
 CURRENT_FOLDER=.
-TTF_HOME=/usr/share/fonts/TTF
+TTF_HOME=/usr/local/share/fonts/meslo
 TMP_HOME=/var/tmp
 
 if [ ! -d $TTF_HOME ]; then
@@ -29,3 +29,4 @@ mv *.ttf $TTF_HOME
 cd $CURRENT_FOLDER
 
 echo "Fonts moved into $TTF_HOME"
+
