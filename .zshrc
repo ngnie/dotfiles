@@ -167,20 +167,24 @@ export REPOS_HOME=/home/nikolaj/ngr/engineer/repos
 export DOTFILES_HOME=$REPOS_HOME/dotfiles
 export NOTES_HOME=$REPOS_HOME/notes
 export TODO_HOME=/home/nikolaj/ngr/todo
+export SRC_HOME=/home/nikolaj/.local/src
 export EDITOR=/usr/bin/nvim
 export WAVELY_HOME=/home/nikolaj/ngr/work/customer/greenwave
 export WAVELY_REPOS=$WAVELY_HOME/repos/wavely
 export WAVELY_REACT_REPOS=$WAVELY_HOME/repos/wavely-web-react
 export POSTMAN_HOME=/opt/postman 
-export PATH=$PATH:$POSTMAN_HOME
+export DIFF_SO_FANCY_HOME=$SRC_HOME/diff-so-fancy
+export PATH=$PATH:$DOTFILES_HOME/bin:$DIFF_SO_FANCY_HOME:$POSTMAN_HOME
 
+# sourcing functions
 source $DOTFILES_HOME/bin/lfcd.sh
+source $DOTFILES_HOME/bin/git-functions.sh
 
+# aliases
 alias cmd='print -z $(cat $DOTFILES_HOME/commands.txt | fzf)'
 alias lf='lfcd'
 alias pdf='zathura'
 alias lg='lazygit'
-
 alias make_package='mvn package -DskipTests'
 alias make_test='mvn test'
 alias make_install='mvn install -DskipTests'

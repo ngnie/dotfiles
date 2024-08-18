@@ -25,6 +25,7 @@ vim.opt.ignorecase = true
 vim.opt.smartcase = true
 
 vim.opt.autoread = true
+vim.opt.autowriteall = true
 vim.opt.modifiable = true
 -- vim.opt.buftype =
 vim.opt.encoding = "utf8"
