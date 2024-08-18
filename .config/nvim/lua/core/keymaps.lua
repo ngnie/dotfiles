@@ -5,8 +5,8 @@ vim.keymap.set("i", "ii", "<Esc>", { desc = "Esc" })
 vim.keymap.set("n", "Y", "y$")
 
 -- Shift + Enter and Shift + Ctrl has special handing in alacritty.toml
-vim.keymap.set("n", "<CR>", "O<Esc>j")
-vim.keymap.set("n", "<S-CR>", "o<Esc>k")
+vim.keymap.set("n", "<S-CR>", "O<Esc>j")
+vim.keymap.set("n", "<CR>", "o<Esc>k")
 
 -- ThePrimeagen - block move
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
