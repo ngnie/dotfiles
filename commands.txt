@@ -42,4 +42,5 @@ git stash show
 git stash show -p
 docker stop $(docker ps -a -q)
 docker rm $(docker ps -a -q)
-git status | grep modified | grep .java | sed -e 's/^[[:space:]]*//' | sed -e 's/modified:  //' 
+git status | grep modified | grep .java | sed -e 's/^[[:space:]]*//' | sed -e 's/modified:  //'
+sudo dd if= of=/dev/ bs=1M status=progress //add
