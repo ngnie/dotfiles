@@ -66,7 +66,7 @@ vim.cmd([[
 
 vim.cmd([[
 
-  " Please note, this is beta...
+  " This is beta...
 
   "let $FZF_DEFAULT_COMMAND='rg --files'
   "let $FZF_DEFAULT_OPTS='-m --height 50% --border'
@@ -77,39 +77,15 @@ vim.cmd([[
   "echo $FZF_DEFAULT_COMMAND
 ]])
 
-vim.cmd([[
-
-  " Please note, this is beta...
-
-  command! -bang -nargs=* Rg2
-    \ call fzf#vim#grep('rg --column --no-heading --line-number --color=always '.shellescape(<q-args>),
-    \ 1,
-    \ fzf#vim#with_preview(),
-    \ <bang>0)
-]])
 
 vim.cmd([[
+  " This is work in progress..
 
-  " Please note, this is beta...
-
-  " A rg that works with preview. Note that filenames that match the search are also in the result (annoying)
+  " An rg that works with preview. Note that filenames that match the search are also in the result (annoying)
   let g:files_command = 'rg --column --line-number --fixed-strings --ignore-case --hidden --follow --color "always" --glob "!.git/" --glob "!target" --glob "!node_modules" --glob "!.settings" --glob "!.classpath" --glob "!.project" --glob "!cache" '
   "working: command! -bang -nargs=* Rg3 call fzf#vim#grep(g:files_command .shellescape(<q-args>), 1, <bang>0 ? fzf#vim#with_preview('up:80%') : fzf#vim#with_preview('right:50%', '?'), <bang>0)
   let g:fzf_layout = { 'window': { 'width': 0.9, 'height': 0.9 } }
   command! -bang -nargs=* Rg3 call fzf#vim#grep(g:files_command .shellescape(<q-args>), 1, fzf#vim#with_preview(), <bang>0)
-]])
-
-vim.cmd([[
-
-  " Please note, this is beta...
-
-  " A version to remove filenames that has rg match.
-  "original command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
-  "adding filters  command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
-  " Trying to add previw:
-
-  command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, fzf#vim#with_preview(), <bang>0)
-  " note that for this to work, use let $FZF_DEFAULT_COMMAND='rg --files'
 ]])
 
 --vim.lsp.set_log_level("debug")
