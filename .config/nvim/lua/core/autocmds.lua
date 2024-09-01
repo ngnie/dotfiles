@@ -137,7 +137,6 @@ command! -bang -nargs=* Rg6 call fzf#vim#grep(
 ]])
 
 
--- Check this out too:
--- https://www.reddit.com/r/vim/comments/mb1dyx/fzf_questions/
+-- Check this out too: https://www.reddit.com/r/vim/comments/mb1dyx/fzf_questions/
 
 --vim.lsp.set_log_level("debug")
