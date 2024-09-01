@@ -5,5 +5,5 @@ feh --no-fehbg --bg-center ~/ngr/science/jameswebb/2022/52211564001_1781010d37_o
 picom &
 /usr/bin/pipewire &
 /usr/bin/pipewire-pulse &
+/usr/bin/wireplumber &
 dwm
-
