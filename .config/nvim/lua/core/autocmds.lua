@@ -88,4 +88,55 @@ vim.cmd([[
   command! -bang -nargs=* Rg3 call fzf#vim#grep(g:files_command .shellescape(<q-args>), 1, fzf#vim#with_preview(), <bang>0)
 ]])
 
+vim.cmd([[
+
+  " Please note, this is beta...
+
+  " A version to remove filenames that has rg match.
+  "original command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
+  "adding filters  command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, {'options': '--delimiter : --nth 4..'}, <bang>0)
+  " Trying to add previw:
+
+  command! -bang -nargs=* Rg4 call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case --glob '!.git/' --glob '!target' --glob '!node_modules' --glob '!.settings' --glob '!.classpath' --glob '!.project' --glob '!cache' ".shellescape(<q-args>), 1, fzf#vim#with_preview(), <bang>0)
+  " note that for this to work, use let $FZF_DEFAULT_COMMAND='rg --files'
+]])
+
+vim.cmd([[
+" From: https://thevaluable.dev/fzf-vim-integration/
+command! -bang -nargs=* Rg5 call fzf#run(fzf#wrap({
+    \ 'source': 'rg --column --line-number --no-heading --glob="!.git/*" '.shellescape(<q-args>),
+    \ 'sink': 'edit',
+    \ 'options': [
+                \ '--multi',
+                \ '--pointer', '→',
+                \ '--marker', '♡',
+                \ '--preview', 'cat {}',
+                \ '--preview-window', '50%,border-double,right']
+    \ },
+    \ <bang>0))
+]])
+
+
+vim.cmd([[
+" From: https://thevaluable.dev/fzf-vim-integration/
+" Overwrite :Rg from fzf.vim
+" Hit '?' to toggle the preview
+command! -bang -nargs=* Rg6 call fzf#vim#grep(
+  \   'rg
+        \ --column
+        \ --line-number
+        \ --no-heading
+        \ --fixed-strings
+        \ --ignore-case
+        \ --hidden
+        \ --follow
+        \ --glob "!.git/*"
+        \ --color "always" '.shellescape(<q-args>),
+  \   fzf#vim#with_preview('right:50%:hidden', '?'),
+  \   <bang>0)
+]])
+
+
+-- Check this out too: https://www.reddit.com/r/vim/comments/mb1dyx/fzf_questions/
+
 --vim.lsp.set_log_level("debug")
