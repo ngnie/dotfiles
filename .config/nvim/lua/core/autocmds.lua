@@ -112,4 +112,43 @@ vim.cmd([[
   " note that for this to work, use let $FZF_DEFAULT_COMMAND='rg --files'
 ]])
 
+vim.cmd([[
+" From: https://thevaluable.dev/fzf-vim-integration/
+command! -bang -nargs=* Rg5 call fzf#run(fzf#wrap({
+    \ 'source': 'rg --column --line-number --no-heading --glob="!.git/*" '.shellescape(<q-args>),
+    \ 'sink': 'edit',
+    \ 'options': [
+                \ '--multi',
+                \ '--pointer', '→',
+                \ '--marker', '♡',
+                \ '--preview', 'cat {}',
+                \ '--preview-window', '50%,border-double,right']
+    \ },
+    \ <bang>0))
+]])
+
+
+vim.cmd([[
+" From: https://thevaluable.dev/fzf-vim-integration/
+" Overwrite :Rg from fzf.vim
+" Hit '?' to toggle the preview
+command! -bang -nargs=* Rg6 call fzf#vim#grep(
+  \   'rg
+        \ --column
+        \ --line-number
+        \ --no-heading
+        \ --fixed-strings
+        \ --ignore-case
+        \ --hidden
+        \ --follow
+        \ --glob "!.git/*"
+        \ --color "always" '.shellescape(<q-args>),
+  \   fzf#vim#with_preview('right:50%:hidden', '?'),
+  \   <bang>0)
+]])
+
+
+-- Check this out too:
+-- https://www.reddit.com/r/vim/comments/mb1dyx/fzf_questions/
+
 --vim.lsp.set_log_level("debug")
