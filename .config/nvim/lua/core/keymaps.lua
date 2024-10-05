@@ -79,4 +79,4 @@ vim.keymap.set('n', '<leader>dr', ':lua require"dap".repl.open()<cr>', { desc = 
 vim.keymap.set('n', '<leader>dov', ':lua require"dap".step_over()<cr>', { desc = 'Debug step over' })
 vim.keymap.set('n', '<leader>din', ':lua require"dap".step_into()<cr>', { desc = 'Debug step into' })
 vim.keymap.set('n', '<leader>dou', ':lua require"dap".step_out()<cr>', { desc = 'Debug step out' })
-
+vim.keymap.set('n', '<leader>e', ':lua vim.lsp.diagnostic.show_line_diagnostics()<cr>', { desc = 'Show line diagnostic' })
