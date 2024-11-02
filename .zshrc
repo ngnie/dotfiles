@@ -175,7 +175,8 @@ export WAVELY_REACT_REPOS=$WAVELY_HOME/repos/wavely-web-react
 export POSTMAN_HOME=/opt/postman 
 export DIFF_SO_FANCY_HOME=$SRC_HOME/diff-so-fancy
 export LF_HOME=/opt/lf
-export PATH=$PATH:$LF_HOME:$DOTFILES_HOME/bin:$DIFF_SO_FANCY_HOME:$POSTMAN_HOME
+export IDEA_HOME=/opt/idea
+export PATH=$PATH:$LF_HOME:$DOTFILES_HOME/bin:$DIFF_SO_FANCY_HOME:$POSTMAN_HOME:$IDEA_HOME/bin
 
 # sourcing functions
 source $DOTFILES_HOME/bin/lfcd.sh
