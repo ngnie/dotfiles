@@ -167,6 +167,7 @@ export REPOS_HOME=/home/nikolaj/ngr/engineer/repos
 export DOTFILES_HOME=$REPOS_HOME/dotfiles
 export NOTES_HOME=$REPOS_HOME/notes
 export TODO_HOME=/home/nikolaj/ngr/todo
+export TRADING_HOME=/home/nikolaj/ngr/trading/saxobank
 export SRC_HOME=/home/nikolaj/.local/src
 export EDITOR=/usr/bin/nvim
 export WAVELY_HOME=/home/nikolaj/ngr/work/customer/greenwave

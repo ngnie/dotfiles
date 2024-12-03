@@ -46,3 +46,4 @@ git status | grep modified | grep .java | sed -e 's/^[[:space:]]*//' | sed -e 's
 sudo dd if= of=/dev/ bs=1M status=progress //add
 cat /sys/class/power_supply/BAT0/capacity
 find . -type d -name target | xargs rm -fr {} \;
+cal --year --week
