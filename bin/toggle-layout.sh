@@ -7,3 +7,4 @@ if [ $keyboard_layout = "us" ]; then
 else
   setxkbmap us
 fi
+

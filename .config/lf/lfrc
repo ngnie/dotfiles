@@ -41,6 +41,7 @@ cmd yank-basename-without-extension &basename -a -- $fx | sed -E 's/\.[^.]+$//' 
 map . set hidden!
 map gj :fzf_find
 map gl :fzf_rg
+map gR cd /home/nikolaj/ngr/virksomhed/regnskab/2023-2024
 
 map y
 map yy copy
@@ -50,3 +51,5 @@ map ysel yank_selections
 map ypwd yank_pwd
 map yfn yank_name
 map ybn yank-basename-without-extension
+
+
