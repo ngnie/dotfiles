@@ -2,7 +2,7 @@ return {
   "akinsho/toggleterm.nvim",
   lazy = false,
   keys = {
-    {"<c-r>", ":ToggleTerm size=40 direction=float<cr>", mode = "n", desc = "Open toggleterm in float mode" }
+    {"<leader>r", ":ToggleTerm size=40 direction=float<cr>", mode = "n", desc = "Open toggleterm in float mode" }
   },
   version = "*",
   config = function()
