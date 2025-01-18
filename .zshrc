@@ -182,6 +182,7 @@ export PATH=$PATH:$LF_HOME:$DOTFILES_HOME/bin:$DIFF_SO_FANCY_HOME:$POSTMAN_HOME:
 # sourcing functions
 source $DOTFILES_HOME/bin/lfcd.sh
 source $DOTFILES_HOME/bin/git-functions.sh
+source $DOTFILES_HOME/bin/reddit.sh
 
 # aliases
 alias cmd='print -z $(cat $DOTFILES_HOME/commands.txt | fzf)'

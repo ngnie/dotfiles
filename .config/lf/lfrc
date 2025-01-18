@@ -32,24 +32,24 @@ cmd yank_filename2 ${{
   basename "$(readlink -f "$f")" | tr -d '\n' | xclip -selection clipboard
 }}
 
-cmd yank_path $printf '%s' "$f" | xclip -i -selection clipboard
+cmd yank_path_and_file $printf '%s' "$f" | xclip -i -selection clipboard
 cmd yank_selections $printf '%s' "$fx" | xclip -i -selection clipboard
-cmd yank_pwd &printf '%s' "$PWD" | xclip -i -selection clipboard
-cmd yank_name &basename -a -- $fx | head -c-1 | xclip -i -selection clipboard
+cmd yank_path_only &printf '%s' "$PWD" | xclip -i -selection clipboard
+cmd yank_file_name &basename -a -- $fx | head -c-1 | xclip -i -selection clipboard
 cmd yank-basename-without-extension &basename -a -- $fx | sed -E 's/\.[^.]+$//' | head -c-1 | xclip -i -selection clipboard
 
 map . set hidden!
-map gj :fzf_find
-map gl :fzf_rg
-map gR cd /home/nikolaj/ngr/virksomhed/regnskab/2023-2024
+map gl :fzf_find
+map gk :fzf_rg
+map gR cd /home/nikolaj/ngr/virksomhed/regnskab
 
 map y
 map yy copy
 
-map yp yank_path
+map ypaf yank_path_and_file
 map ysel yank_selections
-map ypwd yank_pwd
-map yfn yank_name
+map ypo yank_path_only
+map yfn yank_file_name
 map ybn yank-basename-without-extension
 
 
