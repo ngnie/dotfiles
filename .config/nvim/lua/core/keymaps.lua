@@ -3,6 +3,7 @@ vim.keymap.set("i", "ii", "<Esc>", { desc = "Esc" })
 
 -- Make Y behave like C or D
 vim.keymap.set("n", "Y", "y$")
+vim.keymap.set("n", "V", "vg_")
 
 -- Shift + Enter and Shift + Ctrl has special handing in alacritty.toml
 vim.keymap.set("n", "<S-CR>", "O<Esc>j")
