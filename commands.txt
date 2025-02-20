@@ -19,6 +19,7 @@ fc-match -a
 fc-list
 sudo netstat -nlp
 scrot -s -l style=solid,width=1,color="red"
+scrot -s -l style=solid,width=1,color="red" -e 'xclip -selection clipboard -t image/png -i $f'
 git branch -a | fzf
 git checkout $(git branch -a | fzf)
 git log | fzf --reverse

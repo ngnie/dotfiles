@@ -45,7 +45,7 @@ static const Layout layouts[] = {
 };
 
 /* key definitions */
-#define MODKEY Mod3Mask
+#define MODKEY Mod1Mask
 #define TAGKEYS(KEY,TAG) \
 	{ MODKEY,                       KEY,      view,           {.ui = 1 << TAG} }, \
 	{ MODKEY|ControlMask,           KEY,      toggleview,     {.ui = 1 << TAG} }, \
@@ -62,11 +62,11 @@ static const char *termcmd[]  = { "alacritty", NULL };
 
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
-	{ Mod1Mask,                     XK_p,      spawn,          {.v = dmenucmd } },
-	{ Mod1Mask,                     XK_Return, spawn,          {.v = termcmd } },
+	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
+	{ MODKEY,                       XK_Return, spawn,          {.v = termcmd } },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
-	{ Mod1Mask,                     XK_Tab,    focusstack,     {.i = +1 } },
-	{ Mod1Mask|ShiftMask,           XK_Tab,    focusstack,     {.i = -1 } },
+	{ MODKEY,                       XK_Tab,    focusstack,     {.i = +1 } },
+	{ MODKEY|ShiftMask,             XK_Tab,    focusstack,     {.i = -1 } },
 	//{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
 	//{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
 	{ MODKEY,                       XK_i,      incnmaster,     {.i = +1 } },
@@ -107,9 +107,9 @@ static const Button buttons[] = {
 	{ ClkLtSymbol,          0,              Button3,        setlayout,      {.v = &layouts[2]} },
 	{ ClkWinTitle,          0,              Button2,        zoom,           {0} },
 	{ ClkStatusText,        0,              Button2,        spawn,          {.v = termcmd } },
-	{ ClkClientWin,         Mod1Mask,       Button1,        movemouse,      {0} },
-	{ ClkClientWin,         Mod1Mask,       Button2,        togglefloating, {0} },
-	{ ClkClientWin,         Mod1Mask,       Button3,        resizemouse,    {0} },
+	{ ClkClientWin,         MODKEY,       Button1,        movemouse,        {0} },
+	{ ClkClientWin,         MODKEY,       Button2,        togglefloating,   {0} },
+	{ ClkClientWin,         MODKEY,       Button3,        resizemouse,      {0} },
 	{ ClkTagBar,            0,              Button1,        view,           {0} },
 	{ ClkTagBar,            0,              Button3,        toggleview,     {0} },
 	{ ClkTagBar,            MODKEY,         Button1,        tag,            {0} },
