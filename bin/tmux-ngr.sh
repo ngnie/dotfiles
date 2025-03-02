@@ -14,7 +14,7 @@ tmux send-keys -t $session:1 'nvim' C-m
 # make notes window
 tmux new-window -t $session:2 -n 'notes'
 tmux send-keys -t $session:2 'cd $NOTES_HOME' C-m
-tmux send-keys -t $session:2 clear C-m
+tmux send-keys -t $session:2 'nvim notes-trading.txt' C-m
 
 # make notes windows
 tmux new-window -t $session:3 -n 'todo'

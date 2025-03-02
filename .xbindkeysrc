@@ -80,3 +80,24 @@
 "toggle-layout.sh"
     m:0x40 + c:30
     Mod4 + u
+
+"tmux-select-window.sh 1"
+    m:0x20 + c:10
+    Mod3 + 1
+
+"tmux-select-window.sh 2"
+    m:0x20 + c:11
+    Mod3 + 2
+
+"tmux-select-window.sh 3"
+    m:0x20 + c:12
+    Mod3 + 3
+
+"tmux-select-window.sh 4"
+    m:0x20 + c:13
+    Mod3 + 4
+
+"tmux-select-window.sh 5"
+    m:0x20 + c:14
+    Mod3 + 5
+
