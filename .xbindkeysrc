@@ -101,3 +101,7 @@
     m:0x20 + c:14
     Mod3 + 5
 
+"select-to-clipboard.sh"
+    m:0x40 + c:26
+    Mod4 + e
+

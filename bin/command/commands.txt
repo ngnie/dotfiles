@@ -1,3 +1,6 @@
+tmux split-window 'ping -c 3 127.0.0.1 ; read'
+iwctl station wlan0 scan
+iwctl station wlan0 connect basse
 pamixer -i 10
 pamixer -d 10
 pacman -Syu
@@ -20,6 +23,7 @@ fc-list
 sudo netstat -nlp
 scrot -s -l style=solid,width=1,color="red"
 scrot -s -l style=solid,width=1,color="red" -e 'xclip -selection clipboard -t image/png -i $f'
+scrot -s -l style=solid,width=1,color="red" - | xclip -selection clipboard -t image/png
 git branch -a | fzf
 git checkout $(git branch -a | fzf)
 git log | fzf --reverse

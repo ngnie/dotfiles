@@ -1,0 +1,10 @@
+[
+  {
+    "name":"select to clipboard",
+    "command":"scrot -s -l style=solid,width=1,color='red' -e 'xclip -selection clipboard -t image/png -i $f'"
+  },
+  {
+    "name":"select to file",
+    "command":"scrot -s -l style=solid,width=1,color='red'"
+  }
+]

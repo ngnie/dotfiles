@@ -168,6 +168,8 @@ export DOTFILES_HOME=$REPOS_HOME/dotfiles
 export NOTES_HOME=$REPOS_HOME/notes
 export TODO_HOME=/home/nikolaj/ngr/todo
 export TRADING_HOME=/home/nikolaj/ngr/trading
+export DOWNLOAD_HOME=/home/nikolaj/Downloads
+export DESKTOP_HOME=/home/nikolaj/ngr/desktop
 export SRC_HOME=/home/nikolaj/.local/src
 export EDITOR=/usr/bin/nvim
 export WAVELY_HOME=/home/nikolaj/ngr/work/customer/greenwave
@@ -177,15 +179,15 @@ export POSTMAN_HOME=/opt/postman
 export DIFF_SO_FANCY_HOME=$SRC_HOME/diff-so-fancy
 export LF_HOME=/opt/lf
 export IDEA_HOME=/opt/idea
-export PATH=$PATH:$LF_HOME:$DOTFILES_HOME/bin:$DIFF_SO_FANCY_HOME:$POSTMAN_HOME:$IDEA_HOME/bin
+export PATH=$PATH:$LF_HOME:$DOTFILES_HOME/bin:$DOTFILES_HOME/bin/command:$DIFF_SO_FANCY_HOME:$POSTMAN_HOME:$IDEA_HOME/bin
 
 # sourcing functions
 source $DOTFILES_HOME/bin/lfcd.sh
 source $DOTFILES_HOME/bin/git-functions.sh
-source $DOTFILES_HOME/bin/reddit.sh
+source $DOTFILES_HOME/bin/command/reddit.sh
 
 # aliases
-alias cmd='print -z $(cat $DOTFILES_HOME/commands.txt | fzf)'
+alias cmd='print -z $(cat $DOTFILES_HOME/bin/command/commands.txt | fzf)'
 alias lf='lfcd'
 alias pdf='zathura'
 alias lg='lazygit'
